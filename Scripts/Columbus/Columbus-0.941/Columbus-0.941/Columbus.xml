@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Columbus>
+	<settings>
+		<Color>3A3A3A</Color>
+		<Compress>1</Compress>
+		<Debug>0</Debug>
+		<Fade>65</Fade>
+		<Font Bold="0" Size="13" Type="Candara"></Font>
+		<FreqSort>1</FreqSort>
+		<Hotkeys Main="^!P"></Hotkeys>
+		<LargeIcons>1</LargeIcons>
+		<LastUpdatePrompt>0</LastUpdatePrompt>
+		<List>items</List>
+		<Pos Height="355" Width="500" X="1418" Y="683"></Pos>
+		<Prefix>/</Prefix>
+		<Rows>11</Rows>
+		<RowSnap>1</RowSnap>
+		<RunAsAdmin>1</RunAsAdmin>
+		<ScanTime>5</ScanTime>
+		<StartUp>1</StartUp>
+		<UpdateCheck>1</UpdateCheck>
+		<UpdateExt>ahk</UpdateExt>
+		<Verify>0</Verify>
+	</settings>
+</Columbus>

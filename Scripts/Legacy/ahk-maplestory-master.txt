@@ -1,0 +1,41 @@
+Read MP and Health from memory #2
+Interesting sources
+- CheatEngine Forums
+- CheatEngine Tutorial
+
+Interesting thread:
+- https://autohotkey.com/board/topic/33888-readmemory-function/page-4
+
+
+
+
+
+Features #1
+
+Design a gui for:
+
+Add & delete timed hotkeys
+* eg: create hotkey for E to be pressed every X seconds
+
+Add hotkeys for hotkey to be pressed when health or mana is below X percent (or below value? Either read from memory or use image detection to read number from game window)
+* Add health input and calculate which percentage is how much health which can be used to set to drink pot under % health or number
+ * example: player has 1315 health, 1% of healthbar is 13.15 health. to drink a potion at 600 health script would have to be set to drink pot at 45.62% healthbar remaining
+
+Option to choose between notifying skill timers /health and action upon them
+
+Integrate loot script
+* Options for setting long/short cooldown keys etc
+* Enter & escape hotkeys to suspend and pause script
+
+Ability to set a warning after using X amount of health and or mana pots
+Ability to enable a warning after using a lot of the same potion in a short time, for example when the game is lagging
+
+Check pixel colors around the health & mana bar to detect if another window is covering up maplestory's window. Enable some kind of warning when this is the case
+* Look into capturing window even if another window is infront of it?
+
+Detect ingame lag somehow to avoid spamming pots and re-applying boosts when game is lagging
+
+Links:
+* https://autohotkey.com/board/topic/81276-resolvedto-make-a-script-for-maplestory-for-rebuffing/
+* https://autohotkey.com/board/topic/92237-check-and-monitor-memory-address-cheat-engine-x-ahk/?hl=read+memory#entry581592
+https://autohotkey.com/board/topic/93125-how-to-find-process-memory-and-read-it/

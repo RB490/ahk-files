@@ -1,0 +1,35 @@
+Only load the client control instead of the whole webpage
+
+https://autohotkey.com/boards/viewtopic.php?t=19300
+
+https://github.com/search?utf8=%E2%9C%93&q=runescape+client
+- https://github.com/bmoyer/osrsclient
+- https://github.com/LoveLeAnon/OSLoader
+- https://github.com/07kit/07kit
+- https://github.com/brandonjabr/OSLight/
+
+
+Or just load the webpage and remove all elements except the game frame
+- https://autohotkey.com/board/topic/86785-ie-com-remove-element/
+- https://msdn.microsoft.com/library/ms536702
+- https://stackoverflow.com/questions/7561277/remove-an-element-from-the-dom-from-reference-to-element-only
+- https://www.youtube.com/watch?v=JNLpqSs3yBk
+- https://autohotkey.com/board/topic/86831-comobjconnect-seems-to-stop-connecting-after-second-reload/
+
+AHK COM Tutorials
+- https://autohotkey.com/board/topic/47052-basic-webpage-controls-with-javascript-com-tutorial/
+- https://autohotkey.com/board/topic/32012-ie-and-gui-browser-com-tutorial/
+- https://autohotkey.com/board/topic/64563-basic-ahk-v11-com-tutorial-for-webpages/
+
+COM Tutorials
+- https://www.w3schools.com/js/js_htmldom.asp
+
+
+
+
+
+
+Option to have 2 game windows in 1 gui
+
+How would they resize
+- resize game window 1 as normal except with half the gui height. And use its coordinates to position game window 2 in the lower half of the gui

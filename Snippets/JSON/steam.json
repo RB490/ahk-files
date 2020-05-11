@@ -1,0 +1,2139 @@
+{
+	"result": {
+		"status": 1,
+		"items": [
+			{
+				"id": 4924696929,
+				"original_id": 4226380369,
+				"defindex": 7,
+				"level": 1,
+				"quality": 4,
+				"inventory": 2,
+				"quantity": 1,
+				"rarity": 5,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1133314048,
+						"float_value": 282
+					},
+					{
+						"defindex": 7,
+						"value": 1145056431,
+						"float_value": 768.69818115234375
+					},
+					{
+						"defindex": 8,
+						"value": 1051495304,
+						"float_value": 0.33700203895568848
+					},
+					{
+						"defindex": 75,
+						"value": 1454313600,
+						"float_value": 96242700910592
+					},
+					{
+						"defindex": 113,
+						"value": 875,
+						"float_value": 1.2261361562842149e-042
+					},
+					{
+						"defindex": 117,
+						"value": 878,
+						"float_value": 1.2303400516771894e-042
+					},
+					{
+						"defindex": 121,
+						"value": 872,
+						"float_value": 1.2219322608912405e-042
+					},
+					{
+						"defindex": 125,
+						"value": 869,
+						"float_value": 1.217728365498266e-042
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.43999999761581421
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.10000000149011612
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_rif_ak47_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 90,
+						"float_value": 1.2611686178923354e-043
+					}
+				]
+				
+			},
+			{
+				"id": 4924703344,
+				"original_id": 2360742932,
+				"defindex": 60,
+				"level": 1,
+				"quality": 4,
+				"inventory": 3,
+				"quantity": 1,
+				"rarity": 5,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1133936640,
+						"float_value": 301
+					},
+					{
+						"defindex": 7,
+						"value": 1146257408,
+						"float_value": 842
+					},
+					{
+						"defindex": 8,
+						"value": 1047541701,
+						"float_value": 0.23458774387836456
+					},
+					{
+						"defindex": 75,
+						"value": 1454313600,
+						"float_value": 96242700910592
+					},
+					{
+						"defindex": 117,
+						"value": 404,
+						"float_value": 5.661245795872261e-043
+					},
+					{
+						"defindex": 121,
+						"value": 407,
+						"float_value": 5.7032847498020055e-043
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.40000000596046448
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.40000000596046448
+					},
+					{
+						"defindex": 142,
+						"value": "models/weapons/w_rif_m4a1_s_icon.mdl"
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_rif_m4a1_s_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 40,
+						"float_value": 5.6051938572992683e-044
+					},
+					{
+						"defindex": 22,
+						"value": 1,
+						"float_value": 1.4012984643248171e-045
+					},
+					{
+						"defindex": 15,
+						"value": 0,
+						"float_value": 0.090000003576278687
+					},
+					{
+						"defindex": 10,
+						"value": 1,
+						"float_value": 1.4012984643248171e-045
+					},
+					{
+						"defindex": 19,
+						"value": 3100,
+						"float_value": 4.3440252394069329e-042
+					},
+					{
+						"defindex": 20,
+						"value": 20,
+						"float_value": 2.8025969286496341e-044
+					},
+					{
+						"defindex": 23,
+						"value": 0,
+						"float_value": 0.34999999403953552
+					},
+					{
+						"defindex": 24,
+						"value": 0,
+						"float_value": 0.89999997615814209
+					},
+					{
+						"defindex": 25,
+						"value": 3,
+						"float_value": 4.2038953929744512e-045
+					},
+					{
+						"defindex": 92,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 26,
+						"value": 225,
+						"float_value": 225
+					},
+					{
+						"defindex": 27,
+						"value": 225,
+						"float_value": 225
+					},
+					{
+						"defindex": 29,
+						"value": 4,
+						"float_value": 5.6051938572992683e-045
+					},
+					{
+						"defindex": 30,
+						"value": 3,
+						"float_value": 4.2038953929744512e-045
+					},
+					{
+						"defindex": 31,
+						"value": 2,
+						"float_value": 2
+					},
+					{
+						"defindex": 32,
+						"value": 33,
+						"float_value": 4.6242849322718963e-044
+					},
+					{
+						"defindex": 33,
+						"value": 8192,
+						"float_value": 8192
+					},
+					{
+						"defindex": 34,
+						"value": 0,
+						"float_value": 0.99000000953674316
+					},
+					{
+						"defindex": 35,
+						"value": 1,
+						"float_value": 1.4012984643248171e-045
+					},
+					{
+						"defindex": 36,
+						"value": 0,
+						"float_value": 0.10000000149011612
+					},
+					{
+						"defindex": 37,
+						"value": 1,
+						"float_value": 1.5
+					},
+					{
+						"defindex": 38,
+						"value": 60,
+						"float_value": 60
+					},
+					{
+						"defindex": 41,
+						"value": 0,
+						"float_value": 0.60000002384185791
+					},
+					{
+						"defindex": 42,
+						"value": 3,
+						"float_value": 3.6800000667572021
+					},
+					{
+						"defindex": 43,
+						"value": 4,
+						"float_value": 4.9000000953674316
+					},
+					{
+						"defindex": 44,
+						"value": 0,
+						"float_value": 0.65600001811981201
+					},
+					{
+						"defindex": 45,
+						"value": 0,
+						"float_value": 0.19699999690055847
+					},
+					{
+						"defindex": 46,
+						"value": 110,
+						"float_value": 110.99400329589844
+					},
+					{
+						"defindex": 47,
+						"value": 12,
+						"float_value": 12
+					},
+					{
+						"defindex": 48,
+						"value": 92,
+						"float_value": 92.879997253417969
+					},
+					{
+						"defindex": 49,
+						"value": 0,
+						"float_value": 0.5
+					},
+					{
+						"defindex": 50,
+						"value": 3,
+						"float_value": 3.6800000667572021
+					},
+					{
+						"defindex": 51,
+						"value": 4,
+						"float_value": 4.9000000953674316
+					},
+					{
+						"defindex": 52,
+						"value": 0,
+						"float_value": 0.65600001811981201
+					},
+					{
+						"defindex": 53,
+						"value": 0,
+						"float_value": 0.19699999690055847
+					},
+					{
+						"defindex": 54,
+						"value": 113,
+						"float_value": 113.6719970703125
+					},
+					{
+						"defindex": 55,
+						"value": 7,
+						"float_value": 7
+					},
+					{
+						"defindex": 56,
+						"value": 122,
+						"float_value": 122
+					},
+					{
+						"defindex": 57,
+						"value": 0,
+						"float_value": 0.30262500047683716
+					},
+					{
+						"defindex": 58,
+						"value": 0,
+						"float_value": 0.4236760139465332
+					},
+					{
+						"defindex": 59,
+						"value": 38965,
+						"float_value": 38965
+					},
+					{
+						"defindex": 60,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 64,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 61,
+						"value": 65,
+						"float_value": 65
+					},
+					{
+						"defindex": 65,
+						"value": 65,
+						"float_value": 65
+					},
+					{
+						"defindex": 62,
+						"value": 25,
+						"float_value": 25
+					},
+					{
+						"defindex": 63,
+						"value": 3,
+						"float_value": 3
+					},
+					{
+						"defindex": 66,
+						"value": 21,
+						"float_value": 21
+					},
+					{
+						"defindex": 67,
+						"value": 0,
+						"float_value": 0
+					}
+				]
+				
+			},
+			{
+				"id": 4924712920,
+				"original_id": 4924452031,
+				"defindex": 27,
+				"level": 1,
+				"quality": 9,
+				"inventory": 7,
+				"quantity": 1,
+				"rarity": 3,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1133608960,
+						"float_value": 291
+					},
+					{
+						"defindex": 7,
+						"value": 1142074527,
+						"float_value": 586.69720458984375
+					},
+					{
+						"defindex": 8,
+						"value": 1040863883,
+						"float_value": 0.13508050143718719
+					},
+					{
+						"defindex": 75,
+						"value": 1454313600,
+						"float_value": 96242700910592
+					},
+					{
+						"defindex": 80,
+						"value": 8,
+						"float_value": 1.1210387714598537e-044
+					},
+					{
+						"defindex": 81,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.34999999403953552
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.10000000149011612
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_shot_mag7_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 32,
+						"float_value": 4.4841550858394146e-044
+					}
+				]
+				
+			},
+			{
+				"id": 4925302058,
+				"original_id": 4865528678,
+				"defindex": 1,
+				"level": 1,
+				"quality": 4,
+				"inventory": 8,
+				"quantity": 1,
+				"rarity": 3,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1140752384,
+						"float_value": 509
+					},
+					{
+						"defindex": 7,
+						"value": 1145423371,
+						"float_value": 791.09442138671875
+					},
+					{
+						"defindex": 8,
+						"value": 1050895502,
+						"float_value": 0.31912654638290405
+					},
+					{
+						"defindex": 75,
+						"value": 1454400000,
+						"float_value": 96967476641792
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.56000000238418579
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.05000000074505806
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_pist_deagle_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 35,
+						"float_value": 4.9045446251368597e-044
+					}
+				]
+				
+			},
+			{
+				"id": 4963706195,
+				"original_id": 4821027983,
+				"defindex": 28,
+				"level": 1,
+				"quality": 4,
+				"inventory": 1,
+				"quantity": 1,
+				"rarity": 1,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1133838336,
+						"float_value": 298
+					},
+					{
+						"defindex": 7,
+						"value": 1143936649,
+						"float_value": 700.35211181640625
+					},
+					{
+						"defindex": 8,
+						"value": 1021348367,
+						"float_value": 0.02740958146750927
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.40000000596046448
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.2199999988079071
+					},
+					{
+						"defindex": 199,
+						"value": 200,
+						"float_value": 2.8025969286496341e-043
+					}
+				]
+				
+			},
+			{
+				"id": 4963706550,
+				"original_id": 4879185647,
+				"defindex": 25,
+				"level": 1,
+				"quality": 4,
+				"inventory": 5,
+				"quantity": 1,
+				"rarity": 1,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1119879168,
+						"float_value": 96
+					},
+					{
+						"defindex": 7,
+						"value": 1138311859,
+						"float_value": 434.52108764648437
+					},
+					{
+						"defindex": 8,
+						"value": 1041468375,
+						"float_value": 0.14408813416957855
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.34999999403953552
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.10000000149011612
+					},
+					{
+						"defindex": 199,
+						"value": 32,
+						"float_value": 4.4841550858394146e-044
+					}
+				]
+				
+			},
+			{
+				"id": 4966691364,
+				"original_id": 4966691364,
+				"defindex": 17,
+				"level": 1,
+				"quality": 4,
+				"inventory": 9,
+				"quantity": 1,
+				"rarity": 2,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1125974016,
+						"float_value": 157
+					},
+					{
+						"defindex": 7,
+						"value": 1129190457,
+						"float_value": 206.07899475097656
+					},
+					{
+						"defindex": 8,
+						"value": 1040959985,
+						"float_value": 0.13651253283023834
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.52999997138977051
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.30000001192092896
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_smg_mac10_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 100,
+						"float_value": 1.4012984643248171e-043
+					}
+				]
+				
+			},
+			{
+				"id": 5025450708,
+				"original_id": 5025450708,
+				"defindex": 2,
+				"level": 1,
+				"quality": 4,
+				"inventory": 12,
+				"quantity": 1,
+				"rarity": 1,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1111228416,
+						"float_value": 47
+					},
+					{
+						"defindex": 7,
+						"value": 1146869490,
+						"float_value": 879.3585205078125
+					},
+					{
+						"defindex": 8,
+						"value": 1052137588,
+						"float_value": 0.35614359378814697
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.56000000238418579
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.05000000074505806
+					},
+					{
+						"defindex": 142,
+						"value": "models/weapons/w_pist_elite_icon.mdl"
+					},
+					{
+						"defindex": 143,
+						"value": "models/weapons/w_pist_elite_buymenu.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 120,
+						"float_value": 1.6815581571897805e-043
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_pist_elite_mag.mdl"
+					}
+				]
+				
+			},
+			{
+				"id": 5102523417,
+				"original_id": 5102523417,
+				"defindex": 34,
+				"level": 1,
+				"quality": 4,
+				"inventory": 14,
+				"quantity": 1,
+				"rarity": 2,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1124925440,
+						"float_value": 141
+					},
+					{
+						"defindex": 7,
+						"value": 1142774059,
+						"float_value": 629.39324951171875
+					},
+					{
+						"defindex": 8,
+						"value": 1044277053,
+						"float_value": 0.1859406977891922
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.52999997138977051
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.30000001192092896
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_smg_mp9_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 120,
+						"float_value": 1.6815581571897805e-043
+					}
+				]
+				
+			},
+			{
+				"id": 5110031254,
+				"original_id": 4266325797,
+				"defindex": 30,
+				"level": 1,
+				"quality": 4,
+				"inventory": 15,
+				"quantity": 1,
+				"rarity": 4,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1131937792,
+						"float_value": 248
+					},
+					{
+						"defindex": 7,
+						"value": 1145782272,
+						"float_value": 813
+					},
+					{
+						"defindex": 8,
+						"value": 1026948811,
+						"float_value": 0.044432442635297775
+					},
+					{
+						"defindex": 113,
+						"value": 620,
+						"float_value": 8.6880504788138658e-043
+					},
+					{
+						"defindex": 117,
+						"value": 620,
+						"float_value": 8.6880504788138658e-043
+					},
+					{
+						"defindex": 121,
+						"value": 620,
+						"float_value": 8.6880504788138658e-043
+					},
+					{
+						"defindex": 125,
+						"value": 953,
+						"float_value": 1.3354374365015507e-042
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.56000000238418579
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.05000000074505806
+					},
+					{
+						"defindex": 199,
+						"value": 120,
+						"float_value": 1.6815581571897805e-043
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_pist_tec9_mag.mdl"
+					}
+				]
+				
+			},
+			{
+				"id": 5110031291,
+				"original_id": 4833970455,
+				"defindex": 39,
+				"level": 1,
+				"quality": 4,
+				"inventory": 16,
+				"quantity": 1,
+				"rarity": 1,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1124597760,
+						"float_value": 136
+					},
+					{
+						"defindex": 7,
+						"value": 1142988248,
+						"float_value": 642.46630859375
+					},
+					{
+						"defindex": 8,
+						"value": 1052277624,
+						"float_value": 0.36031699180603027
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.43999999761581421
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.10000000149011612
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_rif_sg556_mag.mdl"
+					},
+					{
+						"defindex": 150,
+						"value": 1,
+						"float_value": 1.4012984643248171e-045
+					},
+					{
+						"defindex": 157,
+						"value": 1092616192,
+						"float_value": 10
+					},
+					{
+						"defindex": 158,
+						"value": 1090519040,
+						"float_value": 8
+					},
+					{
+						"defindex": 159,
+						"value": 1022739087,
+						"float_value": 0.029999999329447746
+					},
+					{
+						"defindex": 151,
+						"value": "0.720000 -5.120000 -1.330000"
+					},
+					{
+						"defindex": 154,
+						"value": "0.520000 0.040000 0.720000"
+					},
+					{
+						"defindex": 160,
+						"value": 1110704128,
+						"float_value": 45
+					},
+					{
+						"defindex": 161,
+						"value": 1090519040,
+						"float_value": 8
+					},
+					{
+						"defindex": 165,
+						"value": "models/weapons/v_rif_sg556_scopelensmask.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 90,
+						"float_value": 1.2611686178923354e-043
+					}
+				]
+				
+			},
+			{
+				"id": 5110031366,
+				"original_id": 4540196448,
+				"defindex": 32,
+				"level": 1,
+				"quality": 4,
+				"inventory": 18,
+				"quantity": 1,
+				"rarity": 2,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1101529088,
+						"float_value": 21
+					},
+					{
+						"defindex": 7,
+						"value": 1136330032,
+						"float_value": 374.04052734375
+					},
+					{
+						"defindex": 8,
+						"value": 1045267703,
+						"float_value": 0.20070253312587738
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.56000000238418579
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.05000000074505806
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_pist_hkp2000_mag.mdl"
+					},
+					{
+						"defindex": 146,
+						"value": "models/weapons/uid_small.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 52,
+						"float_value": 7.2867520144890488e-044
+					}
+				]
+				
+			},
+			{
+				"id": 5110031392,
+				"original_id": 4583841921,
+				"defindex": 38,
+				"level": 1,
+				"quality": 4,
+				"inventory": 19,
+				"quantity": 1,
+				"rarity": 1,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1110966272,
+						"float_value": 46
+					},
+					{
+						"defindex": 7,
+						"value": 1148501738,
+						"float_value": 978.9830322265625
+					},
+					{
+						"defindex": 8,
+						"value": 1044927101,
+						"float_value": 0.19562716782093048
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.38999998569488525
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.5
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_snip_scar20_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 90,
+						"float_value": 1.2611686178923354e-043
+					}
+				]
+				
+			},
+			{
+				"id": 5110031429,
+				"original_id": 4751611028,
+				"defindex": 11,
+				"level": 1,
+				"quality": 4,
+				"inventory": 20,
+				"quantity": 1,
+				"rarity": 1,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1116995584,
+						"float_value": 74
+					},
+					{
+						"defindex": 7,
+						"value": 1146539616,
+						"float_value": 859.224609375
+					},
+					{
+						"defindex": 8,
+						"value": 1047263635,
+						"float_value": 0.23044423758983612
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.38999998569488525
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.5
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_snip_g3sg1_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 90,
+						"float_value": 1.2611686178923354e-043
+					}
+				]
+				
+			},
+			{
+				"id": 5110031456,
+				"original_id": 4891612298,
+				"defindex": 27,
+				"level": 1,
+				"quality": 4,
+				"inventory": 21,
+				"quantity": 1,
+				"rarity": 2,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1107820544,
+						"float_value": 34
+					},
+					{
+						"defindex": 7,
+						"value": 1133911368,
+						"float_value": 300.228759765625
+					},
+					{
+						"defindex": 8,
+						"value": 1007187648,
+						"float_value": 0.0083290934562683105
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.34999999403953552
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.10000000149011612
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_shot_mag7_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 32,
+						"float_value": 4.4841550858394146e-044
+					}
+				]
+				
+			},
+			{
+				"id": 5110031508,
+				"original_id": 4930397627,
+				"defindex": 24,
+				"level": 1,
+				"quality": 4,
+				"inventory": 22,
+				"quantity": 1,
+				"rarity": 4,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1138360320,
+						"float_value": 436
+					},
+					{
+						"defindex": 7,
+						"value": 1132400581,
+						"float_value": 255.06159973144531
+					},
+					{
+						"defindex": 8,
+						"value": 1049885531,
+						"float_value": 0.28902706503868103
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.52999997138977051
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.30000001192092896
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_smg_ump45_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 100,
+						"float_value": 1.4012984643248171e-043
+					}
+				]
+				
+			},
+			{
+				"id": 5110926667,
+				"original_id": 4931046390,
+				"defindex": 36,
+				"level": 1,
+				"quality": 4,
+				"inventory": 25,
+				"quantity": 1,
+				"rarity": 5,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1137311744,
+						"float_value": 404
+					},
+					{
+						"defindex": 7,
+						"value": 1132652621,
+						"float_value": 261.81484985351562
+					},
+					{
+						"defindex": 8,
+						"value": 1046388218,
+						"float_value": 0.21739950776100159
+					},
+					{
+						"defindex": 113,
+						"value": 993,
+						"float_value": 1.3914893750745434e-042
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.56000000238418579
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.05000000074505806
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_pist_p250_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 26,
+						"float_value": 3.6433760072445244e-044
+					}
+				]
+				
+			},
+			{
+				"id": 5110936689,
+				"original_id": 5110936689,
+				"defindex": 16,
+				"level": 1,
+				"quality": 4,
+				"inventory": 11,
+				"quantity": 1,
+				"rarity": 4,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1139802112,
+						"float_value": 480
+					},
+					{
+						"defindex": 7,
+						"value": 1124978277,
+						"float_value": 141.80622863769531
+					},
+					{
+						"defindex": 8,
+						"value": 1031772729,
+						"float_value": 0.062402937561273575
+					},
+					{
+						"defindex": 75,
+						"value": 1456041600,
+						"float_value": 110738215534592
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.43999999761581421
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.10000000149011612
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_rif_m4a1_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 90,
+						"float_value": 1.2611686178923354e-043
+					}
+				]
+				
+			},
+			{
+				"id": 5110943710,
+				"original_id": 5110943710,
+				"defindex": 28,
+				"level": 1,
+				"quality": 4,
+				"inventory": 13,
+				"quantity": 1,
+				"rarity": 4,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1140883456,
+						"float_value": 514
+					},
+					{
+						"defindex": 7,
+						"value": 1145173033,
+						"float_value": 775.81500244140625
+					},
+					{
+						"defindex": 8,
+						"value": 1054795332,
+						"float_value": 0.43535053730010986
+					},
+					{
+						"defindex": 75,
+						"value": 1456041600,
+						"float_value": 110738215534592
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.40000000596046448
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.2199999988079071
+					},
+					{
+						"defindex": 199,
+						"value": 200,
+						"float_value": 2.8025969286496341e-043
+					}
+				]
+				
+			},
+			{
+				"id": 5110988422,
+				"original_id": 4924702703,
+				"defindex": 9,
+				"level": 1,
+				"quality": 4,
+				"inventory": 4,
+				"quantity": 1,
+				"rarity": 4,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1137967104,
+						"float_value": 424
+					},
+					{
+						"defindex": 7,
+						"value": 1147972894,
+						"float_value": 946.7049560546875
+					},
+					{
+						"defindex": 8,
+						"value": 1050999038,
+						"float_value": 0.32221215963363647
+					},
+					{
+						"defindex": 75,
+						"value": 1454313600,
+						"float_value": 96242700910592
+					},
+					{
+						"defindex": 125,
+						"value": 361,
+						"float_value": 5.0586874562125896e-043
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.38999998569488525
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.5
+					},
+					{
+						"defindex": 16,
+						"value": 1,
+						"float_value": 1.4012984643248171e-045
+					},
+					{
+						"defindex": 199,
+						"value": 30,
+						"float_value": 4.2038953929744512e-044
+					},
+					{
+						"defindex": 142,
+						"value": "models/weapons/w_snip_awp_icon.mdl"
+					}
+				]
+				
+			},
+			{
+				"id": 5184301113,
+				"original_id": 5184301113,
+				"defindex": 36,
+				"level": 1,
+				"quality": 4,
+				"inventory": 31,
+				"quantity": 1,
+				"rarity": 1,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1117388800,
+						"float_value": 77
+					},
+					{
+						"defindex": 7,
+						"value": 1133338939,
+						"float_value": 282.75961303710937
+					},
+					{
+						"defindex": 8,
+						"value": 1061464755,
+						"float_value": 0.76822966337203979
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.56000000238418579
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.05000000074505806
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_pist_p250_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 26,
+						"float_value": 3.6433760072445244e-044
+					}
+				]
+				
+			},
+			{
+				"id": 5186863554,
+				"original_id": 5186819529,
+				"defindex": 9,
+				"level": 1,
+				"quality": 4,
+				"inventory": 32,
+				"quantity": 1,
+				"rarity": 4,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1132134400,
+						"float_value": 251
+					},
+					{
+						"defindex": 7,
+						"value": 1135528556,
+						"float_value": 349.5814208984375
+					},
+					{
+						"defindex": 8,
+						"value": 1037531602,
+						"float_value": 0.10521282255649567
+					},
+					{
+						"defindex": 75,
+						"value": 1456646400,
+						"float_value": 115811645652992
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.38999998569488525
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.5
+					},
+					{
+						"defindex": 16,
+						"value": 1,
+						"float_value": 1.4012984643248171e-045
+					},
+					{
+						"defindex": 199,
+						"value": 30,
+						"float_value": 4.2038953929744512e-044
+					},
+					{
+						"defindex": 142,
+						"value": "models/weapons/w_snip_awp_icon.mdl"
+					}
+				]
+				
+			},
+			{
+				"id": 5187411043,
+				"original_id": 5187411043,
+				"defindex": 10,
+				"level": 1,
+				"quality": 4,
+				"inventory": 6,
+				"quantity": 1,
+				"rarity": 4,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1139703808,
+						"float_value": 477
+					},
+					{
+						"defindex": 7,
+						"value": 1148731392,
+						"float_value": 993
+					},
+					{
+						"defindex": 8,
+						"value": 1041202014,
+						"float_value": 0.1401190459728241
+					},
+					{
+						"defindex": 75,
+						"value": 1456041600,
+						"float_value": 110738215534592
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.43999999761581421
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.10000000149011612
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_rif_famas_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 90,
+						"float_value": 1.2611686178923354e-043
+					},
+					{
+						"defindex": 13,
+						"value": 1,
+						"float_value": 1.4012984643248171e-045
+					},
+					{
+						"defindex": 14,
+						"value": 0,
+						"float_value": 0.55000001192092896
+					},
+					{
+						"defindex": 15,
+						"value": 0,
+						"float_value": 0.075000002980232239
+					}
+				]
+				
+			},
+			{
+				"id": 5189845244,
+				"original_id": 5189845244,
+				"defindex": 4186,
+				"level": 1,
+				"quality": 4,
+				"inventory": 10,
+				"quantity": 1,
+				"rarity": 1,
+				"attributes": [
+					{
+						"defindex": 68,
+						"value": 111,
+						"float_value": 1.5554412954005469e-043
+					}
+				]
+				
+			},
+			{
+				"id": 5196100538,
+				"original_id": 3443475165,
+				"defindex": 61,
+				"level": 1,
+				"quality": 4,
+				"inventory": 23,
+				"quantity": 1,
+				"rarity": 5,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1135181824,
+						"float_value": 339
+					},
+					{
+						"defindex": 7,
+						"value": 1110743535,
+						"float_value": 45.150325775146484
+					},
+					{
+						"defindex": 8,
+						"value": 1048706603,
+						"float_value": 0.25389227271080017
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.56000000238418579
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.05000000074505806
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_pist_223_mag.mdl"
+					},
+					{
+						"defindex": 10,
+						"value": 1,
+						"float_value": 1.4012984643248171e-045
+					},
+					{
+						"defindex": 41,
+						"value": 2,
+						"float_value": 2.5
+					},
+					{
+						"defindex": 49,
+						"value": 1,
+						"float_value": 1.5
+					},
+					{
+						"defindex": 47,
+						"value": 71,
+						"float_value": 71
+					},
+					{
+						"defindex": 55,
+						"value": 52,
+						"float_value": 52
+					},
+					{
+						"defindex": 48,
+						"value": 13,
+						"float_value": 13.869999885559082
+					},
+					{
+						"defindex": 62,
+						"value": 29,
+						"float_value": 29
+					},
+					{
+						"defindex": 66,
+						"value": 23,
+						"float_value": 23
+					},
+					{
+						"defindex": 25,
+						"value": 1,
+						"float_value": 1.4012984643248171e-045
+					},
+					{
+						"defindex": 92,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 20,
+						"value": 12,
+						"float_value": 1.6815581571897805e-044
+					},
+					{
+						"defindex": 199,
+						"value": 24,
+						"float_value": 3.363116314379561e-044
+					}
+				]
+				
+			},
+			{
+				"id": 5196100580,
+				"original_id": 717104677,
+				"defindex": 1,
+				"level": 1,
+				"quality": 4,
+				"inventory": 24,
+				"quantity": 1,
+				"rarity": 5,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1135575040,
+						"float_value": 351
+					},
+					{
+						"defindex": 7,
+						"value": 1138648341,
+						"float_value": 444.78970336914062
+					},
+					{
+						"defindex": 8,
+						"value": 1037035661,
+						"float_value": 0.10151777416467667
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.56000000238418579
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.05000000074505806
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_pist_deagle_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 35,
+						"float_value": 4.9045446251368597e-044
+					}
+				]
+				
+			},
+			{
+				"id": 5196100612,
+				"original_id": 5109626665,
+				"defindex": 3,
+				"level": 1,
+				"quality": 4,
+				"inventory": 26,
+				"quantity": 1,
+				"rarity": 5,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1138065408,
+						"float_value": 427
+					},
+					{
+						"defindex": 7,
+						"value": 1134304852,
+						"float_value": 312.2369384765625
+					},
+					{
+						"defindex": 8,
+						"value": 1054859068,
+						"float_value": 0.43725001811981201
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.56000000238418579
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.05000000074505806
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_pist_fiveseven_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 100,
+						"float_value": 1.4012984643248171e-043
+					}
+				]
+				
+			},
+			{
+				"id": 5196100671,
+				"original_id": 4370531818,
+				"defindex": 17,
+				"level": 1,
+				"quality": 4,
+				"inventory": 27,
+				"quantity": 1,
+				"rarity": 4,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1133379584,
+						"float_value": 284
+					},
+					{
+						"defindex": 7,
+						"value": 1137025970,
+						"float_value": 395.27886962890625
+					},
+					{
+						"defindex": 8,
+						"value": 1049896423,
+						"float_value": 0.28935167193412781
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.52999997138977051
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.30000001192092896
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_smg_mac10_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 100,
+						"float_value": 1.4012984643248171e-043
+					}
+				]
+				
+			},
+			{
+				"id": 5196100700,
+				"original_id": 866500249,
+				"defindex": 4,
+				"level": 1,
+				"quality": 4,
+				"inventory": 28,
+				"quantity": 1,
+				"rarity": 4,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1130758144,
+						"float_value": 230
+					},
+					{
+						"defindex": 7,
+						"value": 1133498149,
+						"float_value": 287.61831665039062
+					},
+					{
+						"defindex": 8,
+						"value": 1029905048,
+						"float_value": 0.055445283651351929
+					},
+					{
+						"defindex": 113,
+						"value": 997,
+						"float_value": 1.3970945689318426e-042
+					},
+					{
+						"defindex": 125,
+						"value": 993,
+						"float_value": 1.3914893750745434e-042
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.56000000238418579
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.05000000074505806
+					},
+					{
+						"defindex": 146,
+						"value": "models/weapons/uid_small.mdl"
+					},
+					{
+						"defindex": 13,
+						"value": 1,
+						"float_value": 1.4012984643248171e-045
+					},
+					{
+						"defindex": 14,
+						"value": 0,
+						"float_value": 0.5
+					},
+					{
+						"defindex": 15,
+						"value": 0,
+						"float_value": 0.05000000074505806
+					},
+					{
+						"defindex": 199,
+						"value": 120,
+						"float_value": 1.6815581571897805e-043
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_pist_glock18_mag.mdl"
+					}
+				]
+				
+			},
+			{
+				"id": 5196100762,
+				"original_id": 4494036020,
+				"defindex": 27,
+				"level": 1,
+				"quality": 4,
+				"inventory": 29,
+				"quantity": 1,
+				"rarity": 4,
+				"attributes": [
+					{
+						"defindex": 6,
+						"value": 1138196480,
+						"float_value": 431
+					},
+					{
+						"defindex": 7,
+						"value": 1143869404,
+						"float_value": 696.247802734375
+					},
+					{
+						"defindex": 8,
+						"value": 1049696192,
+						"float_value": 0.28338432312011719
+					},
+					{
+						"defindex": 113,
+						"value": 953,
+						"float_value": 1.3354374365015507e-042
+					},
+					{
+						"defindex": 117,
+						"value": 734,
+						"float_value": 1.0285530728144157e-042
+					},
+					{
+						"defindex": 121,
+						"value": 734,
+						"float_value": 1.0285530728144157e-042
+					},
+					{
+						"defindex": 125,
+						"value": 734,
+						"float_value": 1.0285530728144157e-042
+					},
+					{
+						"defindex": 147,
+						"value": "models/weapons/stattrack.mdl"
+					},
+					{
+						"defindex": 39,
+						"value": 0,
+						"float_value": 0.34999999403953552
+					},
+					{
+						"defindex": 40,
+						"value": 0,
+						"float_value": 0.10000000149011612
+					},
+					{
+						"defindex": 145,
+						"value": "models/weapons/w_shot_mag7_mag.mdl"
+					},
+					{
+						"defindex": 199,
+						"value": 32,
+						"float_value": 4.4841550858394146e-044
+					}
+				]
+				
+			},
+			{
+				"id": 5196131350,
+				"original_id": 3647474720,
+				"defindex": 1327,
+				"level": 1,
+				"quality": 4,
+				"inventory": 17,
+				"quantity": 1,
+				"rarity": 6,
+				"flag_cannot_trade": true,
+				"flag_cannot_craft": true,
+				"attributes": [
+					{
+						"defindex": 97,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 98,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 99,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 101,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 103,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 104,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 171,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 172,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 173,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 174,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 175,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 177,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 179,
+						"value": 0,
+						"float_value": 0
+					},
+					{
+						"defindex": 2,
+						"value": 1,
+						"float_value": 1.4012984643248171e-045
+					},
+					{
+						"defindex": 71,
+						"value": 5,
+						"float_value": 7.0064923216240854e-045
+					},
+					{
+						"defindex": 69,
+						"value": 1065353216,
+						"float_value": 1
+					},
+					{
+						"defindex": 144,
+						"value": "models/inventory_items/bloodhound_bronze.mdl"
+					},
+					{
+						"defindex": 73,
+						"value": 9,
+						"float_value": 1.2611686178923354e-044
+					}
+				]
+				
+			}
+		]
+		
+	}
+}
