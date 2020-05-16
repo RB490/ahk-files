@@ -1,3 +1,4 @@
+; source: https://github.com/Run1e/Columbus
 Class Gui {
 	static Instances := []
 	static params := {Size:["A_GuiWidth", "A_GuiHeight"], DropFiles:["A_GuiEvent"]}

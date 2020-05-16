@@ -1,3 +1,4 @@
+; download website to string properly. UrlDownloadToFile will mess up certain characters eg. '-'
 DownloadToString(url, encoding = "utf-8")
 {
     static a := "AutoHotkey/" A_AhkVersion
