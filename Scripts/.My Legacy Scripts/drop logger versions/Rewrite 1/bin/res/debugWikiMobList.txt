@@ -1,0 +1,5369 @@
+{
+  "items": [
+    {
+      "id": 27806,
+      "title": "A Doubt",
+      "url": "/wiki/A_Doubt",
+      "ns": 0
+    },
+    {
+      "id": 12869,
+      "title": "Aberrant spectre",
+      "url": "/wiki/Aberrant_spectre",
+      "ns": 0
+    },
+    {
+      "id": 80108,
+      "title": "Abhorrent spectre",
+      "url": "/wiki/Abhorrent_spectre",
+      "ns": 0
+    },
+    {
+      "id": 12840,
+      "title": "Abyssal demon",
+      "url": "/wiki/Abyssal_demon",
+      "ns": 0
+    },
+    {
+      "id": 24035,
+      "title": "Abyssal guardian",
+      "url": "/wiki/Abyssal_guardian",
+      "ns": 0
+    },
+    {
+      "id": 18190,
+      "title": "Abyssal leech",
+      "url": "/wiki/Abyssal_leech",
+      "ns": 0
+    },
+    {
+      "id": 65167,
+      "title": "Abyssal Sire",
+      "url": "/wiki/Abyssal_Sire",
+      "ns": 0
+    },
+    {
+      "id": 25471,
+      "title": "Abyssal walker",
+      "url": "/wiki/Abyssal_walker",
+      "ns": 0
+    },
+    {
+      "id": 85083,
+      "title": "Adamant dragon",
+      "url": "/wiki/Adamant_dragon",
+      "ns": 0
+    },
+    {
+      "id": 28250,
+      "title": "Afflicted",
+      "url": "/wiki/Afflicted",
+      "ns": 0
+    },
+    {
+      "id": 12940,
+      "title": "Agrith Naar",
+      "url": "/wiki/Agrith_Naar",
+      "ns": 0
+    },
+    {
+      "id": 18096,
+      "title": "Agrith-Na-Na",
+      "url": "/wiki/Agrith-Na-Na",
+      "ns": 0
+    },
+    {
+      "id": 13850,
+      "title": "Ahrim the Blighted",
+      "url": "/wiki/Ahrim_the_Blighted",
+      "ns": 0
+    },
+    {
+      "id": 20272,
+      "title": "Air elemental",
+      "url": "/wiki/Air_elemental",
+      "ns": 0
+    },
+    {
+      "id": 29352,
+      "title": "Air wizard",
+      "url": "/wiki/Air_wizard",
+      "ns": 0
+    },
+    {
+      "id": 15851,
+      "title": "Al-Kharid warrior",
+      "url": "/wiki/Al-Kharid_warrior",
+      "ns": 0
+    },
+    {
+      "id": 18593,
+      "title": "Albino bat",
+      "url": "/wiki/Albino_bat",
+      "ns": 0
+    },
+    {
+      "id": 93824,
+      "title": "Alexis",
+      "url": "/wiki/Alexis",
+      "ns": 0
+    },
+    {
+      "id": 24354,
+      "title": "Alomone",
+      "url": "/wiki/Alomone",
+      "ns": 0
+    },
+    {
+      "id": 94997,
+      "title": "Alrik",
+      "url": "/wiki/Alrik",
+      "ns": 0
+    },
+    {
+      "id": 103048,
+      "title": "Ammonite Crab",
+      "url": "/wiki/Ammonite_Crab",
+      "ns": 0
+    },
+    {
+      "id": 76886,
+      "title": "Ancient Wizard",
+      "url": "/wiki/Ancient_Wizard",
+      "ns": 0
+    },
+    {
+      "id": 102967,
+      "title": "Ancient Wyvern",
+      "url": "/wiki/Ancient_Wyvern",
+      "ns": 0
+    },
+    {
+      "id": 103035,
+      "title": "Ancient Zygomite",
+      "url": "/wiki/Ancient_Zygomite",
+      "ns": 0
+    },
+    {
+      "id": 43785,
+      "title": "Angry barbarian spirit",
+      "url": "/wiki/Angry_barbarian_spirit",
+      "ns": 0
+    },
+    {
+      "id": 42220,
+      "title": "Angry bear",
+      "url": "/wiki/Angry_bear",
+      "ns": 0
+    },
+    {
+      "id": 48588,
+      "title": "Angry giant rat",
+      "url": "/wiki/Angry_giant_rat",
+      "ns": 0
+    },
+    {
+      "id": 20040,
+      "title": "Angry goblin",
+      "url": "/wiki/Angry_goblin",
+      "ns": 0
+    },
+    {
+      "id": 17673,
+      "title": "Angry unicorn",
+      "url": "/wiki/Angry_unicorn",
+      "ns": 0
+    },
+    {
+      "id": 54197,
+      "title": "Angry vampyre",
+      "url": "/wiki/Angry_vampyre",
+      "ns": 0
+    },
+    {
+      "id": 13407,
+      "title": "Animated Adamant Armour",
+      "url": "/wiki/Animated_Adamant_Armour",
+      "ns": 0
+    },
+    {
+      "id": 41015,
+      "title": "Animated Black Armour",
+      "url": "/wiki/Animated_Black_Armour",
+      "ns": 0
+    },
+    {
+      "id": 54202,
+      "title": "Animated Bronze Armour",
+      "url": "/wiki/Animated_Bronze_Armour",
+      "ns": 0
+    },
+    {
+      "id": 79004,
+      "title": "Animated Iron Armour",
+      "url": "/wiki/Animated_Iron_Armour",
+      "ns": 0
+    },
+    {
+      "id": 16413,
+      "title": "Animated Mithril Armour",
+      "url": "/wiki/Animated_Mithril_Armour",
+      "ns": 0
+    },
+    {
+      "id": 29860,
+      "title": "Animated Rune Armour",
+      "url": "/wiki/Animated_Rune_Armour",
+      "ns": 0
+    },
+    {
+      "id": 29261,
+      "title": "Animated spade",
+      "url": "/wiki/Animated_spade",
+      "ns": 0
+    },
+    {
+      "id": 74530,
+      "title": "Animated steel armour",
+      "url": "/wiki/Animated_steel_armour",
+      "ns": 0
+    },
+    {
+      "id": 76772,
+      "title": "Animated Steel Armour",
+      "url": "/wiki/Animated_Steel_Armour",
+      "ns": 0
+    },
+    {
+      "id": 106678,
+      "title": "Anja",
+      "url": "/wiki/Anja",
+      "ns": 0
+    },
+    {
+      "id": 13108,
+      "title": "Ankou",
+      "url": "/wiki/Ankou",
+      "ns": 0
+    },
+    {
+      "id": 33463,
+      "title": "Apmeken (monster)",
+      "url": "/wiki/Apmeken_(monster)",
+      "ns": 0
+    },
+    {
+      "id": 16142,
+      "title": "Archer (Burthorpe)",
+      "url": "/wiki/Archer_(Burthorpe)",
+      "ns": 0
+    },
+    {
+      "id": 38705,
+      "title": "Armadylian guard",
+      "url": "/wiki/Armadylian_guard",
+      "ns": 0
+    },
+    {
+      "id": 26489,
+      "title": "Arrg",
+      "url": "/wiki/Arrg",
+      "ns": 0
+    },
+    {
+      "id": 100393,
+      "title": "Arzinian Avatar of Magic",
+      "url": "/wiki/Arzinian_Avatar_of_Magic",
+      "ns": 0
+    },
+    {
+      "id": 100394,
+      "title": "Arzinian Avatar of Ranging",
+      "url": "/wiki/Arzinian_Avatar_of_Ranging",
+      "ns": 0
+    },
+    {
+      "id": 100395,
+      "title": "Arzinian Avatar of Strength",
+      "url": "/wiki/Arzinian_Avatar_of_Strength",
+      "ns": 0
+    },
+    {
+      "id": 41213,
+      "title": "Asyn Shade",
+      "url": "/wiki/Asyn_Shade",
+      "ns": 0
+    },
+    {
+      "id": 23866,
+      "title": "Aviansie",
+      "url": "/wiki/Aviansie",
+      "ns": 0
+    },
+    {
+      "id": 24294,
+      "title": "Aviantese",
+      "url": "/wiki/Aviantese",
+      "ns": 0
+    },
+    {
+      "id": 26693,
+      "title": "Baby dragon (black)",
+      "url": "/wiki/Baby_dragon_(black)",
+      "ns": 0
+    },
+    {
+      "id": 14810,
+      "title": "Baby dragon (blue)",
+      "url": "/wiki/Baby_dragon_(blue)",
+      "ns": 0
+    },
+    {
+      "id": 61758,
+      "title": "Baby dragon (green)",
+      "url": "/wiki/Baby_dragon_(green)",
+      "ns": 0
+    },
+    {
+      "id": 26694,
+      "title": "Baby dragon (red)",
+      "url": "/wiki/Baby_dragon_(red)",
+      "ns": 0
+    },
+    {
+      "id": 55360,
+      "title": "Baby red dragon (Construction)",
+      "url": "/wiki/Baby_red_dragon_(Construction)",
+      "ns": 0
+    },
+    {
+      "id": 35606,
+      "title": "Baby Roc",
+      "url": "/wiki/Baby_Roc",
+      "ns": 0
+    },
+    {
+      "id": 29741,
+      "title": "Baby tanglefoot",
+      "url": "/wiki/Baby_tanglefoot",
+      "ns": 0
+    },
+    {
+      "id": 24636,
+      "title": "Balfrug Kreeyath",
+      "url": "/wiki/Balfrug_Kreeyath",
+      "ns": 0
+    },
+    {
+      "id": 20205,
+      "title": "Bandit (Kharidian Desert)",
+      "url": "/wiki/Bandit_(Kharidian_Desert)",
+      "ns": 0
+    },
+    {
+      "id": 20204,
+      "title": "Bandit (Pollnivneach)",
+      "url": "/wiki/Bandit_(Pollnivneach)",
+      "ns": 0
+    },
+    {
+      "id": 20203,
+      "title": "Bandit (Wilderness)",
+      "url": "/wiki/Bandit_(Wilderness)",
+      "ns": 0
+    },
+    {
+      "id": 66771,
+      "title": "Bandit champion",
+      "url": "/wiki/Bandit_champion",
+      "ns": 0
+    },
+    {
+      "id": 38640,
+      "title": "Bandosian guard",
+      "url": "/wiki/Bandosian_guard",
+      "ns": 0
+    },
+    {
+      "id": 11271,
+      "title": "Banshee",
+      "url": "/wiki/Banshee",
+      "ns": 0
+    },
+    {
+      "id": 13049,
+      "title": "Barbarian",
+      "url": "/wiki/Barbarian",
+      "ns": 0
+    },
+    {
+      "id": 18939,
+      "title": "Bardur",
+      "url": "/wiki/Bardur",
+      "ns": 0
+    },
+    {
+      "id": 81347,
+      "title": "Bark Blamish Snail",
+      "url": "/wiki/Bark_Blamish_Snail",
+      "ns": 0
+    },
+    {
+      "id": 23740,
+      "title": "Barrelchest",
+      "url": "/wiki/Barrelchest",
+      "ns": 0
+    },
+    {
+      "id": 14817,
+      "title": "Basilisk",
+      "url": "/wiki/Basilisk",
+      "ns": 0
+    },
+    {
+      "id": 12331,
+      "title": "Bat",
+      "url": "/wiki/Bat",
+      "ns": 0
+    },
+    {
+      "id": 32768,
+      "title": "Battle mage",
+      "url": "/wiki/Battle_mage",
+      "ns": 0
+    },
+    {
+      "id": 98201,
+      "title": "Bear Cub",
+      "url": "/wiki/Bear_Cub",
+      "ns": 0
+    },
+    {
+      "id": 55475,
+      "title": "Bearded Pollnivnian bandit",
+      "url": "/wiki/Bearded_Pollnivnian_bandit",
+      "ns": 0
+    },
+    {
+      "id": 49248,
+      "title": "Bedabin Nomad Fighter",
+      "url": "/wiki/Bedabin_Nomad_Fighter",
+      "ns": 0
+    },
+    {
+      "id": 67071,
+      "title": "Berry",
+      "url": "/wiki/Berry",
+      "ns": 0
+    },
+    {
+      "id": 43786,
+      "title": "Berserk barbarian spirit",
+      "url": "/wiki/Berserk_barbarian_spirit",
+      "ns": 0
+    },
+    {
+      "id": 18180,
+      "title": "Bestiary",
+      "url": "/wiki/Bestiary",
+      "ns": 0
+    },
+    {
+      "id": 46533,
+      "title": "Bestiary/Free-to-play",
+      "url": "/wiki/Bestiary/Free-to-play",
+      "ns": 0
+    },
+    {
+      "id": 18182,
+      "title": "Bestiary/Levels 1 to 10",
+      "url": "/wiki/Bestiary/Levels_1_to_10",
+      "ns": 0
+    },
+    {
+      "id": 18185,
+      "title": "Bestiary/Levels 11 to 20",
+      "url": "/wiki/Bestiary/Levels_11_to_20",
+      "ns": 0
+    },
+    {
+      "id": 18187,
+      "title": "Bestiary/Levels 21 to 30",
+      "url": "/wiki/Bestiary/Levels_21_to_30",
+      "ns": 0
+    },
+    {
+      "id": 18179,
+      "title": "Bestiary/Levels 31 to 40",
+      "url": "/wiki/Bestiary/Levels_31_to_40",
+      "ns": 0
+    },
+    {
+      "id": 18189,
+      "title": "Bestiary/Levels 41 to 50",
+      "url": "/wiki/Bestiary/Levels_41_to_50",
+      "ns": 0
+    },
+    {
+      "id": 81792,
+      "title": "Bestiary/Levels 51 to 60",
+      "url": "/wiki/Bestiary/Levels_51_to_60",
+      "ns": 0
+    },
+    {
+      "id": 67767,
+      "title": "Bestiary/Levels 61 to 70",
+      "url": "/wiki/Bestiary/Levels_61_to_70",
+      "ns": 0
+    },
+    {
+      "id": 81791,
+      "title": "Bestiary/Levels 71 to 80",
+      "url": "/wiki/Bestiary/Levels_71_to_80",
+      "ns": 0
+    },
+    {
+      "id": 80592,
+      "title": "Bestiary/Levels 81 to 90",
+      "url": "/wiki/Bestiary/Levels_81_to_90",
+      "ns": 0
+    },
+    {
+      "id": 80591,
+      "title": "Bestiary/Levels 91 to 100",
+      "url": "/wiki/Bestiary/Levels_91_to_100",
+      "ns": 0
+    },
+    {
+      "id": 33374,
+      "title": "Bestiary/Levels higher than 100",
+      "url": "/wiki/Bestiary/Levels_higher_than_100",
+      "ns": 0
+    },
+    {
+      "id": 26081,
+      "title": "Big frog",
+      "url": "/wiki/Big_frog",
+      "ns": 0
+    },
+    {
+      "id": 23499,
+      "title": "Big Snake",
+      "url": "/wiki/Big_Snake",
+      "ns": 0
+    },
+    {
+      "id": 15084,
+      "title": "Big Wolf",
+      "url": "/wiki/Big_Wolf",
+      "ns": 0
+    },
+    {
+      "id": 18177,
+      "title": "Billy Goat",
+      "url": "/wiki/Billy_Goat",
+      "ns": 0
+    },
+    {
+      "id": 37232,
+      "title": "Bird",
+      "url": "/wiki/Bird",
+      "ns": 0
+    },
+    {
+      "id": 13414,
+      "title": "Black bear",
+      "url": "/wiki/Black_bear",
+      "ns": 0
+    },
+    {
+      "id": 13614,
+      "title": "Black demon",
+      "url": "/wiki/Black_demon",
+      "ns": 0
+    },
+    {
+      "id": 15854,
+      "title": "Black dragon",
+      "url": "/wiki/Black_dragon",
+      "ns": 0
+    },
+    {
+      "id": 42296,
+      "title": "Black golem",
+      "url": "/wiki/Black_golem",
+      "ns": 0
+    },
+    {
+      "id": 22821,
+      "title": "Black Guard",
+      "url": "/wiki/Black_Guard",
+      "ns": 0
+    },
+    {
+      "id": 28785,
+      "title": "Black Guard Berserker",
+      "url": "/wiki/Black_Guard_Berserker",
+      "ns": 0
+    },
+    {
+      "id": 20274,
+      "title": "Black Heather",
+      "url": "/wiki/Black_Heather",
+      "ns": 0
+    },
+    {
+      "id": 44926,
+      "title": "Black Knight",
+      "url": "/wiki/Black_Knight",
+      "ns": 0
+    },
+    {
+      "id": 12337,
+      "title": "Black Knight Titan",
+      "url": "/wiki/Black_Knight_Titan",
+      "ns": 0
+    },
+    {
+      "id": 15855,
+      "title": "Black unicorn",
+      "url": "/wiki/Black_unicorn",
+      "ns": 0
+    },
+    {
+      "id": 52592,
+      "title": "Black unicorn foal",
+      "url": "/wiki/Black_unicorn_foal",
+      "ns": 0
+    },
+    {
+      "id": 109197,
+      "title": "Blessed giant rat",
+      "url": "/wiki/Blessed_giant_rat",
+      "ns": 0
+    },
+    {
+      "id": 43574,
+      "title": "Blessed spider",
+      "url": "/wiki/Blessed_spider",
+      "ns": 0
+    },
+    {
+      "id": 44751,
+      "title": "Blood Blamish Snail",
+      "url": "/wiki/Blood_Blamish_Snail",
+      "ns": 0
+    },
+    {
+      "id": 13822,
+      "title": "Bloodveld",
+      "url": "/wiki/Bloodveld",
+      "ns": 0
+    },
+    {
+      "id": 44712,
+      "title": "Bloodworm",
+      "url": "/wiki/Bloodworm",
+      "ns": 0
+    },
+    {
+      "id": 13788,
+      "title": "Blue dragon",
+      "url": "/wiki/Blue_dragon",
+      "ns": 0
+    },
+    {
+      "id": 93825,
+      "title": "Boris",
+      "url": "/wiki/Boris",
+      "ns": 0
+    },
+    {
+      "id": 35002,
+      "title": "Borrokar",
+      "url": "/wiki/Borrokar",
+      "ns": 0
+    },
+    {
+      "id": 21893,
+      "title": "Bouncer",
+      "url": "/wiki/Bouncer",
+      "ns": 0
+    },
+    {
+      "id": 35731,
+      "title": "Bouncer (ghost)",
+      "url": "/wiki/Bouncer_(ghost)",
+      "ns": 0
+    },
+    {
+      "id": 76010,
+      "title": "Brassican Mage",
+      "url": "/wiki/Brassican_Mage",
+      "ns": 0
+    },
+    {
+      "id": 28535,
+      "title": "Brawler",
+      "url": "/wiki/Brawler",
+      "ns": 0
+    },
+    {
+      "id": 25465,
+      "title": "Bree",
+      "url": "/wiki/Bree",
+      "ns": 0
+    },
+    {
+      "id": 11604,
+      "title": "Brine rat",
+      "url": "/wiki/Brine_rat",
+      "ns": 0
+    },
+    {
+      "id": 95000,
+      "title": "Broddi",
+      "url": "/wiki/Broddi",
+      "ns": 0
+    },
+    {
+      "id": 14700,
+      "title": "Bronze dragon",
+      "url": "/wiki/Bronze_dragon",
+      "ns": 0
+    },
+    {
+      "id": 12367,
+      "title": "Broodoo victim",
+      "url": "/wiki/Broodoo_victim",
+      "ns": 0
+    },
+    {
+      "id": 42720,
+      "title": "Bruise Blamish Snail",
+      "url": "/wiki/Bruise_Blamish_Snail",
+      "ns": 0
+    },
+    {
+      "id": 74199,
+      "title": "Brutal black dragon",
+      "url": "/wiki/Brutal_black_dragon",
+      "ns": 0
+    },
+    {
+      "id": 74198,
+      "title": "Brutal blue dragon",
+      "url": "/wiki/Brutal_blue_dragon",
+      "ns": 0
+    },
+    {
+      "id": 20714,
+      "title": "Brutal green dragon",
+      "url": "/wiki/Brutal_green_dragon",
+      "ns": 0
+    },
+    {
+      "id": 74231,
+      "title": "Brutal red dragon",
+      "url": "/wiki/Brutal_red_dragon",
+      "ns": 0
+    },
+    {
+      "id": 12364,
+      "title": "Bush snake",
+      "url": "/wiki/Bush_snake",
+      "ns": 0
+    },
+    {
+      "id": 31268,
+      "title": "Callisto",
+      "url": "/wiki/Callisto",
+      "ns": 0
+    },
+    {
+      "id": 106315,
+      "title": "Camp dweller",
+      "url": "/wiki/Camp_dweller",
+      "ns": 0
+    },
+    {
+      "id": 11877,
+      "title": "Catablepon",
+      "url": "/wiki/Catablepon",
+      "ns": 0
+    },
+    {
+      "id": 80133,
+      "title": "Cave abomination",
+      "url": "/wiki/Cave_abomination",
+      "ns": 0
+    },
+    {
+      "id": 12549,
+      "title": "Cave bug",
+      "url": "/wiki/Cave_bug",
+      "ns": 0
+    },
+    {
+      "id": 12863,
+      "title": "Cave crawler",
+      "url": "/wiki/Cave_crawler",
+      "ns": 0
+    },
+    {
+      "id": 16969,
+      "title": "Cave goblin (Monster)",
+      "url": "/wiki/Cave_goblin_(Monster)",
+      "ns": 0
+    },
+    {
+      "id": 19599,
+      "title": "Cave goblin guard",
+      "url": "/wiki/Cave_goblin_guard",
+      "ns": 0
+    },
+    {
+      "id": 19593,
+      "title": "Cave goblin miner",
+      "url": "/wiki/Cave_goblin_miner",
+      "ns": 0
+    },
+    {
+      "id": 15647,
+      "title": "Cave horror",
+      "url": "/wiki/Cave_horror",
+      "ns": 0
+    },
+    {
+      "id": 29310,
+      "title": "Cave kraken",
+      "url": "/wiki/Cave_kraken",
+      "ns": 0
+    },
+    {
+      "id": 80523,
+      "title": "Cave lizard",
+      "url": "/wiki/Cave_lizard",
+      "ns": 0
+    },
+    {
+      "id": 13094,
+      "title": "Cave slime",
+      "url": "/wiki/Cave_slime",
+      "ns": 0
+    },
+    {
+      "id": 55174,
+      "title": "Cerberus",
+      "url": "/wiki/Cerberus",
+      "ns": 0
+    },
+    {
+      "id": 12315,
+      "title": "Chaos druid",
+      "url": "/wiki/Chaos_druid",
+      "ns": 0
+    },
+    {
+      "id": 31524,
+      "title": "Chaos druid warrior",
+      "url": "/wiki/Chaos_druid_warrior",
+      "ns": 0
+    },
+    {
+      "id": 27879,
+      "title": "Chaos dwarf",
+      "url": "/wiki/Chaos_dwarf",
+      "ns": 0
+    },
+    {
+      "id": 13099,
+      "title": "Chaos Elemental",
+      "url": "/wiki/Chaos_Elemental",
+      "ns": 0
+    },
+    {
+      "id": 31314,
+      "title": "Chaos Fanatic",
+      "url": "/wiki/Chaos_Fanatic",
+      "ns": 0
+    },
+    {
+      "id": 80234,
+      "title": "Chaotic death spawn",
+      "url": "/wiki/Chaotic_death_spawn",
+      "ns": 0
+    },
+    {
+      "id": 80118,
+      "title": "Chasm Crawler",
+      "url": "/wiki/Chasm_Crawler",
+      "ns": 0
+    },
+    {
+      "id": 12073,
+      "title": "Chicken",
+      "url": "/wiki/Chicken",
+      "ns": 0
+    },
+    {
+      "id": 80107,
+      "title": "Choke devil",
+      "url": "/wiki/Choke_devil",
+      "ns": 0
+    },
+    {
+      "id": 16189,
+      "title": "Chompy bird",
+      "url": "/wiki/Chompy_bird",
+      "ns": 0
+    },
+    {
+      "id": 14247,
+      "title": "Chronozon",
+      "url": "/wiki/Chronozon",
+      "ns": 0
+    },
+    {
+      "id": 23359,
+      "title": "City guard",
+      "url": "/wiki/City_guard",
+      "ns": 0
+    },
+    {
+      "id": 52159,
+      "title": "Clivet",
+      "url": "/wiki/Clivet",
+      "ns": 0
+    },
+    {
+      "id": 92639,
+      "title": "Cockathrice",
+      "url": "/wiki/Cockathrice",
+      "ns": 0
+    },
+    {
+      "id": 11917,
+      "title": "Cockatrice",
+      "url": "/wiki/Cockatrice",
+      "ns": 0
+    },
+    {
+      "id": 43858,
+      "title": "Colonel Radick",
+      "url": "/wiki/Colonel_Radick",
+      "ns": 0
+    },
+    {
+      "id": 23823,
+      "title": "Commander Zilyana",
+      "url": "/wiki/Commander_Zilyana",
+      "ns": 0
+    },
+    {
+      "id": 28414,
+      "title": "Confused barbarian",
+      "url": "/wiki/Confused_barbarian",
+      "ns": 0
+    },
+    {
+      "id": 14200,
+      "title": "Confusion beast",
+      "url": "/wiki/Confusion_beast",
+      "ns": 0
+    },
+    {
+      "id": 41957,
+      "title": "Corporeal Beast",
+      "url": "/wiki/Corporeal_Beast",
+      "ns": 0
+    },
+    {
+      "id": 16347,
+      "title": "Count Draynor",
+      "url": "/wiki/Count_Draynor",
+      "ns": 0
+    },
+    {
+      "id": 12398,
+      "title": "Cow",
+      "url": "/wiki/Cow",
+      "ns": 0
+    },
+    {
+      "id": 29334,
+      "title": "Cow calf",
+      "url": "/wiki/Cow_calf",
+      "ns": 0
+    },
+    {
+      "id": 25547,
+      "title": "Crab",
+      "url": "/wiki/Crab",
+      "ns": 0
+    },
+    {
+      "id": 11874,
+      "title": "Crawling Hand",
+      "url": "/wiki/Crawling_Hand",
+      "ns": 0
+    },
+    {
+      "id": 31288,
+      "title": "Crazy archaeologist",
+      "url": "/wiki/Crazy_archaeologist",
+      "ns": 0
+    },
+    {
+      "id": 15028,
+      "title": "Crocodile",
+      "url": "/wiki/Crocodile",
+      "ns": 0
+    },
+    {
+      "id": 80248,
+      "title": "Crushing hand",
+      "url": "/wiki/Crushing_hand",
+      "ns": 0
+    },
+    {
+      "id": 69872,
+      "title": "Crypt rat",
+      "url": "/wiki/Crypt_rat",
+      "ns": 0
+    },
+    {
+      "id": 46449,
+      "title": "Crypt spider",
+      "url": "/wiki/Crypt_spider",
+      "ns": 0
+    },
+    {
+      "id": 71356,
+      "title": "Cuffs",
+      "url": "/wiki/Cuffs",
+      "ns": 0
+    },
+    {
+      "id": 15873,
+      "title": "Culinaromancer",
+      "url": "/wiki/Culinaromancer",
+      "ns": 0
+    },
+    {
+      "id": 12695,
+      "title": "Cyclops",
+      "url": "/wiki/Cyclops",
+      "ns": 0
+    },
+    {
+      "id": 26488,
+      "title": "Dad",
+      "url": "/wiki/Dad",
+      "ns": 0
+    },
+    {
+      "id": 52347,
+      "title": "Dagannoth (Construction)",
+      "url": "/wiki/Dagannoth_(Construction)",
+      "ns": 0
+    },
+    {
+      "id": 29388,
+      "title": "Dagannoth (Lighthouse)",
+      "url": "/wiki/Dagannoth_(Lighthouse)",
+      "ns": 0
+    },
+    {
+      "id": 30548,
+      "title": "Dagannoth (Waterbirth Island)",
+      "url": "/wiki/Dagannoth_(Waterbirth_Island)",
+      "ns": 0
+    },
+    {
+      "id": 67189,
+      "title": "Dagannoth fledgeling",
+      "url": "/wiki/Dagannoth_fledgeling",
+      "ns": 0
+    },
+    {
+      "id": 22789,
+      "title": "Dagannoth mother",
+      "url": "/wiki/Dagannoth_mother",
+      "ns": 0
+    },
+    {
+      "id": 18216,
+      "title": "Dagannoth Prime",
+      "url": "/wiki/Dagannoth_Prime",
+      "ns": 0
+    },
+    {
+      "id": 15743,
+      "title": "Dagannoth Rex",
+      "url": "/wiki/Dagannoth_Rex",
+      "ns": 0
+    },
+    {
+      "id": 28759,
+      "title": "Dagannoth spawn",
+      "url": "/wiki/Dagannoth_spawn",
+      "ns": 0
+    },
+    {
+      "id": 18215,
+      "title": "Dagannoth Supreme",
+      "url": "/wiki/Dagannoth_Supreme",
+      "ns": 0
+    },
+    {
+      "id": 21722,
+      "title": "Damis",
+      "url": "/wiki/Damis",
+      "ns": 0
+    },
+    {
+      "id": 74451,
+      "title": "Dark Ankou",
+      "url": "/wiki/Dark_Ankou",
+      "ns": 0
+    },
+    {
+      "id": 13988,
+      "title": "Dark beast",
+      "url": "/wiki/Dark_beast",
+      "ns": 0
+    },
+    {
+      "id": 41958,
+      "title": "Dark energy core",
+      "url": "/wiki/Dark_energy_core",
+      "ns": 0
+    },
+    {
+      "id": 15856,
+      "title": "Dark warrior",
+      "url": "/wiki/Dark_warrior",
+      "ns": 0
+    },
+    {
+      "id": 12307,
+      "title": "Dark wizard",
+      "url": "/wiki/Dark_wizard",
+      "ns": 0
+    },
+    {
+      "id": 105431,
+      "title": "Dawn",
+      "url": "/wiki/Dawn",
+      "ns": 0
+    },
+    {
+      "id": 15682,
+      "title": "Deadly red spider",
+      "url": "/wiki/Deadly_red_spider",
+      "ns": 0
+    },
+    {
+      "id": 29451,
+      "title": "Death spawn",
+      "url": "/wiki/Death_spawn",
+      "ns": 0
+    },
+    {
+      "id": 26667,
+      "title": "Death wing",
+      "url": "/wiki/Death_wing",
+      "ns": 0
+    },
+    {
+      "id": 99258,
+      "title": "Deathly mage",
+      "url": "/wiki/Deathly_mage",
+      "ns": 0
+    },
+    {
+      "id": 99257,
+      "title": "Deathly ranger",
+      "url": "/wiki/Deathly_ranger",
+      "ns": 0
+    },
+    {
+      "id": 28534,
+      "title": "Defiler",
+      "url": "/wiki/Defiler",
+      "ns": 0
+    },
+    {
+      "id": 12937,
+      "title": "Delrith",
+      "url": "/wiki/Delrith",
+      "ns": 0
+    },
+    {
+      "id": 53839,
+      "title": "Demon (Construction)",
+      "url": "/wiki/Demon_(Construction)",
+      "ns": 0
+    },
+    {
+      "id": 106866,
+      "title": "Demon of Balance",
+      "url": "/wiki/Demon_of_Balance",
+      "ns": 0
+    },
+    {
+      "id": 106865,
+      "title": "Demon of Darkness",
+      "url": "/wiki/Demon_of_Darkness",
+      "ns": 0
+    },
+    {
+      "id": 106864,
+      "title": "Demon of Light",
+      "url": "/wiki/Demon_of_Light",
+      "ns": 0
+    },
+    {
+      "id": 72329,
+      "title": "Demonic gorilla",
+      "url": "/wiki/Demonic_gorilla",
+      "ns": 0
+    },
+    {
+      "id": 103094,
+      "title": "Deranged archaeologist",
+      "url": "/wiki/Deranged_archaeologist",
+      "ns": 0
+    },
+    {
+      "id": 111643,
+      "title": "Derwen",
+      "url": "/wiki/Derwen",
+      "ns": 0
+    },
+    {
+      "id": 13072,
+      "title": "Desert Lizard",
+      "url": "/wiki/Desert_Lizard",
+      "ns": 0
+    },
+    {
+      "id": 32379,
+      "title": "Desert snake",
+      "url": "/wiki/Desert_snake",
+      "ns": 0
+    },
+    {
+      "id": 45209,
+      "title": "Desert Wolf",
+      "url": "/wiki/Desert_Wolf",
+      "ns": 0
+    },
+    {
+      "id": 23512,
+      "title": "Dessourt",
+      "url": "/wiki/Dessourt",
+      "ns": 0
+    },
+    {
+      "id": 20394,
+      "title": "Dessous",
+      "url": "/wiki/Dessous",
+      "ns": 0
+    },
+    {
+      "id": 74233,
+      "title": "Deviant spectre",
+      "url": "/wiki/Deviant_spectre",
+      "ns": 0
+    },
+    {
+      "id": 13851,
+      "title": "Dharok the Wretched",
+      "url": "/wiki/Dharok_the_Wretched",
+      "ns": 0
+    },
+    {
+      "id": 41402,
+      "title": "Dire Wolf",
+      "url": "/wiki/Dire_Wolf",
+      "ns": 0
+    },
+    {
+      "id": 18496,
+      "title": "Disciple of Iban",
+      "url": "/wiki/Disciple_of_Iban",
+      "ns": 0
+    },
+    {
+      "id": 20210,
+      "title": "Donny the Lad",
+      "url": "/wiki/Donny_the_Lad",
+      "ns": 0
+    },
+    {
+      "id": 28829,
+      "title": "Doomion",
+      "url": "/wiki/Doomion",
+      "ns": 0
+    },
+    {
+      "id": 29161,
+      "title": "Double agent",
+      "url": "/wiki/Double_agent",
+      "ns": 0
+    },
+    {
+      "id": 34569,
+      "title": "Drake",
+      "url": "/wiki/Drake",
+      "ns": 0
+    },
+    {
+      "id": 15416,
+      "title": "Druid",
+      "url": "/wiki/Druid",
+      "ns": 0
+    },
+    {
+      "id": 48931,
+      "title": "Drunken man",
+      "url": "/wiki/Drunken_man",
+      "ns": 0
+    },
+    {
+      "id": 14869,
+      "title": "Duck",
+      "url": "/wiki/Duck",
+      "ns": 0
+    },
+    {
+      "id": 18183,
+      "title": "Duckling",
+      "url": "/wiki/Duckling",
+      "ns": 0
+    },
+    {
+      "id": 12696,
+      "title": "Dungeon rat",
+      "url": "/wiki/Dungeon_rat",
+      "ns": 0
+    },
+    {
+      "id": 74146,
+      "title": "Durial321",
+      "url": "/wiki/Durial321",
+      "ns": 0
+    },
+    {
+      "id": 105432,
+      "title": "Dusk",
+      "url": "/wiki/Dusk",
+      "ns": 0
+    },
+    {
+      "id": 13336,
+      "title": "Dust devil",
+      "url": "/wiki/Dust_devil",
+      "ns": 0
+    },
+    {
+      "id": 16965,
+      "title": "Dwarf",
+      "url": "/wiki/Dwarf",
+      "ns": 0
+    },
+    {
+      "id": 53694,
+      "title": "Dwarf gang member",
+      "url": "/wiki/Dwarf_gang_member",
+      "ns": 0
+    },
+    {
+      "id": 22448,
+      "title": "Earth elemental",
+      "url": "/wiki/Earth_elemental",
+      "ns": 0
+    },
+    {
+      "id": 13043,
+      "title": "Earth warrior",
+      "url": "/wiki/Earth_warrior",
+      "ns": 0
+    },
+    {
+      "id": 36246,
+      "title": "Earth Warrior Champion",
+      "url": "/wiki/Earth_Warrior_Champion",
+      "ns": 0
+    },
+    {
+      "id": 40757,
+      "title": "Earth wizard",
+      "url": "/wiki/Earth_wizard",
+      "ns": 0
+    },
+    {
+      "id": 93826,
+      "title": "Eduard",
+      "url": "/wiki/Eduard",
+      "ns": 0
+    },
+    {
+      "id": 95003,
+      "title": "Einar",
+      "url": "/wiki/Einar",
+      "ns": 0
+    },
+    {
+      "id": 30521,
+      "title": "Elder Chaos druid",
+      "url": "/wiki/Elder_Chaos_druid",
+      "ns": 0
+    },
+    {
+      "id": 15685,
+      "title": "Elf warrior",
+      "url": "/wiki/Elf_warrior",
+      "ns": 0
+    },
+    {
+      "id": 11925,
+      "title": "Elvarg",
+      "url": "/wiki/Elvarg",
+      "ns": 0
+    },
+    {
+      "id": 23360,
+      "title": "Enclave guard",
+      "url": "/wiki/Enclave_guard",
+      "ns": 0
+    },
+    {
+      "id": 38396,
+      "title": "Energy sprite",
+      "url": "/wiki/Energy_sprite",
+      "ns": 0
+    },
+    {
+      "id": 32676,
+      "title": "Enormous Tentacle",
+      "url": "/wiki/Enormous_Tentacle",
+      "ns": 0
+    },
+    {
+      "id": 43787,
+      "title": "Enraged barbarian spirit",
+      "url": "/wiki/Enraged_barbarian_spirit",
+      "ns": 0
+    },
+    {
+      "id": 31267,
+      "title": "Ent",
+      "url": "/wiki/Ent",
+      "ns": 0
+    },
+    {
+      "id": 21810,
+      "title": "Entrana firebird",
+      "url": "/wiki/Entrana_firebird",
+      "ns": 0
+    },
+    {
+      "id": 16003,
+      "title": "Evil Chicken",
+      "url": "/wiki/Evil_Chicken",
+      "ns": 0
+    },
+    {
+      "id": 32764,
+      "title": "Evil spirit",
+      "url": "/wiki/Evil_spirit",
+      "ns": 0
+    },
+    {
+      "id": 12223,
+      "title": "Experiment",
+      "url": "/wiki/Experiment",
+      "ns": 0
+    },
+    {
+      "id": 43387,
+      "title": "Experiment No.2",
+      "url": "/wiki/Experiment_No.2",
+      "ns": 0
+    },
+    {
+      "id": 15915,
+      "title": "Fareed",
+      "url": "/wiki/Fareed",
+      "ns": 0
+    },
+    {
+      "id": 12220,
+      "title": "Farmer",
+      "url": "/wiki/Farmer",
+      "ns": 0
+    },
+    {
+      "id": 44304,
+      "title": "Fear reaper",
+      "url": "/wiki/Fear_reaper",
+      "ns": 0
+    },
+    {
+      "id": 43788,
+      "title": "Ferocious barbarian spirit",
+      "url": "/wiki/Ferocious_barbarian_spirit",
+      "ns": 0
+    },
+    {
+      "id": 15976,
+      "title": "Fever spider",
+      "url": "/wiki/Fever_spider",
+      "ns": 0
+    },
+    {
+      "id": 42275,
+      "title": "Fire elemental",
+      "url": "/wiki/Fire_elemental",
+      "ns": 0
+    },
+    {
+      "id": 12114,
+      "title": "Fire giant",
+      "url": "/wiki/Fire_giant",
+      "ns": 0
+    },
+    {
+      "id": 33665,
+      "title": "Fire Warrior of Lesarkus",
+      "url": "/wiki/Fire_Warrior_of_Lesarkus",
+      "ns": 0
+    },
+    {
+      "id": 29381,
+      "title": "Fire wizard",
+      "url": "/wiki/Fire_wizard",
+      "ns": 0
+    },
+    {
+      "id": 25718,
+      "title": "Fiyr Shade",
+      "url": "/wiki/Fiyr_Shade",
+      "ns": 0
+    },
+    {
+      "id": 14001,
+      "title": "Flambeed",
+      "url": "/wiki/Flambeed",
+      "ns": 0
+    },
+    {
+      "id": 80114,
+      "title": "Flaming pyrelord",
+      "url": "/wiki/Flaming_pyrelord",
+      "ns": 0
+    },
+    {
+      "id": 16045,
+      "title": "Flesh Crawler",
+      "url": "/wiki/Flesh_Crawler",
+      "ns": 0
+    },
+    {
+      "id": 28713,
+      "title": "Flight Kilisa",
+      "url": "/wiki/Flight_Kilisa",
+      "ns": 0
+    },
+    {
+      "id": 28715,
+      "title": "Flockleader Geerin",
+      "url": "/wiki/Flockleader_Geerin",
+      "ns": 0
+    },
+    {
+      "id": 55108,
+      "title": "Foreman",
+      "url": "/wiki/Foreman",
+      "ns": 0
+    },
+    {
+      "id": 73609,
+      "title": "Forester",
+      "url": "/wiki/Forester",
+      "ns": 0
+    },
+    {
+      "id": 47694,
+      "title": "Fortress Guard",
+      "url": "/wiki/Fortress_Guard",
+      "ns": 0
+    },
+    {
+      "id": 107640,
+      "title": "Fox",
+      "url": "/wiki/Fox",
+      "ns": 0
+    },
+    {
+      "id": 34999,
+      "title": "Freidir",
+      "url": "/wiki/Freidir",
+      "ns": 0
+    },
+    {
+      "id": 35014,
+      "title": "Freygard",
+      "url": "/wiki/Freygard",
+      "ns": 0
+    },
+    {
+      "id": 95071,
+      "title": "Freygerd (Rellekka)",
+      "url": "/wiki/Freygerd_(Rellekka)",
+      "ns": 0
+    },
+    {
+      "id": 21804,
+      "title": "Frog",
+      "url": "/wiki/Frog",
+      "ns": 0
+    },
+    {
+      "id": 29150,
+      "title": "Frogeel",
+      "url": "/wiki/Frogeel",
+      "ns": 0
+    },
+    {
+      "id": 22372,
+      "title": "Gadderanks",
+      "url": "/wiki/Gadderanks",
+      "ns": 0
+    },
+    {
+      "id": 93827,
+      "title": "Galina",
+      "url": "/wiki/Galina",
+      "ns": 0
+    },
+    {
+      "id": 108839,
+      "title": "Galvek",
+      "url": "/wiki/Galvek",
+      "ns": 0
+    },
+    {
+      "id": 69008,
+      "title": "Gang boss",
+      "url": "/wiki/Gang_boss",
+      "ns": 0
+    },
+    {
+      "id": 69003,
+      "title": "Gangster",
+      "url": "/wiki/Gangster",
+      "ns": 0
+    },
+    {
+      "id": 23479,
+      "title": "Gardener",
+      "url": "/wiki/Gardener",
+      "ns": 0
+    },
+    {
+      "id": 14912,
+      "title": "Gargoyle",
+      "url": "/wiki/Gargoyle",
+      "ns": 0
+    },
+    {
+      "id": 26491,
+      "title": "Gelatinnoth Mother",
+      "url": "/wiki/Gelatinnoth_Mother",
+      "ns": 0
+    },
+    {
+      "id": 41698,
+      "title": "General Danknuck",
+      "url": "/wiki/General_Danknuck",
+      "ns": 0
+    },
+    {
+      "id": 23913,
+      "title": "General Graardor",
+      "url": "/wiki/General_Graardor",
+      "ns": 0
+    },
+    {
+      "id": 18142,
+      "title": "General Khazard",
+      "url": "/wiki/General_Khazard",
+      "ns": 0
+    },
+    {
+      "id": 93835,
+      "title": "Georgy",
+      "url": "/wiki/Georgy",
+      "ns": 0
+    },
+    {
+      "id": 19673,
+      "title": "Ghast",
+      "url": "/wiki/Ghast",
+      "ns": 0
+    },
+    {
+      "id": 16777,
+      "title": "Ghost",
+      "url": "/wiki/Ghost",
+      "ns": 0
+    },
+    {
+      "id": 13610,
+      "title": "Ghoul",
+      "url": "/wiki/Ghoul",
+      "ns": 0
+    },
+    {
+      "id": 39983,
+      "title": "Ghoul Champion",
+      "url": "/wiki/Ghoul_Champion",
+      "ns": 0
+    },
+    {
+      "id": 15306,
+      "title": "Giant bat",
+      "url": "/wiki/Giant_bat",
+      "ns": 0
+    },
+    {
+      "id": 18618,
+      "title": "Giant Champion",
+      "url": "/wiki/Giant_Champion",
+      "ns": 0
+    },
+    {
+      "id": 69877,
+      "title": "Giant crypt rat",
+      "url": "/wiki/Giant_crypt_rat",
+      "ns": 0
+    },
+    {
+      "id": 46450,
+      "title": "Giant crypt spider",
+      "url": "/wiki/Giant_crypt_spider",
+      "ns": 0
+    },
+    {
+      "id": 29148,
+      "title": "Giant frog",
+      "url": "/wiki/Giant_frog",
+      "ns": 0
+    },
+    {
+      "id": 21540,
+      "title": "Giant lobster",
+      "url": "/wiki/Giant_lobster",
+      "ns": 0
+    },
+    {
+      "id": 33260,
+      "title": "Giant lobster (Ghosts Ahoy)",
+      "url": "/wiki/Giant_lobster_(Ghosts_Ahoy)",
+      "ns": 0
+    },
+    {
+      "id": 12426,
+      "title": "Giant Mole",
+      "url": "/wiki/Giant_Mole",
+      "ns": 0
+    },
+    {
+      "id": 38028,
+      "title": "Giant mosquito",
+      "url": "/wiki/Giant_mosquito",
+      "ns": 0
+    },
+    {
+      "id": 15671,
+      "title": "Giant rat",
+      "url": "/wiki/Giant_rat",
+      "ns": 0
+    },
+    {
+      "id": 26492,
+      "title": "Giant Roc",
+      "url": "/wiki/Giant_Roc",
+      "ns": 0
+    },
+    {
+      "id": 25723,
+      "title": "Giant Rock Crab",
+      "url": "/wiki/Giant_Rock_Crab",
+      "ns": 0
+    },
+    {
+      "id": 80119,
+      "title": "Giant rockslug",
+      "url": "/wiki/Giant_rockslug",
+      "ns": 0
+    },
+    {
+      "id": 26494,
+      "title": "Giant scarab",
+      "url": "/wiki/Giant_scarab",
+      "ns": 0
+    },
+    {
+      "id": 29285,
+      "title": "Giant Sea Snake",
+      "url": "/wiki/Giant_Sea_Snake",
+      "ns": 0
+    },
+    {
+      "id": 66784,
+      "title": "Giant skeleton (Lair of Tarn Razorlor)",
+      "url": "/wiki/Giant_skeleton_(Lair_of_Tarn_Razorlor)",
+      "ns": 0
+    },
+    {
+      "id": 66786,
+      "title": "Giant skeleton (Shadow Dungeon)",
+      "url": "/wiki/Giant_skeleton_(Shadow_Dungeon)",
+      "ns": 0
+    },
+    {
+      "id": 30481,
+      "title": "Giant snail",
+      "url": "/wiki/Giant_snail",
+      "ns": 0
+    },
+    {
+      "id": 13963,
+      "title": "Giant spider",
+      "url": "/wiki/Giant_spider",
+      "ns": 0
+    },
+    {
+      "id": 26490,
+      "title": "Glod",
+      "url": "/wiki/Glod",
+      "ns": 0
+    },
+    {
+      "id": 15254,
+      "title": "Glough",
+      "url": "/wiki/Glough",
+      "ns": 0
+    },
+    {
+      "id": 24755,
+      "title": "Gnome (monster)",
+      "url": "/wiki/Gnome_(monster)",
+      "ns": 0
+    },
+    {
+      "id": 70111,
+      "title": "Gnome Archer",
+      "url": "/wiki/Gnome_Archer",
+      "ns": 0
+    },
+    {
+      "id": 40384,
+      "title": "Gnome child",
+      "url": "/wiki/Gnome_child",
+      "ns": 0
+    },
+    {
+      "id": 70113,
+      "title": "Gnome Driver",
+      "url": "/wiki/Gnome_Driver",
+      "ns": 0
+    },
+    {
+      "id": 30719,
+      "title": "Gnome guard",
+      "url": "/wiki/Gnome_guard",
+      "ns": 0
+    },
+    {
+      "id": 70115,
+      "title": "Gnome Mage",
+      "url": "/wiki/Gnome_Mage",
+      "ns": 0
+    },
+    {
+      "id": 49580,
+      "title": "Gnome troop",
+      "url": "/wiki/Gnome_troop",
+      "ns": 0
+    },
+    {
+      "id": 18175,
+      "title": "Goat",
+      "url": "/wiki/Goat",
+      "ns": 0
+    },
+    {
+      "id": 11672,
+      "title": "Goblin",
+      "url": "/wiki/Goblin",
+      "ns": 0
+    },
+    {
+      "id": 28409,
+      "title": "Goblin Champion",
+      "url": "/wiki/Goblin_Champion",
+      "ns": 0
+    },
+    {
+      "id": 53307,
+      "title": "Goblin guard",
+      "url": "/wiki/Goblin_guard",
+      "ns": 0
+    },
+    {
+      "id": 22982,
+      "title": "Gorad",
+      "url": "/wiki/Gorad",
+      "ns": 0
+    },
+    {
+      "id": 22118,
+      "title": "Gorak",
+      "url": "/wiki/Gorak",
+      "ns": 0
+    },
+    {
+      "id": 99462,
+      "title": "Grave scorpion",
+      "url": "/wiki/Grave_scorpion",
+      "ns": 0
+    },
+    {
+      "id": 82466,
+      "title": "Great olm",
+      "url": "/wiki/Great_olm",
+      "ns": 0
+    },
+    {
+      "id": 80104,
+      "title": "Greater abyssal demon",
+      "url": "/wiki/Greater_abyssal_demon",
+      "ns": 0
+    },
+    {
+      "id": 12913,
+      "title": "Greater demon",
+      "url": "/wiki/Greater_demon",
+      "ns": 0
+    },
+    {
+      "id": 74248,
+      "title": "Greater Nechryael",
+      "url": "/wiki/Greater_Nechryael",
+      "ns": 0
+    },
+    {
+      "id": 52279,
+      "title": "Greater Skeleton Hellhound",
+      "url": "/wiki/Greater_Skeleton_Hellhound",
+      "ns": 0
+    },
+    {
+      "id": 11971,
+      "title": "Green dragon",
+      "url": "/wiki/Green_dragon",
+      "ns": 0
+    },
+    {
+      "id": 41453,
+      "title": "Green Guard",
+      "url": "/wiki/Green_Guard",
+      "ns": 0
+    },
+    {
+      "id": 42297,
+      "title": "Grey golem",
+      "url": "/wiki/Grey_golem",
+      "ns": 0
+    },
+    {
+      "id": 41496,
+      "title": "Grip",
+      "url": "/wiki/Grip",
+      "ns": 0
+    },
+    {
+      "id": 13415,
+      "title": "Grizzly bear",
+      "url": "/wiki/Grizzly_bear",
+      "ns": 0
+    },
+    {
+      "id": 98199,
+      "title": "Grizzly bear cub",
+      "url": "/wiki/Grizzly_bear_cub",
+      "ns": 0
+    },
+    {
+      "id": 25466,
+      "title": "Growler",
+      "url": "/wiki/Growler",
+      "ns": 0
+    },
+    {
+      "id": 12817,
+      "title": "Guard",
+      "url": "/wiki/Guard",
+      "ns": 0
+    },
+    {
+      "id": 19782,
+      "title": "Guard (Burthorpe)",
+      "url": "/wiki/Guard_(Burthorpe)",
+      "ns": 0
+    },
+    {
+      "id": 100463,
+      "title": "Guard (Cave goblin)",
+      "url": "/wiki/Guard_(Cave_goblin)",
+      "ns": 0
+    },
+    {
+      "id": 78495,
+      "title": "Guard (Desert Mining Camp)",
+      "url": "/wiki/Guard_(Desert_Mining_Camp)",
+      "ns": 0
+    },
+    {
+      "id": 34647,
+      "title": "Guard (dwarf)",
+      "url": "/wiki/Guard_(dwarf)",
+      "ns": 0
+    },
+    {
+      "id": 68101,
+      "title": "Guard Bandit",
+      "url": "/wiki/Guard_Bandit",
+      "ns": 0
+    },
+    {
+      "id": 14140,
+      "title": "Guard dog",
+      "url": "/wiki/Guard_dog",
+      "ns": 0
+    },
+    {
+      "id": 52775,
+      "title": "Guard dog (Construction)",
+      "url": "/wiki/Guard_dog_(Construction)",
+      "ns": 0
+    },
+    {
+      "id": 31335,
+      "title": "Guardian of Armadyl",
+      "url": "/wiki/Guardian_of_Armadyl",
+      "ns": 0
+    },
+    {
+      "id": 20215,
+      "title": "Gunthor the brave",
+      "url": "/wiki/Gunthor_the_brave",
+      "ns": 0
+    },
+    {
+      "id": 13852,
+      "title": "Guthan the Infested",
+      "url": "/wiki/Guthan_the_Infested",
+      "ns": 0
+    },
+    {
+      "id": 18552,
+      "title": "H.A.M. Archer",
+      "url": "/wiki/H.A.M._Archer",
+      "ns": 0
+    },
+    {
+      "id": 18900,
+      "title": "H.A.M. Guard",
+      "url": "/wiki/H.A.M._Guard",
+      "ns": 0
+    },
+    {
+      "id": 21658,
+      "title": "H.A.M. Mage",
+      "url": "/wiki/H.A.M._Mage",
+      "ns": 0
+    },
+    {
+      "id": 94973,
+      "title": "Halla (Miscellania)",
+      "url": "/wiki/Halla_(Miscellania)",
+      "ns": 0
+    },
+    {
+      "id": 13061,
+      "title": "Harpie Bug Swarm",
+      "url": "/wiki/Harpie_Bug_Swarm",
+      "ns": 0
+    },
+    {
+      "id": 41217,
+      "title": "Head",
+      "url": "/wiki/Head",
+      "ns": 0
+    },
+    {
+      "id": 77035,
+      "title": "Head Thief",
+      "url": "/wiki/Head_Thief",
+      "ns": 0
+    },
+    {
+      "id": 13054,
+      "title": "Hellhound",
+      "url": "/wiki/Hellhound",
+      "ns": 0
+    },
+    {
+      "id": 55362,
+      "title": "Hellhound (Construction)",
+      "url": "/wiki/Hellhound_(Construction)",
+      "ns": 0
+    },
+    {
+      "id": 106681,
+      "title": "Hengel",
+      "url": "/wiki/Hengel",
+      "ns": 0
+    },
+    {
+      "id": 16469,
+      "title": "Hero",
+      "url": "/wiki/Hero",
+      "ns": 0
+    },
+    {
+      "id": 12607,
+      "title": "Highwayman",
+      "url": "/wiki/Highwayman",
+      "ns": 0
+    },
+    {
+      "id": 20667,
+      "title": "Hill Giant",
+      "url": "/wiki/Hill_Giant",
+      "ns": 0
+    },
+    {
+      "id": 13076,
+      "title": "Hobgoblin",
+      "url": "/wiki/Hobgoblin",
+      "ns": 0
+    },
+    {
+      "id": 52778,
+      "title": "Hobgoblin (Construction)",
+      "url": "/wiki/Hobgoblin_(Construction)",
+      "ns": 0
+    },
+    {
+      "id": 44425,
+      "title": "Hobgoblin Champion",
+      "url": "/wiki/Hobgoblin_Champion",
+      "ns": 0
+    },
+    {
+      "id": 31466,
+      "title": "Holthion",
+      "url": "/wiki/Holthion",
+      "ns": 0
+    },
+    {
+      "id": 103042,
+      "title": "Hoop Snake",
+      "url": "/wiki/Hoop_Snake",
+      "ns": 0
+    },
+    {
+      "id": 20211,
+      "title": "Hopeless Creature",
+      "url": "/wiki/Hopeless_Creature",
+      "ns": 0
+    },
+    {
+      "id": 46454,
+      "title": "Huge spider",
+      "url": "/wiki/Huge_spider",
+      "ns": 0
+    },
+    {
+      "id": 82496,
+      "title": "Ice demon",
+      "url": "/wiki/Ice_demon",
+      "ns": 0
+    },
+    {
+      "id": 15478,
+      "title": "Ice giant",
+      "url": "/wiki/Ice_giant",
+      "ns": 0
+    },
+    {
+      "id": 14365,
+      "title": "Ice Queen",
+      "url": "/wiki/Ice_Queen",
+      "ns": 0
+    },
+    {
+      "id": 21651,
+      "title": "Ice spider",
+      "url": "/wiki/Ice_spider",
+      "ns": 0
+    },
+    {
+      "id": 17388,
+      "title": "Ice troll",
+      "url": "/wiki/Ice_troll",
+      "ns": 0
+    },
+    {
+      "id": 29449,
+      "title": "Ice troll female",
+      "url": "/wiki/Ice_troll_female",
+      "ns": 0
+    },
+    {
+      "id": 14021,
+      "title": "Ice troll grunt",
+      "url": "/wiki/Ice_troll_grunt",
+      "ns": 0
+    },
+    {
+      "id": 24461,
+      "title": "Ice Troll King",
+      "url": "/wiki/Ice_Troll_King",
+      "ns": 0
+    },
+    {
+      "id": 34613,
+      "title": "Ice troll male",
+      "url": "/wiki/Ice_troll_male",
+      "ns": 0
+    },
+    {
+      "id": 29453,
+      "title": "Ice troll runt",
+      "url": "/wiki/Ice_troll_runt",
+      "ns": 0
+    },
+    {
+      "id": 12751,
+      "title": "Ice warrior",
+      "url": "/wiki/Ice_warrior",
+      "ns": 0
+    },
+    {
+      "id": 25272,
+      "title": "Ice wolf",
+      "url": "/wiki/Ice_wolf",
+      "ns": 0
+    },
+    {
+      "id": 12639,
+      "title": "Icefiend",
+      "url": "/wiki/Icefiend",
+      "ns": 0
+    },
+    {
+      "id": 23472,
+      "title": "Icelord",
+      "url": "/wiki/Icelord",
+      "ns": 0
+    },
+    {
+      "id": 12715,
+      "title": "Imp",
+      "url": "/wiki/Imp",
+      "ns": 0
+    },
+    {
+      "id": 28405,
+      "title": "Imp Champion",
+      "url": "/wiki/Imp_Champion",
+      "ns": 0
+    },
+    {
+      "id": 93834,
+      "title": "Imre",
+      "url": "/wiki/Imre",
+      "ns": 0
+    },
+    {
+      "id": 12370,
+      "title": "Infernal Mage",
+      "url": "/wiki/Infernal_Mage",
+      "ns": 0
+    },
+    {
+      "id": 80206,
+      "title": "Insatiable Bloodveld",
+      "url": "/wiki/Insatiable_Bloodveld",
+      "ns": 0
+    },
+    {
+      "id": 80172,
+      "title": "Insatiable mutated Bloodveld",
+      "url": "/wiki/Insatiable_mutated_Bloodveld",
+      "ns": 0
+    },
+    {
+      "id": 38621,
+      "title": "Invrigar the Necromancer",
+      "url": "/wiki/Invrigar_the_Necromancer",
+      "ns": 0
+    },
+    {
+      "id": 93836,
+      "title": "Irina",
+      "url": "/wiki/Irina",
+      "ns": 0
+    },
+    {
+      "id": 16350,
+      "title": "Iron dragon",
+      "url": "/wiki/Iron_dragon",
+      "ns": 0
+    },
+    {
+      "id": 26844,
+      "title": "Irvig Senay",
+      "url": "/wiki/Irvig_Senay",
+      "ns": 0
+    },
+    {
+      "id": 107391,
+      "title": "Ithoi the Navigator",
+      "url": "/wiki/Ithoi_the_Navigator",
+      "ns": 0
+    },
+    {
+      "id": 19768,
+      "title": "Jackal",
+      "url": "/wiki/Jackal",
+      "ns": 0
+    },
+    {
+      "id": 12578,
+      "title": "Jail guard",
+      "url": "/wiki/Jail_guard",
+      "ns": 0
+    },
+    {
+      "id": 33439,
+      "title": "Jailer",
+      "url": "/wiki/Jailer",
+      "ns": 0
+    },
+    {
+      "id": 33494,
+      "title": "Jake",
+      "url": "/wiki/Jake",
+      "ns": 0
+    },
+    {
+      "id": 99588,
+      "title": "Jal-Ak",
+      "url": "/wiki/Jal-Ak",
+      "ns": 0
+    },
+    {
+      "id": 99624,
+      "title": "Jal-AkRek-Ket",
+      "url": "/wiki/Jal-AkRek-Ket",
+      "ns": 0
+    },
+    {
+      "id": 99592,
+      "title": "Jal-AkRek-Mej",
+      "url": "/wiki/Jal-AkRek-Mej",
+      "ns": 0
+    },
+    {
+      "id": 99589,
+      "title": "Jal-AkRek-Xil",
+      "url": "/wiki/Jal-AkRek-Xil",
+      "ns": 0
+    },
+    {
+      "id": 99600,
+      "title": "Jal-ImKot",
+      "url": "/wiki/Jal-ImKot",
+      "ns": 0
+    },
+    {
+      "id": 99680,
+      "title": "Jal-MejJak",
+      "url": "/wiki/Jal-MejJak",
+      "ns": 0
+    },
+    {
+      "id": 99590,
+      "title": "Jal-MejRah",
+      "url": "/wiki/Jal-MejRah",
+      "ns": 0
+    },
+    {
+      "id": 99591,
+      "title": "Jal-Nib",
+      "url": "/wiki/Jal-Nib",
+      "ns": 0
+    },
+    {
+      "id": 99607,
+      "title": "Jal-Xil",
+      "url": "/wiki/Jal-Xil",
+      "ns": 0
+    },
+    {
+      "id": 99603,
+      "title": "Jal-Zek",
+      "url": "/wiki/Jal-Zek",
+      "ns": 0
+    },
+    {
+      "id": 99614,
+      "title": "JalTok-Jad",
+      "url": "/wiki/JalTok-Jad",
+      "ns": 0
+    },
+    {
+      "id": 74024,
+      "title": "Jeff",
+      "url": "/wiki/Jeff",
+      "ns": 0
+    },
+    {
+      "id": 11998,
+      "title": "Jelly",
+      "url": "/wiki/Jelly",
+      "ns": 0
+    },
+    {
+      "id": 74384,
+      "title": "Jennella",
+      "url": "/wiki/Jennella",
+      "ns": 0
+    },
+    {
+      "id": 15780,
+      "title": "Jogre",
+      "url": "/wiki/Jogre",
+      "ns": 0
+    },
+    {
+      "id": 44527,
+      "title": "Jogre Champion",
+      "url": "/wiki/Jogre_Champion",
+      "ns": 0
+    },
+    {
+      "id": 28762,
+      "title": "Jonny the beard",
+      "url": "/wiki/Jonny_the_beard",
+      "ns": 0
+    },
+    {
+      "id": 74263,
+      "title": "Joseph",
+      "url": "/wiki/Joseph",
+      "ns": 0
+    },
+    {
+      "id": 26742,
+      "title": "Jubbly bird",
+      "url": "/wiki/Jubbly_bird",
+      "ns": 0
+    },
+    {
+      "id": 29194,
+      "title": "Jubster",
+      "url": "/wiki/Jubster",
+      "ns": 0
+    },
+    {
+      "id": 15203,
+      "title": "Jungle Demon",
+      "url": "/wiki/Jungle_Demon",
+      "ns": 0
+    },
+    {
+      "id": 15660,
+      "title": "Jungle horror",
+      "url": "/wiki/Jungle_horror",
+      "ns": 0
+    },
+    {
+      "id": 26870,
+      "title": "Jungle savage",
+      "url": "/wiki/Jungle_savage",
+      "ns": 0
+    },
+    {
+      "id": 53055,
+      "title": "Jungle snake",
+      "url": "/wiki/Jungle_snake",
+      "ns": 0
+    },
+    {
+      "id": 22788,
+      "title": "Jungle spider",
+      "url": "/wiki/Jungle_spider",
+      "ns": 0
+    },
+    {
+      "id": 83364,
+      "title": "Jungle wolf",
+      "url": "/wiki/Jungle_wolf",
+      "ns": 0
+    },
+    {
+      "id": 111650,
+      "title": "Justiciar Zachariah",
+      "url": "/wiki/Justiciar_Zachariah",
+      "ns": 0
+    },
+    {
+      "id": 41214,
+      "title": "Juvinate",
+      "url": "/wiki/Juvinate",
+      "ns": 0
+    },
+    {
+      "id": 22758,
+      "title": "K'ril Tsutsaroth",
+      "url": "/wiki/K%27ril_Tsutsaroth",
+      "ns": 0
+    },
+    {
+      "id": 13068,
+      "title": "Kalphite Guardian",
+      "url": "/wiki/Kalphite_Guardian",
+      "ns": 0
+    },
+    {
+      "id": 12838,
+      "title": "Kalphite Queen",
+      "url": "/wiki/Kalphite_Queen",
+      "ns": 0
+    },
+    {
+      "id": 13538,
+      "title": "Kalphite Soldier",
+      "url": "/wiki/Kalphite_Soldier",
+      "ns": 0
+    },
+    {
+      "id": 53842,
+      "title": "Kalphite soldier (Construction)",
+      "url": "/wiki/Kalphite_soldier_(Construction)",
+      "ns": 0
+    },
+    {
+      "id": 11935,
+      "title": "Kalphite Worker",
+      "url": "/wiki/Kalphite_Worker",
+      "ns": 0
+    },
+    {
+      "id": 23796,
+      "title": "Kalrag",
+      "url": "/wiki/Kalrag",
+      "ns": 0
+    },
+    {
+      "id": 17884,
+      "title": "Kamil",
+      "url": "/wiki/Kamil",
+      "ns": 0
+    },
+    {
+      "id": 17883,
+      "title": "Karamel",
+      "url": "/wiki/Karamel",
+      "ns": 0
+    },
+    {
+      "id": 13853,
+      "title": "Karil the Tainted",
+      "url": "/wiki/Karil_the_Tainted",
+      "ns": 0
+    },
+    {
+      "id": 16765,
+      "title": "Kebbit",
+      "url": "/wiki/Kebbit",
+      "ns": 0
+    },
+    {
+      "id": 72529,
+      "title": "Keef",
+      "url": "/wiki/Keef",
+      "ns": 0
+    },
+    {
+      "id": 17826,
+      "title": "Ket-Zek",
+      "url": "/wiki/Ket-Zek",
+      "ns": 0
+    },
+    {
+      "id": 44707,
+      "title": "Khazard commander",
+      "url": "/wiki/Khazard_commander",
+      "ns": 0
+    },
+    {
+      "id": 27927,
+      "title": "Khazard Guard",
+      "url": "/wiki/Khazard_Guard",
+      "ns": 0
+    },
+    {
+      "id": 35250,
+      "title": "Khazard ogre",
+      "url": "/wiki/Khazard_ogre",
+      "ns": 0
+    },
+    {
+      "id": 35248,
+      "title": "Khazard scorpion",
+      "url": "/wiki/Khazard_scorpion",
+      "ns": 0
+    },
+    {
+      "id": 27926,
+      "title": "Khazard trooper",
+      "url": "/wiki/Khazard_trooper",
+      "ns": 0
+    },
+    {
+      "id": 11450,
+      "title": "Khazard warlord",
+      "url": "/wiki/Khazard_warlord",
+      "ns": 0
+    },
+    {
+      "id": 16183,
+      "title": "Killerwatt",
+      "url": "/wiki/Killerwatt",
+      "ns": 0
+    },
+    {
+      "id": 11870,
+      "title": "King Black Dragon",
+      "url": "/wiki/King_Black_Dragon",
+      "ns": 0
+    },
+    {
+      "id": 80111,
+      "title": "King kurask",
+      "url": "/wiki/King_kurask",
+      "ns": 0
+    },
+    {
+      "id": 12824,
+      "title": "King Roald",
+      "url": "/wiki/King_Roald",
+      "ns": 0
+    },
+    {
+      "id": 74235,
+      "title": "King Sand Crab",
+      "url": "/wiki/King_Sand_Crab",
+      "ns": 0
+    },
+    {
+      "id": 17599,
+      "title": "King Scorpion",
+      "url": "/wiki/King_Scorpion",
+      "ns": 0
+    },
+    {
+      "id": 29198,
+      "title": "Knight of Ardougne",
+      "url": "/wiki/Knight_of_Ardougne",
+      "ns": 0
+    },
+    {
+      "id": 27898,
+      "title": "Knight of Saradomin",
+      "url": "/wiki/Knight_of_Saradomin",
+      "ns": 0
+    },
+    {
+      "id": 72304,
+      "title": "Kob",
+      "url": "/wiki/Kob",
+      "ns": 0
+    },
+    {
+      "id": 23540,
+      "title": "Kolodion",
+      "url": "/wiki/Kolodion",
+      "ns": 0
+    },
+    {
+      "id": 16428,
+      "title": "Koschei the deathless",
+      "url": "/wiki/Koschei_the_deathless",
+      "ns": 0
+    },
+    {
+      "id": 68609,
+      "title": "Kourend guard",
+      "url": "/wiki/Kourend_guard",
+      "ns": 0
+    },
+    {
+      "id": 68741,
+      "title": "Kourend head guard",
+      "url": "/wiki/Kourend_head_guard",
+      "ns": 0
+    },
+    {
+      "id": 27902,
+      "title": "Kraka",
+      "url": "/wiki/Kraka",
+      "ns": 0
+    },
+    {
+      "id": 29357,
+      "title": "Kraken",
+      "url": "/wiki/Kraken",
+      "ns": 0
+    },
+    {
+      "id": 23911,
+      "title": "Kree'arra",
+      "url": "/wiki/Kree%27arra",
+      "ns": 0
+    },
+    {
+      "id": 17921,
+      "title": "Kruk",
+      "url": "/wiki/Kruk",
+      "ns": 0
+    },
+    {
+      "id": 93837,
+      "title": "Ksenia",
+      "url": "/wiki/Ksenia",
+      "ns": 0
+    },
+    {
+      "id": 14356,
+      "title": "Kurask",
+      "url": "/wiki/Kurask",
+      "ns": 0
+    },
+    {
+      "id": 12994,
+      "title": "Lanzig",
+      "url": "/wiki/Lanzig",
+      "ns": 0
+    },
+    {
+      "id": 95835,
+      "title": "Large mosquito",
+      "url": "/wiki/Large_mosquito",
+      "ns": 0
+    },
+    {
+      "id": 103921,
+      "title": "Lava beast",
+      "url": "/wiki/Lava_beast",
+      "ns": 0
+    },
+    {
+      "id": 31202,
+      "title": "Lava dragon",
+      "url": "/wiki/Lava_dragon",
+      "ns": 0
+    },
+    {
+      "id": 53322,
+      "title": "Leech",
+      "url": "/wiki/Leech",
+      "ns": 0
+    },
+    {
+      "id": 35013,
+      "title": "Lensa (Rellekka)",
+      "url": "/wiki/Lensa_(Rellekka)",
+      "ns": 0
+    },
+    {
+      "id": 28404,
+      "title": "Leon d'Cour",
+      "url": "/wiki/Leon_d%27Cour",
+      "ns": 0
+    },
+    {
+      "id": 12372,
+      "title": "Lesser demon",
+      "url": "/wiki/Lesser_demon",
+      "ns": 0
+    },
+    {
+      "id": 19952,
+      "title": "Lesser Demon Champion",
+      "url": "/wiki/Lesser_Demon_Champion",
+      "ns": 0
+    },
+    {
+      "id": 11909,
+      "title": "Lev",
+      "url": "/wiki/Lev",
+      "ns": 0
+    },
+    {
+      "id": 93838,
+      "title": "Liliya",
+      "url": "/wiki/Liliya",
+      "ns": 0
+    },
+    {
+      "id": 66730,
+      "title": "Lizard",
+      "url": "/wiki/Lizard",
+      "ns": 0
+    },
+    {
+      "id": 68438,
+      "title": "Lizardman",
+      "url": "/wiki/Lizardman",
+      "ns": 0
+    },
+    {
+      "id": 68647,
+      "title": "Lizardman brute",
+      "url": "/wiki/Lizardman_brute",
+      "ns": 0
+    },
+    {
+      "id": 69787,
+      "title": "Lizardman shaman",
+      "url": "/wiki/Lizardman_shaman",
+      "ns": 0
+    },
+    {
+      "id": 14184,
+      "title": "Loar Shade",
+      "url": "/wiki/Loar_Shade",
+      "ns": 0
+    },
+    {
+      "id": 103026,
+      "title": "Lobstrosity",
+      "url": "/wiki/Lobstrosity",
+      "ns": 0
+    },
+    {
+      "id": 67154,
+      "title": "Locust",
+      "url": "/wiki/Locust",
+      "ns": 0
+    },
+    {
+      "id": 35501,
+      "title": "Locust rider",
+      "url": "/wiki/Locust_rider",
+      "ns": 0
+    },
+    {
+      "id": 103012,
+      "title": "Long-tailed Wyvern",
+      "url": "/wiki/Long-tailed_Wyvern",
+      "ns": 0
+    },
+    {
+      "id": 43789,
+      "title": "Lost barbarian",
+      "url": "/wiki/Lost_barbarian",
+      "ns": 0
+    },
+    {
+      "id": 13045,
+      "title": "Lucien",
+      "url": "/wiki/Lucien",
+      "ns": 0
+    },
+    {
+      "id": 16664,
+      "title": "Magic axe",
+      "url": "/wiki/Magic_axe",
+      "ns": 0
+    },
+    {
+      "id": 80120,
+      "title": "Malevolent Mage",
+      "url": "/wiki/Malevolent_Mage",
+      "ns": 0
+    },
+    {
+      "id": 30180,
+      "title": "Mammoth",
+      "url": "/wiki/Mammoth",
+      "ns": 0
+    },
+    {
+      "id": 12897,
+      "title": "Man",
+      "url": "/wiki/Man",
+      "ns": 0
+    },
+    {
+      "id": 72514,
+      "title": "Maniacal monkey",
+      "url": "/wiki/Maniacal_monkey",
+      "ns": 0
+    },
+    {
+      "id": 72512,
+      "title": "Maniacal Monkey Archer",
+      "url": "/wiki/Maniacal_Monkey_Archer",
+      "ns": 0
+    },
+    {
+      "id": 80121,
+      "title": "Marble gargoyle",
+      "url": "/wiki/Marble_gargoyle",
+      "ns": 0
+    },
+    {
+      "id": 28787,
+      "title": "Market Guard",
+      "url": "/wiki/Market_Guard",
+      "ns": 0
+    },
+    {
+      "id": 102218,
+      "title": "Market Guard (Draynor)",
+      "url": "/wiki/Market_Guard_(Draynor)",
+      "ns": 0
+    },
+    {
+      "id": 23860,
+      "title": "Me",
+      "url": "/wiki/Me",
+      "ns": 0
+    },
+    {
+      "id": 17977,
+      "title": "Melzar the Mad",
+      "url": "/wiki/Melzar_the_Mad",
+      "ns": 0
+    },
+    {
+      "id": 22441,
+      "title": "Menaphite Thug",
+      "url": "/wiki/Menaphite_Thug",
+      "ns": 0
+    },
+    {
+      "id": 78483,
+      "title": "Mercenary",
+      "url": "/wiki/Mercenary",
+      "ns": 0
+    },
+    {
+      "id": 37028,
+      "title": "Mercenary Captain",
+      "url": "/wiki/Mercenary_Captain",
+      "ns": 0
+    },
+    {
+      "id": 93843,
+      "title": "Milla",
+      "url": "/wiki/Milla",
+      "ns": 0
+    },
+    {
+      "id": 12310,
+      "title": "Minotaur",
+      "url": "/wiki/Minotaur",
+      "ns": 0
+    },
+    {
+      "id": 10065,
+      "title": "Mithril dragon",
+      "url": "/wiki/Mithril_dragon",
+      "ns": 0
+    },
+    {
+      "id": 17608,
+      "title": "Mogre",
+      "url": "/wiki/Mogre",
+      "ns": 0
+    },
+    {
+      "id": 19344,
+      "title": "Molanisk",
+      "url": "/wiki/Molanisk",
+      "ns": 0
+    },
+    {
+      "id": 13359,
+      "title": "Monk",
+      "url": "/wiki/Monk",
+      "ns": 0
+    },
+    {
+      "id": 19799,
+      "title": "Monk of Zamorak",
+      "url": "/wiki/Monk_of_Zamorak",
+      "ns": 0
+    },
+    {
+      "id": 18457,
+      "title": "Monkey (monster)",
+      "url": "/wiki/Monkey_(monster)",
+      "ns": 0
+    },
+    {
+      "id": 32617,
+      "title": "Monkey Archer",
+      "url": "/wiki/Monkey_Archer",
+      "ns": 0
+    },
+    {
+      "id": 29063,
+      "title": "Monkey Guard",
+      "url": "/wiki/Monkey_Guard",
+      "ns": 0
+    },
+    {
+      "id": 35920,
+      "title": "Monkey Guard (ninja)",
+      "url": "/wiki/Monkey_Guard_(ninja)",
+      "ns": 0
+    },
+    {
+      "id": 28781,
+      "title": "Monkey Zombie",
+      "url": "/wiki/Monkey_Zombie",
+      "ns": 0
+    },
+    {
+      "id": 82074,
+      "title": "Monstrous basilisk",
+      "url": "/wiki/Monstrous_basilisk",
+      "ns": 0
+    },
+    {
+      "id": 32582,
+      "title": "Mosquito swarm",
+      "url": "/wiki/Mosquito_swarm",
+      "ns": 0
+    },
+    {
+      "id": 12212,
+      "title": "Moss giant",
+      "url": "/wiki/Moss_giant",
+      "ns": 0
+    },
+    {
+      "id": 34767,
+      "title": "Moss giant (Roving Elves)",
+      "url": "/wiki/Moss_giant_(Roving_Elves)",
+      "ns": 0
+    },
+    {
+      "id": 14093,
+      "title": "Mountain troll",
+      "url": "/wiki/Mountain_troll",
+      "ns": 0
+    },
+    {
+      "id": 28840,
+      "title": "Mounted terrorbird gnome",
+      "url": "/wiki/Mounted_terrorbird_gnome",
+      "ns": 0
+    },
+    {
+      "id": 27924,
+      "title": "Mourner",
+      "url": "/wiki/Mourner",
+      "ns": 0
+    },
+    {
+      "id": 27620,
+      "title": "Mouse",
+      "url": "/wiki/Mouse",
+      "ns": 0
+    },
+    {
+      "id": 20194,
+      "title": "Mudskipper",
+      "url": "/wiki/Mudskipper",
+      "ns": 0
+    },
+    {
+      "id": 12591,
+      "title": "Mugger",
+      "url": "/wiki/Mugger",
+      "ns": 0
+    },
+    {
+      "id": 16336,
+      "title": "Mummy",
+      "url": "/wiki/Mummy",
+      "ns": 0
+    },
+    {
+      "id": 74251,
+      "title": "Mutated Bloodveld",
+      "url": "/wiki/Mutated_Bloodveld",
+      "ns": 0
+    },
+    {
+      "id": 82498,
+      "title": "Muttadile",
+      "url": "/wiki/Muttadile",
+      "ns": 0
+    },
+    {
+      "id": 67233,
+      "title": "Myre Blamish Snail",
+      "url": "/wiki/Myre_Blamish_Snail",
+      "ns": 0
+    },
+    {
+      "id": 38279,
+      "title": "Nail beast",
+      "url": "/wiki/Nail_beast",
+      "ns": 0
+    },
+    {
+      "id": 16520,
+      "title": "Narf",
+      "url": "/wiki/Narf",
+      "ns": 0
+    },
+    {
+      "id": 26485,
+      "title": "Nazastarool",
+      "url": "/wiki/Nazastarool",
+      "ns": 0
+    },
+    {
+      "id": 13473,
+      "title": "Nechryael",
+      "url": "/wiki/Nechryael",
+      "ns": 0
+    },
+    {
+      "id": 80122,
+      "title": "Nechryarch",
+      "url": "/wiki/Nechryarch",
+      "ns": 0
+    },
+    {
+      "id": 22355,
+      "title": "Necromancer (monster)",
+      "url": "/wiki/Necromancer_(monster)",
+      "ns": 0
+    },
+    {
+      "id": 21600,
+      "title": "Newtroost",
+      "url": "/wiki/Newtroost",
+      "ns": 0
+    },
+    {
+      "id": 26493,
+      "title": "Nezikchened",
+      "url": "/wiki/Nezikchened",
+      "ns": 0
+    },
+    {
+      "id": 80110,
+      "title": "Night beast",
+      "url": "/wiki/Night_beast",
+      "ns": 0
+    },
+    {
+      "id": 93844,
+      "title": "Nikita",
+      "url": "/wiki/Nikita",
+      "ns": 0
+    },
+    {
+      "id": 93845,
+      "title": "Nikolai",
+      "url": "/wiki/Nikolai",
+      "ns": 0
+    },
+    {
+      "id": 80247,
+      "title": "Nuclear smoke devil",
+      "url": "/wiki/Nuclear_smoke_devil",
+      "ns": 0
+    },
+    {
+      "id": 80432,
+      "title": "Obor",
+      "url": "/wiki/Obor",
+      "ns": 0
+    },
+    {
+      "id": 66132,
+      "title": "Ocga",
+      "url": "/wiki/Ocga",
+      "ns": 0
+    },
+    {
+      "id": 81240,
+      "title": "Ochre Blamish Snail",
+      "url": "/wiki/Ochre_Blamish_Snail",
+      "ns": 0
+    },
+    {
+      "id": 12594,
+      "title": "Ogre",
+      "url": "/wiki/Ogre",
+      "ns": 0
+    },
+    {
+      "id": 23363,
+      "title": "Ogre chieftain",
+      "url": "/wiki/Ogre_chieftain",
+      "ns": 0
+    },
+    {
+      "id": 23365,
+      "title": "Ogre shaman",
+      "url": "/wiki/Ogre_shaman",
+      "ns": 0
+    },
+    {
+      "id": 107348,
+      "title": "Ogress Shaman",
+      "url": "/wiki/Ogress_Shaman",
+      "ns": 0
+    },
+    {
+      "id": 107350,
+      "title": "Ogress Warrior",
+      "url": "/wiki/Ogress_Warrior",
+      "ns": 0
+    },
+    {
+      "id": 26869,
+      "title": "Oomlie bird",
+      "url": "/wiki/Oomlie_bird",
+      "ns": 0
+    },
+    {
+      "id": 33189,
+      "title": "Ork",
+      "url": "/wiki/Ork",
+      "ns": 0
+    },
+    {
+      "id": 28826,
+      "title": "Othainian",
+      "url": "/wiki/Othainian",
+      "ns": 0
+    },
+    {
+      "id": 13550,
+      "title": "Otherworldly being",
+      "url": "/wiki/Otherworldly_being",
+      "ns": 0
+    },
+    {
+      "id": 20209,
+      "title": "Outlaw",
+      "url": "/wiki/Outlaw",
+      "ns": 0
+    },
+    {
+      "id": 33026,
+      "title": "Padulah",
+      "url": "/wiki/Padulah",
+      "ns": 0
+    },
+    {
+      "id": 41452,
+      "title": "Painted Goblin",
+      "url": "/wiki/Painted_Goblin",
+      "ns": 0
+    },
+    {
+      "id": 28041,
+      "title": "Paladin",
+      "url": "/wiki/Paladin",
+      "ns": 0
+    },
+    {
+      "id": 33496,
+      "title": "Palmer",
+      "url": "/wiki/Palmer",
+      "ns": 0
+    },
+    {
+      "id": 33680,
+      "title": "Pee Hat",
+      "url": "/wiki/Pee_Hat",
+      "ns": 0
+    },
+    {
+      "id": 21589,
+      "title": "Penance Fighter",
+      "url": "/wiki/Penance_Fighter",
+      "ns": 0
+    },
+    {
+      "id": 21821,
+      "title": "Penance Healer",
+      "url": "/wiki/Penance_Healer",
+      "ns": 0
+    },
+    {
+      "id": 17449,
+      "title": "Penance Queen",
+      "url": "/wiki/Penance_Queen",
+      "ns": 0
+    },
+    {
+      "id": 21588,
+      "title": "Penance Ranger",
+      "url": "/wiki/Penance_Ranger",
+      "ns": 0
+    },
+    {
+      "id": 39922,
+      "title": "Penance Runner",
+      "url": "/wiki/Penance_Runner",
+      "ns": 0
+    },
+    {
+      "id": 39613,
+      "title": "Penda",
+      "url": "/wiki/Penda",
+      "ns": 0
+    },
+    {
+      "id": 99321,
+      "title": "Penguin (monster)",
+      "url": "/wiki/Penguin_(monster)",
+      "ns": 0
+    },
+    {
+      "id": 23412,
+      "title": "Pheasant",
+      "url": "/wiki/Pheasant",
+      "ns": 0
+    },
+    {
+      "id": 42947,
+      "title": "Phrin Shade",
+      "url": "/wiki/Phrin_Shade",
+      "ns": 0
+    },
+    {
+      "id": 24570,
+      "title": "Pirate",
+      "url": "/wiki/Pirate",
+      "ns": 0
+    },
+    {
+      "id": 94717,
+      "title": "Pirate Guard",
+      "url": "/wiki/Pirate_Guard",
+      "ns": 0
+    },
+    {
+      "id": 74958,
+      "title": "Pit Scorpion",
+      "url": "/wiki/Pit_Scorpion",
+      "ns": 0
+    },
+    {
+      "id": 67155,
+      "title": "Plague frog",
+      "url": "/wiki/Plague_frog",
+      "ns": 0
+    },
+    {
+      "id": 35636,
+      "title": "Poison Scorpion",
+      "url": "/wiki/Poison_Scorpion",
+      "ns": 0
+    },
+    {
+      "id": 28921,
+      "title": "Poison spider",
+      "url": "/wiki/Poison_spider",
+      "ns": 0
+    },
+    {
+      "id": 28687,
+      "title": "Poltenip",
+      "url": "/wiki/Poltenip",
+      "ns": 0
+    },
+    {
+      "id": 111638,
+      "title": "Porazdir",
+      "url": "/wiki/Porazdir",
+      "ns": 0
+    },
+    {
+      "id": 28529,
+      "title": "Portal (Pest Control)",
+      "url": "/wiki/Portal_(Pest_Control)",
+      "ns": 0
+    },
+    {
+      "id": 15916,
+      "title": "Possessed pickaxe",
+      "url": "/wiki/Possessed_pickaxe",
+      "ns": 0
+    },
+    {
+      "id": 12871,
+      "title": "Possessed Priest",
+      "url": "/wiki/Possessed_Priest",
+      "ns": 0
+    },
+    {
+      "id": 12873,
+      "title": "Pyrefiend",
+      "url": "/wiki/Pyrefiend",
+      "ns": 0
+    },
+    {
+      "id": 18427,
+      "title": "Queen spawn",
+      "url": "/wiki/Queen_spawn",
+      "ns": 0
+    },
+    {
+      "id": 27392,
+      "title": "Rabbit",
+      "url": "/wiki/Rabbit",
+      "ns": 0
+    },
+    {
+      "id": 28689,
+      "title": "Radat",
+      "url": "/wiki/Radat",
+      "ns": 0
+    },
+    {
+      "id": 94993,
+      "title": "Ragnar (Miscellania)",
+      "url": "/wiki/Ragnar_(Miscellania)",
+      "ns": 0
+    },
+    {
+      "id": 95013,
+      "title": "Ragnvald",
+      "url": "/wiki/Ragnvald",
+      "ns": 0
+    },
+    {
+      "id": 38806,
+      "title": "Ram",
+      "url": "/wiki/Ram",
+      "ns": 0
+    },
+    {
+      "id": 26842,
+      "title": "Ranalph Devere",
+      "url": "/wiki/Ranalph_Devere",
+      "ns": 0
+    },
+    {
+      "id": 95016,
+      "title": "Rannveig",
+      "url": "/wiki/Rannveig",
+      "ns": 0
+    },
+    {
+      "id": 13609,
+      "title": "Rat",
+      "url": "/wiki/Rat",
+      "ns": 0
+    },
+    {
+      "id": 28537,
+      "title": "Ravager",
+      "url": "/wiki/Ravager",
+      "ns": 0
+    },
+    {
+      "id": 70527,
+      "title": "Reanimated abyssal",
+      "url": "/wiki/Reanimated_abyssal",
+      "ns": 0
+    },
+    {
+      "id": 70526,
+      "title": "Reanimated aviansie",
+      "url": "/wiki/Reanimated_aviansie",
+      "ns": 0
+    },
+    {
+      "id": 70512,
+      "title": "Reanimated bear",
+      "url": "/wiki/Reanimated_bear",
+      "ns": 0
+    },
+    {
+      "id": 70523,
+      "title": "Reanimated bloodveld",
+      "url": "/wiki/Reanimated_bloodveld",
+      "ns": 0
+    },
+    {
+      "id": 70515,
+      "title": "Reanimated chaos druid",
+      "url": "/wiki/Reanimated_chaos_druid",
+      "ns": 0
+    },
+    {
+      "id": 70522,
+      "title": "Reanimated dagannoth",
+      "url": "/wiki/Reanimated_dagannoth",
+      "ns": 0
+    },
+    {
+      "id": 68893,
+      "title": "Reanimated demon",
+      "url": "/wiki/Reanimated_demon",
+      "ns": 0
+    },
+    {
+      "id": 74449,
+      "title": "Reanimated demon spawn",
+      "url": "/wiki/Reanimated_demon_spawn",
+      "ns": 0
+    },
+    {
+      "id": 70514,
+      "title": "Reanimated dog",
+      "url": "/wiki/Reanimated_dog",
+      "ns": 0
+    },
+    {
+      "id": 70528,
+      "title": "Reanimated dragon",
+      "url": "/wiki/Reanimated_dragon",
+      "ns": 0
+    },
+    {
+      "id": 70518,
+      "title": "Reanimated elf",
+      "url": "/wiki/Reanimated_elf",
+      "ns": 0
+    },
+    {
+      "id": 70516,
+      "title": "Reanimated giant",
+      "url": "/wiki/Reanimated_giant",
+      "ns": 0
+    },
+    {
+      "id": 70507,
+      "title": "Reanimated goblin",
+      "url": "/wiki/Reanimated_goblin",
+      "ns": 0
+    },
+    {
+      "id": 70520,
+      "title": "Reanimated horror",
+      "url": "/wiki/Reanimated_horror",
+      "ns": 0
+    },
+    {
+      "id": 70509,
+      "title": "Reanimated imp",
+      "url": "/wiki/Reanimated_imp",
+      "ns": 0
+    },
+    {
+      "id": 70521,
+      "title": "Reanimated kalphite",
+      "url": "/wiki/Reanimated_kalphite",
+      "ns": 0
+    },
+    {
+      "id": 70510,
+      "title": "Reanimated minotaur",
+      "url": "/wiki/Reanimated_minotaur",
+      "ns": 0
+    },
+    {
+      "id": 70508,
+      "title": "Reanimated monkey",
+      "url": "/wiki/Reanimated_monkey",
+      "ns": 0
+    },
+    {
+      "id": 70517,
+      "title": "Reanimated ogre",
+      "url": "/wiki/Reanimated_ogre",
+      "ns": 0
+    },
+    {
+      "id": 70511,
+      "title": "Reanimated scorpion",
+      "url": "/wiki/Reanimated_scorpion",
+      "ns": 0
+    },
+    {
+      "id": 70519,
+      "title": "Reanimated troll",
+      "url": "/wiki/Reanimated_troll",
+      "ns": 0
+    },
+    {
+      "id": 70524,
+      "title": "Reanimated TzHaar",
+      "url": "/wiki/Reanimated_TzHaar",
+      "ns": 0
+    },
+    {
+      "id": 70513,
+      "title": "Reanimated unicorn",
+      "url": "/wiki/Reanimated_unicorn",
+      "ns": 0
+    },
+    {
+      "id": 16195,
+      "title": "Red dragon",
+      "url": "/wiki/Red_dragon",
+      "ns": 0
+    },
+    {
+      "id": 65613,
+      "title": "Renegade knight",
+      "url": "/wiki/Renegade_knight",
+      "ns": 0
+    },
+    {
+      "id": 80160,
+      "title": "Repugnant spectre",
+      "url": "/wiki/Repugnant_spectre",
+      "ns": 0
+    },
+    {
+      "id": 106812,
+      "title": "Revenant cyclops",
+      "url": "/wiki/Revenant_cyclops",
+      "ns": 0
+    },
+    {
+      "id": 106739,
+      "title": "Revenant dark beast",
+      "url": "/wiki/Revenant_dark_beast",
+      "ns": 0
+    },
+    {
+      "id": 106770,
+      "title": "Revenant demon",
+      "url": "/wiki/Revenant_demon",
+      "ns": 0
+    },
+    {
+      "id": 106734,
+      "title": "Revenant dragon",
+      "url": "/wiki/Revenant_dragon",
+      "ns": 0
+    },
+    {
+      "id": 106779,
+      "title": "Revenant goblin",
+      "url": "/wiki/Revenant_goblin",
+      "ns": 0
+    },
+    {
+      "id": 106736,
+      "title": "Revenant hellhound",
+      "url": "/wiki/Revenant_hellhound",
+      "ns": 0
+    },
+    {
+      "id": 106763,
+      "title": "Revenant hobgoblin",
+      "url": "/wiki/Revenant_hobgoblin",
+      "ns": 0
+    },
+    {
+      "id": 106767,
+      "title": "Revenant imp",
+      "url": "/wiki/Revenant_imp",
+      "ns": 0
+    },
+    {
+      "id": 106766,
+      "title": "Revenant knight",
+      "url": "/wiki/Revenant_knight",
+      "ns": 0
+    },
+    {
+      "id": 106737,
+      "title": "Revenant ork",
+      "url": "/wiki/Revenant_ork",
+      "ns": 0
+    },
+    {
+      "id": 106738,
+      "title": "Revenant pyrefiend",
+      "url": "/wiki/Revenant_pyrefiend",
+      "ns": 0
+    },
+    {
+      "id": 18033,
+      "title": "River troll",
+      "url": "/wiki/River_troll",
+      "ns": 0
+    },
+    {
+      "id": 41220,
+      "title": "Riyl Shade",
+      "url": "/wiki/Riyl_Shade",
+      "ns": 0
+    },
+    {
+      "id": 18694,
+      "title": "Robert the Strong",
+      "url": "/wiki/Robert_the_Strong",
+      "ns": 0
+    },
+    {
+      "id": 33679,
+      "title": "Rock (Troll)",
+      "url": "/wiki/Rock_(Troll)",
+      "ns": 0
+    },
+    {
+      "id": 12214,
+      "title": "Rock Crab",
+      "url": "/wiki/Rock_Crab",
+      "ns": 0
+    },
+    {
+      "id": 39574,
+      "title": "Rock golem (monster)",
+      "url": "/wiki/Rock_golem_(monster)",
+      "ns": 0
+    },
+    {
+      "id": 28895,
+      "title": "Rock lobster",
+      "url": "/wiki/Rock_lobster",
+      "ns": 0
+    },
+    {
+      "id": 13042,
+      "title": "Rockslug",
+      "url": "/wiki/Rockslug",
+      "ns": 0
+    },
+    {
+      "id": 52974,
+      "title": "Rocnar",
+      "url": "/wiki/Rocnar",
+      "ns": 0
+    },
+    {
+      "id": 54875,
+      "title": "Rogue",
+      "url": "/wiki/Rogue",
+      "ns": 0
+    },
+    {
+      "id": 44085,
+      "title": "Rooster",
+      "url": "/wiki/Rooster",
+      "ns": 0
+    },
+    {
+      "id": 26741,
+      "title": "Rowdy slave",
+      "url": "/wiki/Rowdy_slave",
+      "ns": 0
+    },
+    {
+      "id": 77868,
+      "title": "Rune dragon",
+      "url": "/wiki/Rune_dragon",
+      "ns": 0
+    },
+    {
+      "id": 109719,
+      "title": "Rune dragon (Construction)",
+      "url": "/wiki/Rune_dragon_(Construction)",
+      "ns": 0
+    },
+    {
+      "id": 31272,
+      "title": "Runite Golem",
+      "url": "/wiki/Runite_Golem",
+      "ns": 0
+    },
+    {
+      "id": 39643,
+      "title": "Rusty",
+      "url": "/wiki/Rusty",
+      "ns": 0
+    },
+    {
+      "id": 17816,
+      "title": "Salarin the Twisted",
+      "url": "/wiki/Salarin_the_Twisted",
+      "ns": 0
+    },
+    {
+      "id": 26843,
+      "title": "San Tojalon",
+      "url": "/wiki/San_Tojalon",
+      "ns": 0
+    },
+    {
+      "id": 73569,
+      "title": "Sand Crab",
+      "url": "/wiki/Sand_Crab",
+      "ns": 0
+    },
+    {
+      "id": 106082,
+      "title": "Sand Snake",
+      "url": "/wiki/Sand_Snake",
+      "ns": 0
+    },
+    {
+      "id": 33060,
+      "title": "Saradomin priest",
+      "url": "/wiki/Saradomin_priest",
+      "ns": 0
+    },
+    {
+      "id": 20438,
+      "title": "Saradomin wizard",
+      "url": "/wiki/Saradomin_wizard",
+      "ns": 0
+    },
+    {
+      "id": 27203,
+      "title": "Scabarites",
+      "url": "/wiki/Scabarites",
+      "ns": 0
+    },
+    {
+      "id": 35502,
+      "title": "Scarab mage",
+      "url": "/wiki/Scarab_mage",
+      "ns": 0
+    },
+    {
+      "id": 34990,
+      "title": "Scarab swarm",
+      "url": "/wiki/Scarab_swarm",
+      "ns": 0
+    },
+    {
+      "id": 35903,
+      "title": "Scarabs",
+      "url": "/wiki/Scarabs",
+      "ns": 0
+    },
+    {
+      "id": 82918,
+      "title": "Scavenger beast",
+      "url": "/wiki/Scavenger_beast",
+      "ns": 0
+    },
+    {
+      "id": 82919,
+      "title": "Scavenger runt",
+      "url": "/wiki/Scavenger_runt",
+      "ns": 0
+    },
+    {
+      "id": 65234,
+      "title": "Scion",
+      "url": "/wiki/Scion",
+      "ns": 0
+    },
+    {
+      "id": 31286,
+      "title": "Scorpia",
+      "url": "/wiki/Scorpia",
+      "ns": 0
+    },
+    {
+      "id": 65117,
+      "title": "Scorpia's guardian",
+      "url": "/wiki/Scorpia%27s_guardian",
+      "ns": 0
+    },
+    {
+      "id": 47538,
+      "title": "Scorpia's offspring (monster)",
+      "url": "/wiki/Scorpia%27s_offspring_(monster)",
+      "ns": 0
+    },
+    {
+      "id": 12522,
+      "title": "Scorpion",
+      "url": "/wiki/Scorpion",
+      "ns": 0
+    },
+    {
+      "id": 80113,
+      "title": "Screaming banshee",
+      "url": "/wiki/Screaming_banshee",
+      "ns": 0
+    },
+    {
+      "id": 113108,
+      "title": "Screaming twisted banshee",
+      "url": "/wiki/Screaming_twisted_banshee",
+      "ns": 0
+    },
+    {
+      "id": 24598,
+      "title": "Sea Snake Hatchling",
+      "url": "/wiki/Sea_Snake_Hatchling",
+      "ns": 0
+    },
+    {
+      "id": 24599,
+      "title": "Sea Snake Young",
+      "url": "/wiki/Sea_Snake_Young",
+      "ns": 0
+    },
+    {
+      "id": 26574,
+      "title": "Sea troll",
+      "url": "/wiki/Sea_troll",
+      "ns": 0
+    },
+    {
+      "id": 26576,
+      "title": "Sea Troll Queen",
+      "url": "/wiki/Sea_Troll_Queen",
+      "ns": 0
+    },
+    {
+      "id": 19769,
+      "title": "Seagull",
+      "url": "/wiki/Seagull",
+      "ns": 0
+    },
+    {
+      "id": 10130,
+      "title": "Security Guard",
+      "url": "/wiki/Security_Guard",
+      "ns": 0
+    },
+    {
+      "id": 28663,
+      "title": "Sergeant Grimspike",
+      "url": "/wiki/Sergeant_Grimspike",
+      "ns": 0
+    },
+    {
+      "id": 28660,
+      "title": "Sergeant Steelwill",
+      "url": "/wiki/Sergeant_Steelwill",
+      "ns": 0
+    },
+    {
+      "id": 26462,
+      "title": "Sergeant Strongstack",
+      "url": "/wiki/Sergeant_Strongstack",
+      "ns": 0
+    },
+    {
+      "id": 36404,
+      "title": "Shade (monster)",
+      "url": "/wiki/Shade_(monster)",
+      "ns": 0
+    },
+    {
+      "id": 29325,
+      "title": "Shadow",
+      "url": "/wiki/Shadow",
+      "ns": 0
+    },
+    {
+      "id": 49223,
+      "title": "Shadow Hound",
+      "url": "/wiki/Shadow_Hound",
+      "ns": 0
+    },
+    {
+      "id": 31532,
+      "title": "Shadow spider",
+      "url": "/wiki/Shadow_spider",
+      "ns": 0
+    },
+    {
+      "id": 15476,
+      "title": "Shadow warrior",
+      "url": "/wiki/Shadow_warrior",
+      "ns": 0
+    },
+    {
+      "id": 28531,
+      "title": "Shifter",
+      "url": "/wiki/Shifter",
+      "ns": 0
+    },
+    {
+      "id": 33008,
+      "title": "Shipyard worker",
+      "url": "/wiki/Shipyard_worker",
+      "ns": 0
+    },
+    {
+      "id": 17751,
+      "title": "Sigmund",
+      "url": "/wiki/Sigmund",
+      "ns": 0
+    },
+    {
+      "id": 45135,
+      "title": "Sir Bedivere",
+      "url": "/wiki/Sir_Bedivere",
+      "ns": 0
+    },
+    {
+      "id": 34345,
+      "title": "Sir Carl",
+      "url": "/wiki/Sir_Carl",
+      "ns": 0
+    },
+    {
+      "id": 17400,
+      "title": "Sir Gawain",
+      "url": "/wiki/Sir_Gawain",
+      "ns": 0
+    },
+    {
+      "id": 34346,
+      "title": "Sir Harry",
+      "url": "/wiki/Sir_Harry",
+      "ns": 0
+    },
+    {
+      "id": 34347,
+      "title": "Sir Jerro",
+      "url": "/wiki/Sir_Jerro",
+      "ns": 0
+    },
+    {
+      "id": 52094,
+      "title": "Sir Kay",
+      "url": "/wiki/Sir_Kay",
+      "ns": 0
+    },
+    {
+      "id": 38271,
+      "title": "Sir Lancelot",
+      "url": "/wiki/Sir_Lancelot",
+      "ns": 0
+    },
+    {
+      "id": 54946,
+      "title": "Sir Leye",
+      "url": "/wiki/Sir_Leye",
+      "ns": 0
+    },
+    {
+      "id": 65608,
+      "title": "Sir Lucan",
+      "url": "/wiki/Sir_Lucan",
+      "ns": 0
+    },
+    {
+      "id": 21497,
+      "title": "Sir Mordred",
+      "url": "/wiki/Sir_Mordred",
+      "ns": 0
+    },
+    {
+      "id": 65609,
+      "title": "Sir Palomedes",
+      "url": "/wiki/Sir_Palomedes",
+      "ns": 0
+    },
+    {
+      "id": 65610,
+      "title": "Sir Pelleas",
+      "url": "/wiki/Sir_Pelleas",
+      "ns": 0
+    },
+    {
+      "id": 65611,
+      "title": "Sir Tristram",
+      "url": "/wiki/Sir_Tristram",
+      "ns": 0
+    },
+    {
+      "id": 29259,
+      "title": "Skeletal miner",
+      "url": "/wiki/Skeletal_miner",
+      "ns": 0
+    },
+    {
+      "id": 95563,
+      "title": "Skeletal mystic",
+      "url": "/wiki/Skeletal_mystic",
+      "ns": 0
+    },
+    {
+      "id": 14925,
+      "title": "Skeletal Wyvern",
+      "url": "/wiki/Skeletal_Wyvern",
+      "ns": 0
+    },
+    {
+      "id": 13405,
+      "title": "Skeleton",
+      "url": "/wiki/Skeleton",
+      "ns": 0
+    },
+    {
+      "id": 21953,
+      "title": "Skeleton (Ape Atoll)",
+      "url": "/wiki/Skeleton_(Ape_Atoll)",
+      "ns": 0
+    },
+    {
+      "id": 52770,
+      "title": "Skeleton (Construction)",
+      "url": "/wiki/Skeleton_(Construction)",
+      "ns": 0
+    },
+    {
+      "id": 21869,
+      "title": "Skeleton brute",
+      "url": "/wiki/Skeleton_brute",
+      "ns": 0
+    },
+    {
+      "id": 20270,
+      "title": "Skeleton Champion",
+      "url": "/wiki/Skeleton_Champion",
+      "ns": 0
+    },
+    {
+      "id": 28799,
+      "title": "Skeleton fremennik",
+      "url": "/wiki/Skeleton_fremennik",
+      "ns": 0
+    },
+    {
+      "id": 43790,
+      "title": "Skeleton heavy",
+      "url": "/wiki/Skeleton_heavy",
+      "ns": 0
+    },
+    {
+      "id": 26484,
+      "title": "Skeleton Hellhound",
+      "url": "/wiki/Skeleton_Hellhound",
+      "ns": 0
+    },
+    {
+      "id": 52276,
+      "title": "Skeleton Hellhound (Vet'ion)",
+      "url": "/wiki/Skeleton_Hellhound_(Vet%27ion)",
+      "ns": 0
+    },
+    {
+      "id": 43791,
+      "title": "Skeleton hero",
+      "url": "/wiki/Skeleton_hero",
+      "ns": 0
+    },
+    {
+      "id": 67358,
+      "title": "Skeleton Mage",
+      "url": "/wiki/Skeleton_Mage",
+      "ns": 0
+    },
+    {
+      "id": 43792,
+      "title": "Skeleton thug",
+      "url": "/wiki/Skeleton_thug",
+      "ns": 0
+    },
+    {
+      "id": 43793,
+      "title": "Skeleton warlord",
+      "url": "/wiki/Skeleton_warlord",
+      "ns": 0
+    },
+    {
+      "id": 22158,
+      "title": "Skogre",
+      "url": "/wiki/Skogre",
+      "ns": 0
+    },
+    {
+      "id": 74417,
+      "title": "Skotizo",
+      "url": "/wiki/Skotizo",
+      "ns": 0
+    },
+    {
+      "id": 94955,
+      "title": "Skraeling (Etceteria)",
+      "url": "/wiki/Skraeling_(Etceteria)",
+      "ns": 0
+    },
+    {
+      "id": 95021,
+      "title": "Skraeling (Miscellania)",
+      "url": "/wiki/Skraeling_(Miscellania)",
+      "ns": 0
+    },
+    {
+      "id": 20727,
+      "title": "Slagilith",
+      "url": "/wiki/Slagilith",
+      "ns": 0
+    },
+    {
+      "id": 25622,
+      "title": "Slash Bash",
+      "url": "/wiki/Slash_Bash",
+      "ns": 0
+    },
+    {
+      "id": 21538,
+      "title": "Slug Prince",
+      "url": "/wiki/Slug_Prince",
+      "ns": 0
+    },
+    {
+      "id": 15345,
+      "title": "Small Lizard",
+      "url": "/wiki/Small_Lizard",
+      "ns": 0
+    },
+    {
+      "id": 32657,
+      "title": "Smoke devil",
+      "url": "/wiki/Smoke_devil",
+      "ns": 0
+    },
+    {
+      "id": 32378,
+      "title": "Snake",
+      "url": "/wiki/Snake",
+      "ns": 0
+    },
+    {
+      "id": 44189,
+      "title": "Snakeling",
+      "url": "/wiki/Snakeling",
+      "ns": 0
+    },
+    {
+      "id": 93847,
+      "title": "Sofiya",
+      "url": "/wiki/Sofiya",
+      "ns": 0
+    },
+    {
+      "id": 41890,
+      "title": "Soldier (Burthorpe)",
+      "url": "/wiki/Soldier_(Burthorpe)",
+      "ns": 0
+    },
+    {
+      "id": 68923,
+      "title": "Soldier (tier 1)",
+      "url": "/wiki/Soldier_(tier_1)",
+      "ns": 0
+    },
+    {
+      "id": 68924,
+      "title": "Soldier (tier 2)",
+      "url": "/wiki/Soldier_(tier_2)",
+      "ns": 0
+    },
+    {
+      "id": 68925,
+      "title": "Soldier (tier 3)",
+      "url": "/wiki/Soldier_(tier_3)",
+      "ns": 0
+    },
+    {
+      "id": 68926,
+      "title": "Soldier (tier 4)",
+      "url": "/wiki/Soldier_(tier_4)",
+      "ns": 0
+    },
+    {
+      "id": 68927,
+      "title": "Soldier (tier 5)",
+      "url": "/wiki/Soldier_(tier_5)",
+      "ns": 0
+    },
+    {
+      "id": 43861,
+      "title": "Soldier (Yanille)",
+      "url": "/wiki/Soldier_(Yanille)",
+      "ns": 0
+    },
+    {
+      "id": 14687,
+      "title": "Solus Dellagar",
+      "url": "/wiki/Solus_Dellagar",
+      "ns": 0
+    },
+    {
+      "id": 24567,
+      "title": "Sorebones",
+      "url": "/wiki/Sorebones",
+      "ns": 0
+    },
+    {
+      "id": 34348,
+      "title": "Soulless",
+      "url": "/wiki/Soulless",
+      "ns": 0
+    },
+    {
+      "id": 21506,
+      "title": "Spawn",
+      "url": "/wiki/Spawn",
+      "ns": 0
+    },
+    {
+      "id": 108934,
+      "title": "Spawn (Dragon Slayer II)",
+      "url": "/wiki/Spawn_(Dragon_Slayer_II)",
+      "ns": 0
+    },
+    {
+      "id": 20273,
+      "title": "Speedy Keith",
+      "url": "/wiki/Speedy_Keith",
+      "ns": 0
+    },
+    {
+      "id": 24687,
+      "title": "Spider",
+      "url": "/wiki/Spider",
+      "ns": 0
+    },
+    {
+      "id": 109332,
+      "title": "Spider (Ungael)",
+      "url": "/wiki/Spider_(Ungael)",
+      "ns": 0
+    },
+    {
+      "id": 21602,
+      "title": "Spidine",
+      "url": "/wiki/Spidine",
+      "ns": 0
+    },
+    {
+      "id": 28538,
+      "title": "Spinner",
+      "url": "/wiki/Spinner",
+      "ns": 0
+    },
+    {
+      "id": 23146,
+      "title": "Spinolyp",
+      "url": "/wiki/Spinolyp",
+      "ns": 0
+    },
+    {
+      "id": 25696,
+      "title": "Spiritual mage",
+      "url": "/wiki/Spiritual_mage",
+      "ns": 0
+    },
+    {
+      "id": 25697,
+      "title": "Spiritual ranger",
+      "url": "/wiki/Spiritual_ranger",
+      "ns": 0
+    },
+    {
+      "id": 25706,
+      "title": "Spiritual warrior",
+      "url": "/wiki/Spiritual_warrior",
+      "ns": 0
+    },
+    {
+      "id": 102963,
+      "title": "Spitting Wyvern",
+      "url": "/wiki/Spitting_Wyvern",
+      "ns": 0
+    },
+    {
+      "id": 28539,
+      "title": "Splatter",
+      "url": "/wiki/Splatter",
+      "ns": 0
+    },
+    {
+      "id": 41417,
+      "title": "Stag",
+      "url": "/wiki/Stag",
+      "ns": 0
+    },
+    {
+      "id": 24887,
+      "title": "Starlight",
+      "url": "/wiki/Starlight",
+      "ns": 0
+    },
+    {
+      "id": 15088,
+      "title": "Steel dragon",
+      "url": "/wiki/Steel_dragon",
+      "ns": 0
+    },
+    {
+      "id": 53846,
+      "title": "Steel dragon (Construction)",
+      "url": "/wiki/Steel_dragon_(Construction)",
+      "ns": 0
+    },
+    {
+      "id": 33678,
+      "title": "Stick",
+      "url": "/wiki/Stick",
+      "ns": 0
+    },
+    {
+      "id": 109350,
+      "title": "Stone Guardian",
+      "url": "/wiki/Stone_Guardian",
+      "ns": 0
+    },
+    {
+      "id": 19699,
+      "title": "Stranger",
+      "url": "/wiki/Stranger",
+      "ns": 0
+    },
+    {
+      "id": 45607,
+      "title": "Strongest monster",
+      "url": "/wiki/Strongest_monster",
+      "ns": 0
+    },
+    {
+      "id": 13140,
+      "title": "Suit of armour",
+      "url": "/wiki/Suit_of_armour",
+      "ns": 0
+    },
+    {
+      "id": 28215,
+      "title": "Summoned Zombie",
+      "url": "/wiki/Summoned_Zombie",
+      "ns": 0
+    },
+    {
+      "id": 17810,
+      "title": "Suqah",
+      "url": "/wiki/Suqah",
+      "ns": 0
+    },
+    {
+      "id": 93849,
+      "title": "Svetlana",
+      "url": "/wiki/Svetlana",
+      "ns": 0
+    },
+    {
+      "id": 54224,
+      "title": "Swamp creature",
+      "url": "/wiki/Swamp_creature",
+      "ns": 0
+    },
+    {
+      "id": 30470,
+      "title": "Swamp snake",
+      "url": "/wiki/Swamp_snake",
+      "ns": 0
+    },
+    {
+      "id": 29158,
+      "title": "Swordchick",
+      "url": "/wiki/Swordchick",
+      "ns": 0
+    },
+    {
+      "id": 103011,
+      "title": "Taloned Wyvern",
+      "url": "/wiki/Taloned_Wyvern",
+      "ns": 0
+    },
+    {
+      "id": 19646,
+      "title": "Tanglefoot",
+      "url": "/wiki/Tanglefoot",
+      "ns": 0
+    },
+    {
+      "id": 103046,
+      "title": "Tar Monster",
+      "url": "/wiki/Tar_Monster",
+      "ns": 0
+    },
+    {
+      "id": 67470,
+      "title": "Target",
+      "url": "/wiki/Target",
+      "ns": 0
+    },
+    {
+      "id": 28690,
+      "title": "Tarik (Nardah)",
+      "url": "/wiki/Tarik_(Nardah)",
+      "ns": 0
+    },
+    {
+      "id": 23545,
+      "title": "Tarn",
+      "url": "/wiki/Tarn",
+      "ns": 0
+    },
+    {
+      "id": 82467,
+      "title": "Tekton",
+      "url": "/wiki/Tekton",
+      "ns": 0
+    },
+    {
+      "id": 17775,
+      "title": "Temple guardian",
+      "url": "/wiki/Temple_guardian",
+      "ns": 0
+    },
+    {
+      "id": 37327,
+      "title": "Tentacle",
+      "url": "/wiki/Tentacle",
+      "ns": 0
+    },
+    {
+      "id": 16436,
+      "title": "Terror dog",
+      "url": "/wiki/Terror_dog",
+      "ns": 0
+    },
+    {
+      "id": 28838,
+      "title": "Terrorbird",
+      "url": "/wiki/Terrorbird",
+      "ns": 0
+    },
+    {
+      "id": 21509,
+      "title": "The Draugen",
+      "url": "/wiki/The_Draugen",
+      "ns": 0
+    },
+    {
+      "id": 27579,
+      "title": "The Everlasting",
+      "url": "/wiki/The_Everlasting",
+      "ns": 0
+    },
+    {
+      "id": 27582,
+      "title": "The Illusive",
+      "url": "/wiki/The_Illusive",
+      "ns": 0
+    },
+    {
+      "id": 13051,
+      "title": "The Inadequacy",
+      "url": "/wiki/The_Inadequacy",
+      "ns": 0
+    },
+    {
+      "id": 23096,
+      "title": "The Kendal",
+      "url": "/wiki/The_Kendal",
+      "ns": 0
+    },
+    {
+      "id": 24086,
+      "title": "The Shaikahan",
+      "url": "/wiki/The_Shaikahan",
+      "ns": 0
+    },
+    {
+      "id": 27580,
+      "title": "The Untouchable",
+      "url": "/wiki/The_Untouchable",
+      "ns": 0
+    },
+    {
+      "id": 32662,
+      "title": "Thermonuclear smoke devil",
+      "url": "/wiki/Thermonuclear_smoke_devil",
+      "ns": 0
+    },
+    {
+      "id": 21339,
+      "title": "Thief",
+      "url": "/wiki/Thief",
+      "ns": 0
+    },
+    {
+      "id": 95024,
+      "title": "Thora (Miscellania)",
+      "url": "/wiki/Thora_(Miscellania)",
+      "ns": 0
+    },
+    {
+      "id": 95028,
+      "title": "Thorhild",
+      "url": "/wiki/Thorhild",
+      "ns": 0
+    },
+    {
+      "id": 41300,
+      "title": "Thrantax the Mighty",
+      "url": "/wiki/Thrantax_the_Mighty",
+      "ns": 0
+    },
+    {
+      "id": 33727,
+      "title": "Thrower Troll",
+      "url": "/wiki/Thrower_Troll",
+      "ns": 0
+    },
+    {
+      "id": 10146,
+      "title": "Thug",
+      "url": "/wiki/Thug",
+      "ns": 0
+    },
+    {
+      "id": 17822,
+      "title": "Tok-Xil",
+      "url": "/wiki/Tok-Xil",
+      "ns": 0
+    },
+    {
+      "id": 53447,
+      "title": "Tok-Xil (Construction)",
+      "url": "/wiki/Tok-Xil_(Construction)",
+      "ns": 0
+    },
+    {
+      "id": 17803,
+      "title": "Tolna",
+      "url": "/wiki/Tolna",
+      "ns": 0
+    },
+    {
+      "id": 13854,
+      "title": "Torag the Corrupted",
+      "url": "/wiki/Torag_the_Corrupted",
+      "ns": 0
+    },
+    {
+      "id": 28533,
+      "title": "Torcher",
+      "url": "/wiki/Torcher",
+      "ns": 0
+    },
+    {
+      "id": 31707,
+      "title": "Tortoise",
+      "url": "/wiki/Tortoise",
+      "ns": 0
+    },
+    {
+      "id": 72320,
+      "title": "Tortured gorilla",
+      "url": "/wiki/Tortured_gorilla",
+      "ns": 0
+    },
+    {
+      "id": 12812,
+      "title": "Tortured soul",
+      "url": "/wiki/Tortured_soul",
+      "ns": 0
+    },
+    {
+      "id": 34851,
+      "title": "Tough Guy",
+      "url": "/wiki/Tough_Guy",
+      "ns": 0
+    },
+    {
+      "id": 43860,
+      "title": "Tower guard",
+      "url": "/wiki/Tower_guard",
+      "ns": 0
+    },
+    {
+      "id": 15311,
+      "title": "Tree spirit",
+      "url": "/wiki/Tree_spirit",
+      "ns": 0
+    },
+    {
+      "id": 26487,
+      "title": "Tree spirit (Lost City)",
+      "url": "/wiki/Tree_spirit_(Lost_City)",
+      "ns": 0
+    },
+    {
+      "id": 15782,
+      "title": "Treus Dayth",
+      "url": "/wiki/Treus_Dayth",
+      "ns": 0
+    },
+    {
+      "id": 15185,
+      "title": "Tribesman",
+      "url": "/wiki/Tribesman",
+      "ns": 0
+    },
+    {
+      "id": 55226,
+      "title": "Troll (Construction)",
+      "url": "/wiki/Troll_(Construction)",
+      "ns": 0
+    },
+    {
+      "id": 17569,
+      "title": "Troll general",
+      "url": "/wiki/Troll_general",
+      "ns": 0
+    },
+    {
+      "id": 67100,
+      "title": "Troll spectator",
+      "url": "/wiki/Troll_spectator",
+      "ns": 0
+    },
+    {
+      "id": 28898,
+      "title": "Tstanon Karlak",
+      "url": "/wiki/Tstanon_Karlak",
+      "ns": 0
+    },
+    {
+      "id": 14665,
+      "title": "Turoth",
+      "url": "/wiki/Turoth",
+      "ns": 0
+    },
+    {
+      "id": 53084,
+      "title": "Twig",
+      "url": "/wiki/Twig",
+      "ns": 0
+    },
+    {
+      "id": 74242,
+      "title": "Twisted Banshee",
+      "url": "/wiki/Twisted_Banshee",
+      "ns": 0
+    },
+    {
+      "id": 27391,
+      "title": "Tyras guard",
+      "url": "/wiki/Tyras_guard",
+      "ns": 0
+    },
+    {
+      "id": 17820,
+      "title": "Tz-Kek",
+      "url": "/wiki/Tz-Kek",
+      "ns": 0
+    },
+    {
+      "id": 10063,
+      "title": "Tz-Kih",
+      "url": "/wiki/Tz-Kih",
+      "ns": 0
+    },
+    {
+      "id": 20103,
+      "title": "TzHaar-Hur",
+      "url": "/wiki/TzHaar-Hur",
+      "ns": 0
+    },
+    {
+      "id": 15374,
+      "title": "TzHaar-Ket",
+      "url": "/wiki/TzHaar-Ket",
+      "ns": 0
+    },
+    {
+      "id": 20101,
+      "title": "TzHaar-Mej (Monster)",
+      "url": "/wiki/TzHaar-Mej_(Monster)",
+      "ns": 0
+    },
+    {
+      "id": 11272,
+      "title": "TzHaar-Xil",
+      "url": "/wiki/TzHaar-Xil",
+      "ns": 0
+    },
+    {
+      "id": 99566,
+      "title": "TzKal-Zuk",
+      "url": "/wiki/TzKal-Zuk",
+      "ns": 0
+    },
+    {
+      "id": 12788,
+      "title": "TzTok-Jad",
+      "url": "/wiki/TzTok-Jad",
+      "ns": 0
+    },
+    {
+      "id": 28704,
+      "title": "Ugthanki",
+      "url": "/wiki/Ugthanki",
+      "ns": 0
+    },
+    {
+      "id": 28800,
+      "title": "Ulfric",
+      "url": "/wiki/Ulfric",
+      "ns": 0
+    },
+    {
+      "id": 15292,
+      "title": "Undead chicken",
+      "url": "/wiki/Undead_chicken",
+      "ns": 0
+    },
+    {
+      "id": 15293,
+      "title": "Undead cow",
+      "url": "/wiki/Undead_cow",
+      "ns": 0
+    },
+    {
+      "id": 41185,
+      "title": "Undead Lumberjack",
+      "url": "/wiki/Undead_Lumberjack",
+      "ns": 0
+    },
+    {
+      "id": 44799,
+      "title": "Undead one",
+      "url": "/wiki/Undead_one",
+      "ns": 0
+    },
+    {
+      "id": 26833,
+      "title": "Ungadulu",
+      "url": "/wiki/Ungadulu",
+      "ns": 0
+    },
+    {
+      "id": 17851,
+      "title": "Unicorn",
+      "url": "/wiki/Unicorn",
+      "ns": 0
+    },
+    {
+      "id": 52593,
+      "title": "Unicorn Foal",
+      "url": "/wiki/Unicorn_Foal",
+      "ns": 0
+    },
+    {
+      "id": 18475,
+      "title": "Unicow",
+      "url": "/wiki/Unicow",
+      "ns": 0
+    },
+    {
+      "id": 42564,
+      "title": "Unusual Chicken",
+      "url": "/wiki/Unusual_Chicken",
+      "ns": 0
+    },
+    {
+      "id": 95031,
+      "title": "Valgerd",
+      "url": "/wiki/Valgerd",
+      "ns": 0
+    },
+    {
+      "id": 11940,
+      "title": "Vampire",
+      "url": "/wiki/Vampire",
+      "ns": 0
+    },
+    {
+      "id": 54178,
+      "title": "Vampyre Juvenile",
+      "url": "/wiki/Vampyre_Juvenile",
+      "ns": 0
+    },
+    {
+      "id": 22374,
+      "title": "Vampyre Juvinate",
+      "url": "/wiki/Vampyre_Juvinate",
+      "ns": 0
+    },
+    {
+      "id": 82542,
+      "title": "Vanguard",
+      "url": "/wiki/Vanguard",
+      "ns": 0
+    },
+    {
+      "id": 22576,
+      "title": "Vanstrom Klause",
+      "url": "/wiki/Vanstrom_Klause",
+      "ns": 0
+    },
+    {
+      "id": 82477,
+      "title": "Vasa Nistirio",
+      "url": "/wiki/Vasa_Nistirio",
+      "ns": 0
+    },
+    {
+      "id": 31270,
+      "title": "Venenatis",
+      "url": "/wiki/Venenatis",
+      "ns": 0
+    },
+    {
+      "id": 93856,
+      "title": "Vera",
+      "url": "/wiki/Vera",
+      "ns": 0
+    },
+    {
+      "id": 13855,
+      "title": "Verac the Defiled",
+      "url": "/wiki/Verac_the_Defiled",
+      "ns": 0
+    },
+    {
+      "id": 92696,
+      "title": "Vespine soldier",
+      "url": "/wiki/Vespine_soldier",
+      "ns": 0
+    },
+    {
+      "id": 82479,
+      "title": "Vespula",
+      "url": "/wiki/Vespula",
+      "ns": 0
+    },
+    {
+      "id": 31269,
+      "title": "Vet'ion",
+      "url": "/wiki/Vet%27ion",
+      "ns": 0
+    },
+    {
+      "id": 80124,
+      "title": "Vitreous Jelly",
+      "url": "/wiki/Vitreous_Jelly",
+      "ns": 0
+    },
+    {
+      "id": 113105,
+      "title": "Vitreous warped Jelly",
+      "url": "/wiki/Vitreous_warped_Jelly",
+      "ns": 0
+    },
+    {
+      "id": 26837,
+      "title": "Viyeldi",
+      "url": "/wiki/Viyeldi",
+      "ns": 0
+    },
+    {
+      "id": 108371,
+      "title": "Vorkath",
+      "url": "/wiki/Vorkath",
+      "ns": 0
+    },
+    {
+      "id": 19771,
+      "title": "Vulture",
+      "url": "/wiki/Vulture",
+      "ns": 0
+    },
+    {
+      "id": 18139,
+      "title": "Vyrewatch",
+      "url": "/wiki/Vyrewatch",
+      "ns": 0
+    },
+    {
+      "id": 13208,
+      "title": "Wall beast",
+      "url": "/wiki/Wall_beast",
+      "ns": 0
+    },
+    {
+      "id": 26953,
+      "title": "Wallasalki",
+      "url": "/wiki/Wallasalki",
+      "ns": 0
+    },
+    {
+      "id": 74237,
+      "title": "Warped Jelly",
+      "url": "/wiki/Warped_Jelly",
+      "ns": 0
+    },
+    {
+      "id": 26965,
+      "title": "Warrior (Rellekka)",
+      "url": "/wiki/Warrior_(Rellekka)",
+      "ns": 0
+    },
+    {
+      "id": 42221,
+      "title": "Warrior woman",
+      "url": "/wiki/Warrior_woman",
+      "ns": 0
+    },
+    {
+      "id": 67339,
+      "title": "Watchman (Yanille)",
+      "url": "/wiki/Watchman_(Yanille)",
+      "ns": 0
+    },
+    {
+      "id": 22451,
+      "title": "Water elemental",
+      "url": "/wiki/Water_elemental",
+      "ns": 0
+    },
+    {
+      "id": 40755,
+      "title": "Water wizard",
+      "url": "/wiki/Water_wizard",
+      "ns": 0
+    },
+    {
+      "id": 16265,
+      "title": "Waterfiend",
+      "url": "/wiki/Waterfiend",
+      "ns": 0
+    },
+    {
+      "id": 30194,
+      "title": "Weaponsmaster",
+      "url": "/wiki/Weaponsmaster",
+      "ns": 0
+    },
+    {
+      "id": 13198,
+      "title": "Werewolf",
+      "url": "/wiki/Werewolf",
+      "ns": 0
+    },
+    {
+      "id": 42295,
+      "title": "White golem",
+      "url": "/wiki/White_golem",
+      "ns": 0
+    },
+    {
+      "id": 17443,
+      "title": "White Knight",
+      "url": "/wiki/White_Knight",
+      "ns": 0
+    },
+    {
+      "id": 19739,
+      "title": "White wolf",
+      "url": "/wiki/White_wolf",
+      "ns": 0
+    },
+    {
+      "id": 16412,
+      "title": "Wild dog",
+      "url": "/wiki/Wild_dog",
+      "ns": 0
+    },
+    {
+      "id": 33495,
+      "title": "Wilson",
+      "url": "/wiki/Wilson",
+      "ns": 0
+    },
+    {
+      "id": 28714,
+      "title": "Wingman Skree",
+      "url": "/wiki/Wingman_Skree",
+      "ns": 0
+    },
+    {
+      "id": 26483,
+      "title": "Witch's experiment",
+      "url": "/wiki/Witch%27s_experiment",
+      "ns": 0
+    },
+    {
+      "id": 12851,
+      "title": "Wizard",
+      "url": "/wiki/Wizard",
+      "ns": 0
+    },
+    {
+      "id": 16539,
+      "title": "Wolf",
+      "url": "/wiki/Wolf",
+      "ns": 0
+    },
+    {
+      "id": 16532,
+      "title": "Woman",
+      "url": "/wiki/Woman",
+      "ns": 0
+    },
+    {
+      "id": 15079,
+      "title": "Wormbrain",
+      "url": "/wiki/Wormbrain",
+      "ns": 0
+    },
+    {
+      "id": 93857,
+      "title": "Yadviga",
+      "url": "/wiki/Yadviga",
+      "ns": 0
+    },
+    {
+      "id": 15447,
+      "title": "Yak",
+      "url": "/wiki/Yak",
+      "ns": 0
+    },
+    {
+      "id": 28341,
+      "title": "Yt-HurKot",
+      "url": "/wiki/Yt-HurKot",
+      "ns": 0
+    },
+    {
+      "id": 28336,
+      "title": "Yt-MejKot",
+      "url": "/wiki/Yt-MejKot",
+      "ns": 0
+    },
+    {
+      "id": 42157,
+      "title": "Yuri",
+      "url": "/wiki/Yuri",
+      "ns": 0
+    },
+    {
+      "id": 28897,
+      "title": "Zakl'n Gritch",
+      "url": "/wiki/Zakl%27n_Gritch",
+      "ns": 0
+    },
+    {
+      "id": 80527,
+      "title": "Zamorak crafter",
+      "url": "/wiki/Zamorak_crafter",
+      "ns": 0
+    },
+    {
+      "id": 80525,
+      "title": "Zamorak mage (monster)",
+      "url": "/wiki/Zamorak_mage_(monster)",
+      "ns": 0
+    },
+    {
+      "id": 80526,
+      "title": "Zamorak ranger",
+      "url": "/wiki/Zamorak_ranger",
+      "ns": 0
+    },
+    {
+      "id": 80524,
+      "title": "Zamorak warrior",
+      "url": "/wiki/Zamorak_warrior",
+      "ns": 0
+    },
+    {
+      "id": 17793,
+      "title": "Zamorak wizard",
+      "url": "/wiki/Zamorak_wizard",
+      "ns": 0
+    },
+    {
+      "id": 16527,
+      "title": "Zogre",
+      "url": "/wiki/Zogre",
+      "ns": 0
+    },
+    {
+      "id": 93858,
+      "title": "Zoja",
+      "url": "/wiki/Zoja",
+      "ns": 0
+    },
+    {
+      "id": 66989,
+      "title": "Zombie (Common)",
+      "url": "/wiki/Zombie_(Common)",
+      "ns": 0
+    },
+    {
+      "id": 66787,
+      "title": "Zombie (Lair of Tarn Razorlor)",
+      "url": "/wiki/Zombie_(Lair_of_Tarn_Razorlor)",
+      "ns": 0
+    },
+    {
+      "id": 20223,
+      "title": "Zombie (Sepulcher of Death)",
+      "url": "/wiki/Zombie_(Sepulcher_of_Death)",
+      "ns": 0
+    },
+    {
+      "id": 25582,
+      "title": "Zombie Champion",
+      "url": "/wiki/Zombie_Champion",
+      "ns": 0
+    },
+    {
+      "id": 21884,
+      "title": "Zombie pirate",
+      "url": "/wiki/Zombie_pirate",
+      "ns": 0
+    },
+    {
+      "id": 36383,
+      "title": "Zombie rat",
+      "url": "/wiki/Zombie_rat",
+      "ns": 0
+    },
+    {
+      "id": 35556,
+      "title": "Zombie swab",
+      "url": "/wiki/Zombie_swab",
+      "ns": 0
+    },
+    {
+      "id": 109327,
+      "title": "Zombified Spawn",
+      "url": "/wiki/Zombified_Spawn",
+      "ns": 0
+    },
+    {
+      "id": 44127,
+      "title": "Zulrah",
+      "url": "/wiki/Zulrah",
+      "ns": 0
+    },
+    {
+      "id": 17799,
+      "title": "Zygomite",
+      "url": "/wiki/Zygomite",
+      "ns": 0
+    },
+    {
+      "id": 31936,
+      "title": "Bosses",
+      "url": "/wiki/Category:Bosses",
+      "ns": 14
+    },
+    {
+      "id": 31987,
+      "title": "Clue Drop Monsters",
+      "url": "/wiki/Category:Clue_Drop_Monsters",
+      "ns": 14
+    },
+    {
+      "id": 17610,
+      "title": "Dragon",
+      "url": "/wiki/Category:Dragon",
+      "ns": 14
+    },
+    {
+      "id": 105764,
+      "title": "Elementals",
+      "url": "/wiki/Category:Elementals",
+      "ns": 14
+    },
+    {
+      "id": 31918,
+      "title": "Hunter creatures",
+      "url": "/wiki/Category:Hunter_creatures",
+      "ns": 14
+    },
+    {
+      "id": 107211,
+      "title": "Monsters with multiple forms",
+      "url": "/wiki/Category:Monsters_with_multiple_forms",
+      "ns": 14
+    },
+    {
+      "id": 32014,
+      "title": "Pirate",
+      "url": "/wiki/Category:Pirate",
+      "ns": 14
+    },
+    {
+      "id": 17607,
+      "title": "Slayer Monsters",
+      "url": "/wiki/Category:Slayer_Monsters",
+      "ns": 14
+    },
+    {
+      "id": 105761,
+      "title": "Spiders",
+      "url": "/wiki/Category:Spiders",
+      "ns": 14
+    },
+    {
+      "id": 32001,
+      "title": "Undead",
+      "url": "/wiki/Category:Undead",
+      "ns": 14
+    },
+    {
+      "id": 32073,
+      "title": "Wizards",
+      "url": "/wiki/Category:Wizards",
+      "ns": 14
+    }
+  ],
+  "basepath": "http://oldschoolrunescape.wikia.com"
+}

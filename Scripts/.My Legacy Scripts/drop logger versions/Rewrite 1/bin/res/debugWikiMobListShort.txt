@@ -1,0 +1,185 @@
+{
+  "items": [
+    {
+      "id": 27806,
+      "title": "A Doubt",
+      "url": "/wiki/A_Doubt",
+      "ns": 0
+    },
+    {
+      "id": 12869,
+      "title": "Aberrant spectre",
+      "url": "/wiki/Aberrant_spectre",
+      "ns": 0
+    },
+    {
+      "id": 80108,
+      "title": "Abhorrent spectre",
+      "url": "/wiki/Abhorrent_spectre",
+      "ns": 0
+    },
+    {
+      "id": 12840,
+      "title": "Abyssal demon",
+      "url": "/wiki/Abyssal_demon",
+      "ns": 0
+    },
+    {
+      "id": 24035,
+      "title": "Abyssal guardian",
+      "url": "/wiki/Abyssal_guardian",
+      "ns": 0
+    },
+    {
+      "id": 18190,
+      "title": "Abyssal leech",
+      "url": "/wiki/Abyssal_leech",
+      "ns": 0
+    },
+    {
+      "id": 65167,
+      "title": "Abyssal Sire",
+      "url": "/wiki/Abyssal_Sire",
+      "ns": 0
+    },
+    {
+      "id": 25471,
+      "title": "Abyssal walker",
+      "url": "/wiki/Abyssal_walker",
+      "ns": 0
+    },
+    {
+      "id": 85083,
+      "title": "Adamant dragon",
+      "url": "/wiki/Adamant_dragon",
+      "ns": 0
+    },
+    {
+      "id": 28250,
+      "title": "Afflicted",
+      "url": "/wiki/Afflicted",
+      "ns": 0
+    },
+    {
+      "id": 12940,
+      "title": "Agrith Naar",
+      "url": "/wiki/Agrith_Naar",
+      "ns": 0
+    },
+    {
+      "id": 18096,
+      "title": "Agrith-Na-Na",
+      "url": "/wiki/Agrith-Na-Na",
+      "ns": 0
+    },
+    {
+      "id": 13850,
+      "title": "Ahrim the Blighted",
+      "url": "/wiki/Ahrim_the_Blighted",
+      "ns": 0
+    },
+    {
+      "id": 20272,
+      "title": "Air elemental",
+      "url": "/wiki/Air_elemental",
+      "ns": 0
+    },
+    {
+      "id": 29352,
+      "title": "Air wizard",
+      "url": "/wiki/Air_wizard",
+      "ns": 0
+    },
+    {
+      "id": 15851,
+      "title": "Al-Kharid warrior",
+      "url": "/wiki/Al-Kharid_warrior",
+      "ns": 0
+    },
+    {
+      "id": 18593,
+      "title": "Albino bat",
+      "url": "/wiki/Albino_bat",
+      "ns": 0
+    },
+    {
+      "id": 93824,
+      "title": "Alexis",
+      "url": "/wiki/Alexis",
+      "ns": 0
+    },
+    {
+      "id": 24354,
+      "title": "Alomone",
+      "url": "/wiki/Alomone",
+      "ns": 0
+    },
+    {
+      "id": 94997,
+      "title": "Alrik",
+      "url": "/wiki/Alrik",
+      "ns": 0
+    },
+    {
+      "id": 103048,
+      "title": "Ammonite Crab",
+      "url": "/wiki/Ammonite_Crab",
+      "ns": 0
+    },
+    {
+      "id": 76886,
+      "title": "Ancient Wizard",
+      "url": "/wiki/Ancient_Wizard",
+      "ns": 0
+    },
+    {
+      "id": 102967,
+      "title": "Ancient Wyvern",
+      "url": "/wiki/Ancient_Wyvern",
+      "ns": 0
+    },
+    {
+      "id": 103035,
+      "title": "Ancient Zygomite",
+      "url": "/wiki/Ancient_Zygomite",
+      "ns": 0
+    },
+    {
+      "id": 43785,
+      "title": "Angry barbarian spirit",
+      "url": "/wiki/Angry_barbarian_spirit",
+      "ns": 0
+    },
+    {
+      "id": 42220,
+      "title": "Angry bear",
+      "url": "/wiki/Angry_bear",
+      "ns": 0
+    },
+    {
+      "id": 48588,
+      "title": "Angry giant rat",
+      "url": "/wiki/Angry_giant_rat",
+      "ns": 0
+    },
+    {
+      "id": 20040,
+      "title": "Angry goblin",
+      "url": "/wiki/Angry_goblin",
+      "ns": 0
+    },
+    {
+      "id": 17673,
+      "title": "Angry unicorn",
+      "url": "/wiki/Angry_unicorn",
+      "ns": 0
+    },
+    {
+      "id": 54197,
+      "title": "Angry vampyre",
+      "url": "/wiki/Angry_vampyre",
+      "ns": 0
+    }
+  ],
+  "basepath": "http://oldschoolrunescape.wikia.com"
+}

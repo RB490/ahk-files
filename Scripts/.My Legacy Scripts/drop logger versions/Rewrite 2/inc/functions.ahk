@@ -1,0 +1,141 @@
+startDropLog(input) {
+	msgbox % A_ThisFunc " and " input
+	return
+}
+
+DownloadImg(input) {
+	msgbox % A_ThisFunc " : " input
+	return
+}
+
+; input is a html variable osrs wiki page with drop tables on it retrieved with DownloadToString()
+; output is an object with all the drops and relevant information
+getDropTable(html) {
+		;// write the Google Source to an HTMLfile
+		doc := ComObjCreate("HTMLfile")
+		contentString = <meta http-equiv="X-UA-Compatible" content="IE=edge"> ; enable "getElementsByClassName" relevant thread: https://www.autohotkey.com/boards/viewtopic.php?t=28791
+		doc.write(contentString)
+		doc.write(html)
+		
+		output := []
+		
+		tables := doc.getElementsByClassName("wikitable sortable dtable")
+
+		loop, % tables.length {
+			rows := tables[A_Index-1].rows
+			
+			tableIndex := A_Index-1
+			
+			loop, % rows.length {
+				cells := rows[A_Index-1].cells
+				
+				rowIndex := A_Index-1
+				
+				If (rowIndex = 0) ; skip first row. contains: Item	Quantity	Rarity	GE market price
+						continue
+				
+				newItemIsDuplicate := false
+				If (newItem.title) { ; add item to output, if an item is available
+					loop, % output.length() { ; check if this item has already been added to output
+						If (output[A_Index].title = newItem.title) and (output[A_Index].quantity = newItem.quantity)
+							newItemIsDuplicate := true
+					}
+					If !(newItemIsDuplicate) ; if this item has not been added to the droptable yet
+						output.push(newItem) ; add it
+				}
+				newItem := []
+				
+				loop, % cells.length {
+					cellIndex := A_Index-1
+					
+					cellHtml := cells[cellIndex].innerHtml
+					cellText := cells[cellIndex].innerText
+					cellText := Trim(cellText)
+					
+					If (cellIndex = 0) {
+						; retrieve link to image from html
+						cellText := SubStr(cellHtml, InStr(cellHtml, "src=") + 5 )
+						cellText := SubStr(cellText, 1, InStr(cellText, """") - 1)
+						newItem["img"] := cellText
+					}
+					If (cellIndex = 1)
+						newItem["title"] := cellText
+					If (cellIndex = 2) {
+						noted := 0
+						If InStr(cellText, "(noted)") {
+							StringReplace, cellText, cellText, % A_Space "(noted)", , All
+							noted := 1
+						}
+						newItem["quantity"] := cellText
+						newItem["noted"] := noted
+					}
+					If (cellIndex = 3) {
+						If InStr(cellText, "[") ; remove wiki "[X]" references where x is a digit
+							cellText := Trim(SubStr(cellText, 1, InStr(cellText, "[") - 1))
+						
+						newItem["drop rate"] := cellText
+					}
+					If (cellIndex = 4)
+						continue ; dont get ge price
+				}
+			}
+		}
+		output.push(newItem) ; add last drop
+		return output
+		
+}
+
+/*
+	Parameters
+		way = to OR from
+		input = input string
+
+	Purpose
+		Allows to assign and retrieve information in gui variables since they don't allow strange characters
+		
+	Returns
+		Converted input string
+*/
+convertChars(way, input) {
+	If (way = "encrypt") { ; convert from strange to normal characters
+		StringReplace, output, input, % A_Space, $space$, All
+		StringReplace, output, output, (, $parenthesisOpen$, All ; eg: cluescroll (medium)
+		StringReplace, output, output, ), $parenthesisClose$, All ; eg: cluescroll (medium)
+		StringReplace, output, output, `%, $percentage$, All
+		StringReplace, output, output, &, $andSymbol$, All
+		StringReplace, output, output, /, $forwardSlash$, All
+		StringReplace, output, output, ', $apostrophe$, All
+		StringReplace, output, output, `,, $comma$, All
+		StringReplace, output, output, -, $dash$, All
+		StringReplace, output, output, +, $plus$, All
+	}
+	
+	If (way = "decrypt") { ; convert from normal to strange characters
+		StringReplace, output, input, $space$, % A_Space, All
+		StringReplace, output, output, $parenthesisOpen$, (, All ; eg: cluescroll (medium)
+		StringReplace, output, output, $parenthesisClose$, ), All ; eg: cluescroll (medium)
+		StringReplace, output, output, $percentage$, `%, All
+		StringReplace, output, output, $andSymbol$, &, All
+		StringReplace, output, output, $forwardSlash$, /, All
+		StringReplace, output, output, $apostrophe$, ', All
+		StringReplace, output, output, $comma$, `,, All
+		StringReplace, output, output, $dash$, -, All
+		StringReplace, output, output, $plus$, +, All
+	}
+	
+	return output
+}
+
+DeepCopy(Array, Objs=0)
+{
+    If !Objs
+        Objs := Object()
+    Obj := Array.Clone() ; produces a shallow copy in that any sub-objects are not cloned
+    Objs[&Array] := Obj ; Save this new array - & returns the address of Array in memory
+    For Key, Val in Obj
+        If (IsObject(Val)) ; If it is a subarray
+            Obj[Key] := Objs[&Val] ; If we already know of a reference to this array
+            ? Objs[&Val] ; Then point it to the new array (to prevent infinite recursion on self-references
+            : DeepCopy(Val,Objs) ; Otherwise, clone this sub-array
+    Return Obj
+}

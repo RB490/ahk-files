@@ -1,0 +1,775 @@
+{
+  "Vorkath": {
+    "drop table": [
+      {
+        "drop rate": "Always",
+        "img": "/images/a/a5/Superior_dragon_bones.png?b5c75",
+        "noted": 0,
+        "quantity": "2",
+        "title": "Superior dragon bones"
+      },
+      {
+        "drop rate": "Always",
+        "img": "/images/5/53/Blue_dragonhide.png?b8979",
+        "noted": 0,
+        "quantity": "2",
+        "title": "Blue dragonhide"
+      },
+      {
+        "drop rate": "Common",
+        "img": "/images/6/68/Rune_longsword.png?f7e83",
+        "noted": 0,
+        "quantity": "2\u20133",
+        "title": "Rune longsword"
+      },
+      {
+        "drop rate": "Common",
+        "img": "/images/3/3b/Rune_kiteshield.png?facb8",
+        "noted": 0,
+        "quantity": "1\u20133",
+        "title": "Rune kiteshield"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/f/fe/Dragon_battleaxe.png?81916",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Dragon battleaxe"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/2/23/Dragon_longsword.png?50bf4",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Dragon longsword"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/8/80/Dragon_platelegs.png?d926c",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Dragon platelegs"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/a/ab/Dragon_plateskirt.png?1a8cb",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Dragon plateskirt"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/c/ce/Battlestaff.png?43706",
+        "noted": 1,
+        "quantity": "5\u201315",
+        "title": "Battlestaff"
+      },
+      {
+        "drop rate": "Very rare (1/1,000)",
+        "img": "/images/7/7d/Dragonbone_necklace.png?802d4",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Dragonbone necklace"
+      },
+      {
+        "drop rate": "Common",
+        "img": "/images/d/de/Chaos_rune.png?0cb4d",
+        "noted": 0,
+        "quantity": "650\u20131,000",
+        "title": "Chaos rune"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/5/55/Death_rune.png?8f420",
+        "noted": 0,
+        "quantity": "300\u2013500",
+        "title": "Death rune"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/7/70/Wrath_rune.png?16069",
+        "noted": 0,
+        "quantity": "30\u2013100",
+        "title": "Wrath rune"
+      },
+      {
+        "drop rate": "Common",
+        "img": "/images/3/32/Green_dragonhide.png?edc99",
+        "noted": 1,
+        "quantity": "25\u201332",
+        "title": "Green dragonhide"
+      },
+      {
+        "drop rate": "Common",
+        "img": "/images/5/53/Blue_dragonhide.png?b8979",
+        "noted": 1,
+        "quantity": "20\u201330",
+        "title": "Blue dragonhide"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/2/29/Red_dragonhide.png?2f946",
+        "noted": 1,
+        "quantity": "15\u201325",
+        "title": "Red dragonhide"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/7/74/Black_dragonhide.png?e99dc",
+        "noted": 1,
+        "quantity": "15\u201325",
+        "title": "Black dragonhide"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/e/ea/Sapphire_bolt_tips_5.png?36cd8",
+        "noted": 0,
+        "quantity": "25\u201335",
+        "title": "Sapphire bolt tips"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/a/ad/Emerald_bolt_tips_5.png?9b8a8",
+        "noted": 0,
+        "quantity": "25\u201335",
+        "title": "Emerald bolt tips"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/2/29/Ruby_bolt_tips_5.png?e6fec",
+        "noted": 0,
+        "quantity": "25\u201335",
+        "title": "Ruby bolt tips"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/7/77/Diamond_bolt_tips_5.png?c9247",
+        "noted": 0,
+        "quantity": "25\u201335",
+        "title": "Diamond bolt tips"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/e/e1/Amethyst_bolt_tips_5.png?17ebf",
+        "noted": 0,
+        "quantity": "25\u201330",
+        "title": "Amethyst bolt tips"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/1/14/Dragonstone_bolt_tips_5.png?21d8c",
+        "noted": 0,
+        "quantity": "7\u201328",
+        "title": "Dragonstone bolt tips"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/6/68/Onyx_bolt_tips_5.png?6964b",
+        "noted": 0,
+        "quantity": "5\u201330",
+        "title": "Onyx bolt tips"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/9/9f/Rune_dart_tip.png?eacef",
+        "noted": 0,
+        "quantity": "75\u2013109",
+        "title": "Rune dart tip"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/b/b0/Dragon_dart_tip.png?37e0d",
+        "noted": 0,
+        "quantity": "10\u201350",
+        "title": "Dragon dart tip"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/7/7e/Dragon_arrowtips.png?05585",
+        "noted": 0,
+        "quantity": "25\u201350",
+        "title": "Dragon arrowtips"
+      },
+      {
+        "drop rate": "Common",
+        "img": "/images/a/a1/Adamantite_ore.png?5eb53",
+        "noted": 1,
+        "quantity": "10\u201330",
+        "title": "Adamantite ore"
+      },
+      {
+        "drop rate": "Common",
+        "img": "/images/e/ea/Diamond.png?58f7b",
+        "noted": 1,
+        "quantity": "10\u201330",
+        "title": "Diamond"
+      },
+      {
+        "drop rate": "Common",
+        "img": "/images/3/39/Grapes.png?87507",
+        "noted": 1,
+        "quantity": "250\u2013301",
+        "title": "Grapes"
+      },
+      {
+        "drop rate": "Common",
+        "img": "/images/2/20/Magic_logs.png?a1e54",
+        "noted": 1,
+        "quantity": "50",
+        "title": "Magic logs"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/2/25/Dragonstone.png?bf5b8",
+        "noted": 1,
+        "quantity": "1\u20133",
+        "title": "Dragonstone"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/3/31/Dragon_bolts_%28unf%29_5.png?b5594",
+        "noted": 0,
+        "quantity": "50\u2013100",
+        "title": "Dragon bolts (unf)"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/a/a7/Papaya_tree_seed_5.png?36987",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Papaya tree seed"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/c/c0/Watermelon_seed_5.png?f88ea",
+        "noted": 0,
+        "quantity": "15",
+        "title": "Watermelon seed"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/6/62/Ranarr_seed_5.png?0dfb0",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Ranarr seed"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/a/a7/Snapdragon_seed_5.png?0dfb0",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Snapdragon seed"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/a/a6/Torstol_seed_5.png?0dfb0",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Torstol seed"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/a/a4/Willow_seed_5.png?ab879",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Willow seed"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/1/13/Teak_seed_5.png?332e5",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Teak seed"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/5/56/Maple_seed_5.png?aa7ff",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Maple seed"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/2/20/Calquat_tree_seed_5.png?8f5c6",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Calquat tree seed"
+      },
+      {
+        "drop rate": "Rare",
+        "img": "/images/a/ab/Dragonfruit_tree_seed_5.png?7eb3b",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Dragonfruit tree seed"
+      },
+      {
+        "drop rate": "Rare",
+        "img": "/images/d/db/Mahogany_seed_5.png?a8022",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Mahogany seed"
+      },
+      {
+        "drop rate": "Rare",
+        "img": "/images/b/b2/Palm_tree_seed_5.png?b469c",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Palm tree seed"
+      },
+      {
+        "drop rate": "Rare",
+        "img": "/images/6/6e/Yew_seed_5.png?cd301",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Yew seed"
+      },
+      {
+        "drop rate": "Rare",
+        "img": "/images/c/c6/Spirit_seed_5.png?c8ab1",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Spirit seed"
+      },
+      {
+        "drop rate": "Rare",
+        "img": "/images/d/d5/Celastrus_seed_5.png?31dda",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Celastrus seed"
+      },
+      {
+        "drop rate": "Rare",
+        "img": "/images/b/b4/Redwood_tree_seed_5.png?be68a",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Redwood tree seed"
+      },
+      {
+        "drop rate": "Very rare (~1/1,100)",
+        "img": "/images/4/4d/Magic_seed_5.png?436bc",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Magic seed"
+      },
+      {
+        "drop rate": "Common",
+        "img": "/images/3/30/Coins_10000.png?66565",
+        "noted": 0,
+        "quantity": "20,000\u201381,000",
+        "title": "Coins"
+      },
+      {
+        "drop rate": "Common",
+        "img": "/images/5/55/Manta_ray.png?939de",
+        "noted": 1,
+        "quantity": "25\u201355",
+        "title": "Manta ray"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/b/b8/Wrath_talisman.png?16069",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Wrath talisman"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/9/93/Rare_drop_table.png?ac056",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Rare drop table"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/6/63/Dragon_bones.png?3fe35",
+        "noted": 1,
+        "quantity": "7\u201328",
+        "title": "Dragon bones"
+      },
+      {
+        "drop rate": "Uncommon (1/50)",
+        "img": "/images/a/af/Vorkath%27s_head.png?ac9cd",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Vorkath's head"
+      },
+      {
+        "drop rate": "Uncommon (1/65)",
+        "img": "/images/a/a5/Clue_scroll_%28elite%29.png?edc36",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Clue scroll (elite)"
+      },
+      {
+        "drop rate": "Very rare (1/3,000)",
+        "img": "/images/9/94/Jar_of_decay.png?fcec9",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Jar of decay"
+      },
+      {
+        "drop rate": "Very rare (1/3,000)",
+        "img": "/images/4/48/Vorki.png?48d21",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Vorki"
+      },
+      {
+        "drop rate": "Very rare (1/5,000)",
+        "img": "/images/e/e3/Draconic_visage.png?9bc90",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Draconic visage"
+      },
+      {
+        "drop rate": "Very rare (1/5,000)",
+        "img": "/images/f/f9/Skeletal_visage.png?395d6",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Skeletal visage"
+      }
+    ],
+    "hasRareDropTable": 1
+  },
+  "Zulrah": {
+    "drop table": [
+      {
+        "drop rate": "Always",
+        "img": "/images/6/6a/Zulrah%27s_scales_5.png?41cad",
+        "noted": 0,
+        "quantity": "100\u2013300",
+        "title": "Zulrah's scales"
+      },
+      {
+        "drop rate": "Rare (1/512)",
+        "img": "/images/7/7f/Tanzanite_fang.png?d14f4",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Tanzanite fang"
+      },
+      {
+        "drop rate": "Rare (1/512)",
+        "img": "/images/9/93/Magic_fang.png?9f7db",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Magic fang"
+      },
+      {
+        "drop rate": "Rare (1/512)",
+        "img": "/images/a/ae/Serpentine_visage.png?ad8e4",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Serpentine visage"
+      },
+      {
+        "drop rate": "Rare (1/512)",
+        "img": "/images/f/f7/Uncut_onyx.png?79c72",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Uncut onyx"
+      },
+      {
+        "drop rate": "Uncommon (~1/50)",
+        "img": "/images/c/cf/Dragon_med_helm.png?d3c13",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Dragon med helm"
+      },
+      {
+        "drop rate": "Rare (~1/90)",
+        "img": "/images/7/7d/Dragon_halberd.png?9d84a",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Dragon halberd"
+      },
+      {
+        "drop rate": "Common (~1/10)",
+        "img": "/images/f/f6/Law_rune.png?c50ef",
+        "noted": 0,
+        "quantity": "200",
+        "title": "Law rune"
+      },
+      {
+        "drop rate": "Uncommon (~1/15)",
+        "img": "/images/d/de/Chaos_rune.png?0cb4d",
+        "noted": 0,
+        "quantity": "500",
+        "title": "Chaos rune"
+      },
+      {
+        "drop rate": "Uncommon (~1/15)",
+        "img": "/images/a/a8/Pure_essence.png?2ef7d",
+        "noted": 1,
+        "quantity": "1,500",
+        "title": "Pure essence"
+      },
+      {
+        "drop rate": "Uncommon (~1/30)",
+        "img": "/images/5/55/Death_rune.png?8f420",
+        "noted": 0,
+        "quantity": "300",
+        "title": "Death rune"
+      },
+      {
+        "drop rate": "Uncommon (~1/45)",
+        "img": "/images/2/23/Snapdragon.png?dbaab",
+        "noted": 1,
+        "quantity": "10",
+        "title": "Snapdragon"
+      },
+      {
+        "drop rate": "Rare (~1/65)",
+        "img": "/images/2/22/Dwarf_weed.png?9929e",
+        "noted": 1,
+        "quantity": "30",
+        "title": "Dwarf weed"
+      },
+      {
+        "drop rate": "Rare (~1/70)",
+        "img": "/images/a/ad/Toadflax.png?2f312",
+        "noted": 1,
+        "quantity": "25",
+        "title": "Toadflax"
+      },
+      {
+        "drop rate": "Rare (~1/75)",
+        "img": "/images/a/a4/Torstol.png?2f312",
+        "noted": 1,
+        "quantity": "10",
+        "title": "Torstol"
+      },
+      {
+        "drop rate": "Common (~1/10)",
+        "img": "/images/9/90/Snakeskin.png?3a4ef",
+        "noted": 1,
+        "quantity": "35",
+        "title": "Snakeskin"
+      },
+      {
+        "drop rate": "Common (~1/10)",
+        "img": "/images/a/a0/Runite_ore.png?835f4",
+        "noted": 1,
+        "quantity": "2",
+        "title": "Runite ore"
+      },
+      {
+        "drop rate": "Common (~1/13)",
+        "img": "/images/5/50/Flax.png?3b1a9",
+        "noted": 1,
+        "quantity": "1,000",
+        "title": "Flax"
+      },
+      {
+        "drop rate": "Common (~1/13)",
+        "img": "/images/a/ae/Yew_logs.png?043db",
+        "noted": 1,
+        "quantity": "35",
+        "title": "Yew logs"
+      },
+      {
+        "drop rate": "Uncommon (~1/16)",
+        "img": "/images/1/1c/Mahogany_logs.png?f2333",
+        "noted": 1,
+        "quantity": "50",
+        "title": "Mahogany logs"
+      },
+      {
+        "drop rate": "Uncommon (~1/16)",
+        "img": "/images/a/a7/Coal.png?5bce0",
+        "noted": 1,
+        "quantity": "200",
+        "title": "Coal"
+      },
+      {
+        "drop rate": "Uncommon (~1/20)",
+        "img": "/images/1/14/Dragonstone_bolt_tips_5.png?21d8c",
+        "noted": 0,
+        "quantity": "12",
+        "title": "Dragonstone bolt tips"
+      },
+      {
+        "drop rate": "Uncommon (~1/16)",
+        "img": "/images/b/b2/Palm_tree_seed_5.png?b469c",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Palm tree seed"
+      },
+      {
+        "drop rate": "Uncommon (~1/20)",
+        "img": "/images/a/a7/Papaya_tree_seed_5.png?36987",
+        "noted": 0,
+        "quantity": "3",
+        "title": "Papaya tree seed"
+      },
+      {
+        "drop rate": "Uncommon (~1/20)",
+        "img": "/images/2/20/Calquat_tree_seed_5.png?8f5c6",
+        "noted": 0,
+        "quantity": "2",
+        "title": "Calquat tree seed"
+      },
+      {
+        "drop rate": "Uncommon (~1/32)",
+        "img": "/images/4/4d/Magic_seed_5.png?436bc",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Magic seed"
+      },
+      {
+        "drop rate": "Rare (~1/64)",
+        "img": "/images/2/24/Toadflax_seed_5.png?0dfb0",
+        "noted": 0,
+        "quantity": "2",
+        "title": "Toadflax seed"
+      },
+      {
+        "drop rate": "Rare (~1/64)",
+        "img": "/images/a/a7/Snapdragon_seed_5.png?0dfb0",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Snapdragon seed"
+      },
+      {
+        "drop rate": "Rare (~1/64)",
+        "img": "/images/0/0b/Dwarf_weed_seed_5.png?85397",
+        "noted": 0,
+        "quantity": "2",
+        "title": "Dwarf weed seed"
+      },
+      {
+        "drop rate": "Rare (~1/64)",
+        "img": "/images/a/a6/Torstol_seed_5.png?0dfb0",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Torstol seed"
+      },
+      {
+        "drop rate": "Rare (~1/128)",
+        "img": "/images/c/c6/Spirit_seed_5.png?c8ab1",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Spirit seed"
+      },
+      {
+        "drop rate": "Rare (~1/128)",
+        "img": "/images/e/e4/Crystal_seed.png?b673a",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Crystal seed"
+      },
+      {
+        "drop rate": "Common (~1/8.8)",
+        "img": "/images/d/d4/Zul-andra_teleport.png?929cd",
+        "noted": 0,
+        "quantity": "4",
+        "title": "Zul-andra teleport"
+      },
+      {
+        "drop rate": "Common (~1/10)",
+        "img": "/images/c/ce/Battlestaff.png?43706",
+        "noted": 1,
+        "quantity": "10",
+        "title": "Battlestaff"
+      },
+      {
+        "drop rate": "Common (~1/10)",
+        "img": "/images/5/55/Manta_ray.png?939de",
+        "noted": 1,
+        "quantity": "35",
+        "title": "Manta ray"
+      },
+      {
+        "drop rate": "Common (~1/13)",
+        "img": "/images/6/63/Dragon_bones.png?3fe35",
+        "noted": 1,
+        "quantity": "12",
+        "title": "Dragon bones"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/6/6a/Zulrah%27s_scales_5.png?41cad",
+        "noted": 0,
+        "quantity": "500",
+        "title": "Zulrah's scales"
+      },
+      {
+        "drop rate": "Uncommon",
+        "img": "/images/4/41/Antidote%2B%2B%284%29.png?6ead0",
+        "noted": 1,
+        "quantity": "10",
+        "title": "Antidote++(4)"
+      },
+      {
+        "drop rate": "Uncommon (~1/15)",
+        "img": "/images/e/eb/Adamantite_bar.png?21fa9",
+        "noted": 1,
+        "quantity": "20",
+        "title": "Adamantite bar"
+      },
+      {
+        "drop rate": "Uncommon (~1/20)",
+        "img": "/images/2/2f/Coconut.png?f4739",
+        "noted": 1,
+        "quantity": "20",
+        "title": "Coconut"
+      },
+      {
+        "drop rate": "Uncommon (~1/20)",
+        "img": "/images/3/39/Grapes.png?87507",
+        "noted": 1,
+        "quantity": "250",
+        "title": "Grapes"
+      },
+      {
+        "drop rate": "Uncommon (~1/30)",
+        "img": "/images/8/8d/Swamp_tar.png?4136d",
+        "noted": 0,
+        "quantity": "1,000",
+        "title": "Swamp tar"
+      },
+      {
+        "drop rate": "Uncommon (~1/16.25)",
+        "img": "/images/9/93/Rare_drop_table.png?ac056",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Rare drop table"
+      },
+      {
+        "drop rate": "Uncommon (1/75)",
+        "img": "/images/a/a5/Clue_scroll_%28elite%29.png?edc36",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Clue scroll (elite)"
+      },
+      {
+        "drop rate": "Very rare (1/3,000)",
+        "img": "/images/2/27/Jar_of_swamp.png?73096",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Jar of swamp"
+      },
+      {
+        "drop rate": "Very rare (1/4,000)",
+        "img": "/images/e/e5/Pet_snakeling.png?37e86",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Pet snakeling"
+      },
+      {
+        "drop rate": "Very rare (~1/6,549)",
+        "img": "/images/3/39/Tanzanite_mutagen.png?e6476",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Tanzanite mutagen"
+      },
+      {
+        "drop rate": "Very rare (~1/6,549)",
+        "img": "/images/9/9f/Magma_mutagen.png?fab58",
+        "noted": 0,
+        "quantity": "1",
+        "title": "Magma mutagen"
+      }
+    ],
+    "hasRareDropTable": 1
+  }
+}

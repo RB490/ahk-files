@@ -1,0 +1,64 @@
+class class_db_Mob {
+
+	__New() {
+		this.obj := {}
+		this.objFile := A_ScriptDir "\res\db_mob.json"
+		
+		FileRead, input,  % this.objFile
+		If !(input) { ; file does not exist/ contain anything
+			this.add("Vorkath") ; add some mobs
+			this.add("Zulrah")
+			this._WriteToDisk()
+		}
+		this.obj := Json.Load(input)
+	}
+	
+	; input is a mob string
+	Add(input) {
+		this.obj[input] := {}
+				
+		html := DownloadToString("https://oldschool.runescape.wiki/" input)
+		
+		; does this mob have access to the rare drop table?
+		this.obj[input]["hasRareDropTable"] := false
+		If InStr(html, "Show/hide rare drop table")
+			this.obj[input]["hasRareDropTable"] := true
+		
+		; get the drop table
+		this.obj[input]["drop table"] := getDropTable(html)
+		
+		; download droptable images
+		loop % this.obj[input]["drop table"].length()
+			URLDownloadToFile, % "https://oldschool.runescape.wiki" this.obj[input]["drop table"][A_Index].img, % A_ScriptDir "\res\img\items\" this.obj[input]["drop table"][A_Index].title ".png"
+		
+		this._WriteToDisk() ; save updated file to disk
+		
+		;~ clipboard := json.dump(this.obj,,2)
+		;~ msgbox % json.dump(this.obj,,2)
+	}
+	
+	; input = mob name string
+	; output = object with drop list
+	GetDropTable(input) {
+		If !(IsObject(this.obj[input])) ; mob does not exist in db
+				return
+
+		output := {}
+		loop % this.obj[input]["drop table"].length()
+			output.push(this.obj[input]["drop table"][A_Index])
+		
+		return output
+	}
+
+	
+	GetDrop(mob, input) {
+		;~ msgbox % A_ThisFunc " : " input
+		msgbox % this.obj[mob]["drop table"].length()
+		return 
+	}
+
+	_WriteToDisk() {
+		FileDelete, % this.objFile
+		FileAppend, % json.dump(this.obj,,2), % this.objFile
+	}
+}

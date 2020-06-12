@@ -85,6 +85,14 @@ Class Gui {
 		Gui % this.hwnd ":Add", % control, % options " hwndcontrolhwnd", % param
 		return controlhwnd
 	}
+
+	AddGlobal(control, options := "", param := "") {
+		global
+		if InStr(options, "hwnd")
+			return m("HWNDS are returned!")
+		Gui % this.hwnd ":Add", % control, % options " hwndcontrolhwnd", % param
+		return controlhwnd
+	}
 	
 	Font(font := "", type := "") {
 		Gui % this.hwnd ":Font", % font, % type

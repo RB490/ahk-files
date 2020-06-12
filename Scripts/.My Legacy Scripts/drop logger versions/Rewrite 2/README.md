@@ -1,0 +1,3 @@
+# ahk-rs-dropLoggerRewrite
+
+test

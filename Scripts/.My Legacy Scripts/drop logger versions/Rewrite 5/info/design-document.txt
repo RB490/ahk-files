@@ -1,0 +1,23 @@
+important:
+    this is a difficult project because its scale is large. it will require a lot of problems to be solved
+
+what:
+    the wiki now has specific rdt rarity values per mob, store every drop table and its title
+
+    on the main gui have multiple tabs
+        to prevent too many drops on the gui: when a mobs total drops go above x,
+        add drop tables with x (5+ or so) amount of drops into separate tabs
+        the rest goes into the first 'main' tab
+
+info:
+    api
+        runescape wiki          https://runescape.wiki/w/Application_programming_interface
+        osrs wiki               https://oldschool.runescape.wiki/api.php
+            example correct osrs wiki call: https://oldschool.runescape.wiki/api.php?action=query&format=json&prop=categories&titles=Goblin
+        wiki general            https://www.mediawiki.org/wiki/API:Main_page
+                                https://www.mediawiki.org/wiki/API:Query
+        api old fandom wiki     https://oldschoolrunescape.fandom.com/api/v1
+
+    downloading images
+        use 'src=' in image html to create wiki url with JUST the small ish icon https://oldschool.runescape.wiki/images/3/3a/Fire_battlestaff.png?4e9db
+        use href=\"/w/ in image html to create wiki url with wiki page containing very large detailed icon! https://oldschool.runescape.wiki/w/Steel_axe#/media/File:Steel_axe_detail.png

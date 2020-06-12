@@ -1,0 +1,1174 @@
+{
+  "Common seed drop table": [
+    {
+      "itemHighAlch": "7",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Limpwurt seed",
+      "itemPrice": "54",
+      "itemQuantity": "1",
+      "itemRarity": "137/1,048"
+    },
+    {
+      "itemHighAlch": "10",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Strawberry seed",
+      "itemPrice": "6",
+      "itemQuantity": "1",
+      "itemRarity": "131/1,048"
+    },
+    {
+      "itemHighAlch": "1",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Marrentill seed",
+      "itemPrice": "11",
+      "itemQuantity": "1",
+      "itemRarity": "125/1,048"
+    },
+    {
+      "itemHighAlch": "36",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Jangerberry seed",
+      "itemPrice": "3",
+      "itemQuantity": "1",
+      "itemRarity": "92/1,048"
+    },
+    {
+      "itemHighAlch": "1",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Tarromin seed",
+      "itemPrice": "12",
+      "itemQuantity": "1",
+      "itemRarity": "85/1,048"
+    },
+    {
+      "itemHighAlch": "8",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Wildblood seed",
+      "itemPrice": "111",
+      "itemQuantity": "1",
+      "itemRarity": "83/1,048"
+    },
+    {
+      "itemHighAlch": "33",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Watermelon seed",
+      "itemPrice": "112",
+      "itemQuantity": "1",
+      "itemRarity": "63/1,048"
+    },
+    {
+      "itemHighAlch": "2",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Harralander seed",
+      "itemPrice": "38",
+      "itemQuantity": "1",
+      "itemRarity": "56/1,048"
+    },
+    {
+      "itemHighAlch": "56",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Snape grass seed",
+      "itemPrice": "3,085",
+      "itemQuantity": "1",
+      "itemRarity": "40/1,048"
+    },
+    {
+      "itemHighAlch": "30",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Ranarr seed",
+      "itemPrice": "58,532",
+      "itemQuantity": "1",
+      "itemRarity": "39/1,048"
+    },
+    {
+      "itemHighAlch": "79",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Whiteberry seed",
+      "itemPrice": "4",
+      "itemQuantity": "1",
+      "itemRarity": "34/1,048"
+    },
+    {
+      "itemHighAlch": "51",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Mushroom spore",
+      "itemPrice": "63",
+      "itemQuantity": "1",
+      "itemRarity": "29/1,048"
+    },
+    {
+      "itemHighAlch": "6",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Toadflax seed",
+      "itemPrice": "1,610",
+      "itemQuantity": "1",
+      "itemRarity": "27/1,048"
+    },
+    {
+      "itemHighAlch": "106",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Belladonna seed",
+      "itemPrice": "34",
+      "itemQuantity": "1",
+      "itemRarity": "18/1,048"
+    },
+    {
+      "itemHighAlch": "3",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Irit seed",
+      "itemPrice": "64",
+      "itemQuantity": "1",
+      "itemRarity": "18/1,048"
+    },
+    {
+      "itemHighAlch": "99",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Poison ivy seed",
+      "itemPrice": "18",
+      "itemQuantity": "1",
+      "itemRarity": "13/1,048"
+    },
+    {
+      "itemHighAlch": "4",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Avantoe seed",
+      "itemPrice": "1,655",
+      "itemQuantity": "1",
+      "itemRarity": "12/1,048"
+    },
+    {
+      "itemHighAlch": "59",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Cactus seed",
+      "itemPrice": "100",
+      "itemQuantity": "1",
+      "itemRarity": "12/1,048"
+    },
+    {
+      "itemHighAlch": "6",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Kwuarm seed",
+      "itemPrice": "675",
+      "itemQuantity": "1",
+      "itemRarity": "9/1,048"
+    },
+    {
+      "itemHighAlch": "84",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Potato cactus seed",
+      "itemPrice": "32",
+      "itemQuantity": "1",
+      "itemRarity": "8/1,048"
+    },
+    {
+      "itemHighAlch": "36",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Snapdragon seed",
+      "itemPrice": "68,351",
+      "itemQuantity": "1",
+      "itemRarity": "5/1,048"
+    },
+    {
+      "itemHighAlch": "4",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Cadantine seed",
+      "itemPrice": "2,047",
+      "itemQuantity": "1",
+      "itemRarity": "4/1,048"
+    },
+    {
+      "itemHighAlch": "5",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Lantadyme seed",
+      "itemPrice": "3,181",
+      "itemQuantity": "1",
+      "itemRarity": "3/1,048"
+    },
+    {
+      "itemHighAlch": "3",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Dwarf weed seed",
+      "itemPrice": "417",
+      "itemQuantity": "1",
+      "itemRarity": "2/1,048"
+    },
+    {
+      "itemHighAlch": "42",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Torstol seed",
+      "itemPrice": "64,178",
+      "itemQuantity": "1",
+      "itemRarity": "1/1,048"
+    }
+  ],
+  "Fixed allotment seed drop table": [
+    {
+      "itemHighAlch": "4",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Potato seed",
+      "itemPrice": "4",
+      "itemQuantity": "4",
+      "itemRarity": "96/263"
+    },
+    {
+      "itemHighAlch": "4",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Onion seed",
+      "itemPrice": "4",
+      "itemQuantity": "4",
+      "itemRarity": "72/263"
+    },
+    {
+      "itemHighAlch": "4",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Cabbage seed",
+      "itemPrice": "4",
+      "itemQuantity": "4",
+      "itemRarity": "48/263"
+    },
+    {
+      "itemHighAlch": "6",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Tomato seed",
+      "itemPrice": "3",
+      "itemQuantity": "3",
+      "itemRarity": "24/263"
+    },
+    {
+      "itemHighAlch": "12",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Sweetcorn seed",
+      "itemPrice": "6",
+      "itemQuantity": "3",
+      "itemRarity": "12/263"
+    },
+    {
+      "itemHighAlch": "20",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Strawberry seed",
+      "itemPrice": "12",
+      "itemQuantity": "2",
+      "itemRarity": "6/263"
+    },
+    {
+      "itemHighAlch": "66",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Watermelon seed",
+      "itemPrice": "224",
+      "itemQuantity": "2",
+      "itemRarity": "3/263"
+    },
+    {
+      "itemHighAlch": "112",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Snape grass seed",
+      "itemPrice": "6,170",
+      "itemQuantity": "2",
+      "itemRarity": "2/263"
+    }
+  ],
+  "Fossil drop table": [
+    {
+      "itemHighAlch": "60",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Unidentified small fossil",
+      "itemPrice": "Not sold",
+      "itemQuantity": "1",
+      "itemRarity": "1/2"
+    },
+    {
+      "itemHighAlch": "120",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Unidentified medium fossil",
+      "itemPrice": "Not sold",
+      "itemQuantity": "1",
+      "itemRarity": "1/4"
+    },
+    {
+      "itemHighAlch": "180",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Unidentified large fossil",
+      "itemPrice": "Not sold",
+      "itemQuantity": "1",
+      "itemRarity": "1/5"
+    },
+    {
+      "itemHighAlch": "750",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Unidentified rare fossil",
+      "itemPrice": "Not sold",
+      "itemQuantity": "1",
+      "itemRarity": "1/20"
+    }
+  ],
+  "Gem drop table": [
+    {
+      "itemHighAlch": "N/A",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Nothing",
+      "itemPrice": "N/A",
+      "itemQuantity": "N/A",
+      "itemRarity": "63/128; Never[d 1]"
+    },
+    {
+      "itemHighAlch": "15",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Uncut sapphire",
+      "itemPrice": "493",
+      "itemQuantity": "1",
+      "itemRarity": "32/128; 32/65[d 2]"
+    },
+    {
+      "itemHighAlch": "30",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Uncut emerald",
+      "itemPrice": "814",
+      "itemQuantity": "1",
+      "itemRarity": "16/128; 16/65[d 2]"
+    },
+    {
+      "itemHighAlch": "60",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Uncut ruby",
+      "itemPrice": "1,389",
+      "itemQuantity": "1",
+      "itemRarity": "8/128; 8/65[d 2]"
+    },
+    {
+      "itemHighAlch": "N/A",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Talisman(Chaos/Nature)",
+      "itemPrice": "Not sold",
+      "itemQuantity": "1",
+      "itemRarity": "3/128; 3/65[d 2]"
+    },
+    {
+      "itemHighAlch": "120",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Uncut diamond",
+      "itemPrice": "2,774",
+      "itemQuantity": "1",
+      "itemRarity": "2/128; 2/65[d 2]"
+    },
+    {
+      "itemHighAlch": "1,200",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Rune javelin",
+      "itemPrice": "780",
+      "itemQuantity": "5",
+      "itemRarity": "1/128; 1/65[d 2]"
+    },
+    {
+      "itemHighAlch": "60",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Loop half of key",
+      "itemPrice": "10,470",
+      "itemQuantity": "1",
+      "itemRarity": "1/128; 1/65[d 2]"
+    },
+    {
+      "itemHighAlch": "60",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Tooth half of key",
+      "itemPrice": "10,903",
+      "itemQuantity": "1",
+      "itemRarity": "1/128; 1/65[d 2]"
+    },
+    {
+      "itemHighAlch": "N/A",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Mega-rare drop table",
+      "itemPrice": "Not sold",
+      "itemQuantity": "1",
+      "itemRarity": "1/128; 1/65[d 2]"
+    }
+  ],
+  "Herb drop table": [
+    {
+      "itemHighAlch": "7",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy guam leaf",
+      "itemPrice": "10",
+      "itemQuantity": "1",
+      "itemRarity": "32/128"
+    },
+    {
+      "itemHighAlch": "8",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy marrentill",
+      "itemPrice": "14",
+      "itemQuantity": "1",
+      "itemRarity": "24/128"
+    },
+    {
+      "itemHighAlch": "9",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy tarromin",
+      "itemPrice": "128",
+      "itemQuantity": "1",
+      "itemRarity": "18/128"
+    },
+    {
+      "itemHighAlch": "9",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy harralander",
+      "itemPrice": "629",
+      "itemQuantity": "1",
+      "itemRarity": "14/128"
+    },
+    {
+      "itemHighAlch": "18",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy ranarr weed",
+      "itemPrice": "9,051",
+      "itemQuantity": "1",
+      "itemRarity": "11/128"
+    },
+    {
+      "itemHighAlch": "10",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy irit leaf",
+      "itemPrice": "851",
+      "itemQuantity": "1",
+      "itemRarity": "8/128"
+    },
+    {
+      "itemHighAlch": "10",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy avantoe",
+      "itemPrice": "1,780",
+      "itemQuantity": "1",
+      "itemRarity": "6/128"
+    },
+    {
+      "itemHighAlch": "12",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy kwuarm",
+      "itemPrice": "1,262",
+      "itemQuantity": "1",
+      "itemRarity": "5/128"
+    },
+    {
+      "itemHighAlch": "13",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy cadantine",
+      "itemPrice": "1,529",
+      "itemQuantity": "1",
+      "itemRarity": "4/128"
+    },
+    {
+      "itemHighAlch": "13",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy lantadyme",
+      "itemPrice": "1,474",
+      "itemQuantity": "1",
+      "itemRarity": "3/128"
+    },
+    {
+      "itemHighAlch": "14",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy dwarf weed",
+      "itemPrice": "479",
+      "itemQuantity": "1",
+      "itemRarity": "3/128"
+    }
+  ],
+  "Hops drop table": [
+    {
+      "itemHighAlch": "4",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Barley seed",
+      "itemPrice": "8",
+      "itemQuantity": "4",
+      "itemRarity": "35/113"
+    },
+    {
+      "itemHighAlch": "3",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Hammerstone seed",
+      "itemPrice": "3",
+      "itemQuantity": "3",
+      "itemRarity": "28/113"
+    },
+    {
+      "itemHighAlch": "6",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Jute seed",
+      "itemPrice": "4",
+      "itemQuantity": "2",
+      "itemRarity": "18/113"
+    },
+    {
+      "itemHighAlch": "3",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Asgarnian seed",
+      "itemPrice": "3",
+      "itemQuantity": "3",
+      "itemRarity": "16/113"
+    },
+    {
+      "itemHighAlch": "6",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Yanillian seed",
+      "itemPrice": "10",
+      "itemQuantity": "2",
+      "itemRarity": "11/113"
+    },
+    {
+      "itemHighAlch": "8",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Krandorian seed",
+      "itemPrice": "10",
+      "itemQuantity": "2",
+      "itemRarity": "4/113"
+    },
+    {
+      "itemHighAlch": "8",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Wildblood seed",
+      "itemPrice": "111",
+      "itemQuantity": "1",
+      "itemRarity": "1/113"
+    }
+  ],
+  "Mega-rare drop table": [
+    {
+      "itemHighAlch": "N/A",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Nothing",
+      "itemPrice": "N/A",
+      "itemQuantity": "N/A",
+      "itemRarity": "113/128; Never[d 1]"
+    },
+    {
+      "itemHighAlch": "12,480",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Rune spear",
+      "itemPrice": "12,003",
+      "itemQuantity": "1",
+      "itemRarity": "8/128; 8/15[d 2]"
+    },
+    {
+      "itemHighAlch": "66,000",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Shield left half",
+      "itemPrice": "65,637",
+      "itemQuantity": "1",
+      "itemRarity": "4/128; 4/15[d 2]"
+    },
+    {
+      "itemHighAlch": "37,440",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Dragon spear",
+      "itemPrice": "37,727",
+      "itemQuantity": "1",
+      "itemRarity": "3/128; 3/15[d 2]"
+    }
+  ],
+  "Rare drop table": [
+    {
+      "itemHighAlch": "7,236",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Nature rune",
+      "itemPrice": "16,214",
+      "itemQuantity": "67",
+      "itemRarity": "3/128"
+    },
+    {
+      "itemHighAlch": "1,920",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Adamant javelin",
+      "itemPrice": "1,180",
+      "itemQuantity": "20",
+      "itemRarity": "2/128"
+    },
+    {
+      "itemHighAlch": "4,860",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Death rune",
+      "itemPrice": "9,855",
+      "itemQuantity": "45",
+      "itemRarity": "2/128"
+    },
+    {
+      "itemHighAlch": "6,480",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Law rune",
+      "itemPrice": "9,270",
+      "itemQuantity": "45",
+      "itemRarity": "2/128"
+    },
+    {
+      "itemHighAlch": "10,080",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Rune arrow",
+      "itemPrice": "3,696",
+      "itemQuantity": "42",
+      "itemRarity": "2/128"
+    },
+    {
+      "itemHighAlch": "1,050",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Steel arrow",
+      "itemPrice": "4,650",
+      "itemQuantity": "150",
+      "itemRarity": "2/128"
+    },
+    {
+      "itemHighAlch": "38,400",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Rune 2h sword",
+      "itemPrice": "37,888",
+      "itemQuantity": "1",
+      "itemRarity": "3/128"
+    },
+    {
+      "itemHighAlch": "24,960",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Rune battleaxe",
+      "itemPrice": "24,527",
+      "itemQuantity": "1",
+      "itemRarity": "3/128"
+    },
+    {
+      "itemHighAlch": "23,040",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Rune sq shield",
+      "itemPrice": "22,582",
+      "itemQuantity": "1",
+      "itemRarity": "2/128"
+    },
+    {
+      "itemHighAlch": "60,000",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Dragon med helm",
+      "itemPrice": "59,193",
+      "itemQuantity": "1",
+      "itemRarity": "1/128"
+    },
+    {
+      "itemHighAlch": "32,640",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Rune kiteshield",
+      "itemPrice": "32,140",
+      "itemQuantity": "1",
+      "itemRarity": "1/128"
+    },
+    {
+      "itemHighAlch": "3,000",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Coins",
+      "itemPrice": "3,000",
+      "itemQuantity": "3,000",
+      "itemRarity": "21/128"
+    },
+    {
+      "itemHighAlch": "60",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Loop half of key",
+      "itemPrice": "10,470",
+      "itemQuantity": "1",
+      "itemRarity": "20/128"
+    },
+    {
+      "itemHighAlch": "60",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Tooth half of key",
+      "itemPrice": "10,903",
+      "itemQuantity": "1",
+      "itemRarity": "20/128"
+    },
+    {
+      "itemHighAlch": "3,000",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Runite bar",
+      "itemPrice": "12,488",
+      "itemQuantity": "1",
+      "itemRarity": "5/128"
+    },
+    {
+      "itemHighAlch": "6,000",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Dragonstone",
+      "itemPrice": "11,994",
+      "itemQuantity": "1",
+      "itemRarity": "2/128"
+    },
+    {
+      "itemHighAlch": "4,500",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Silver ore",
+      "itemPrice": "8,200",
+      "itemQuantity": "100\u00a0(noted)",
+      "itemRarity": "2/128"
+    },
+    {
+      "itemHighAlch": "N/A",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Gem drop table",
+      "itemPrice": "Not sold",
+      "itemQuantity": "1",
+      "itemRarity": "20/128"
+    },
+    {
+      "itemHighAlch": "N/A",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Mega-rare drop table",
+      "itemPrice": "Not sold",
+      "itemQuantity": "1",
+      "itemRarity": "15/128"
+    }
+  ],
+  "Rare seed drop table": [
+    {
+      "itemHighAlch": "6",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Toadflax seed",
+      "itemPrice": "1,610",
+      "itemQuantity": "1",
+      "itemRarity": "47/238"
+    },
+    {
+      "itemHighAlch": "3",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Irit seed",
+      "itemPrice": "64",
+      "itemQuantity": "1",
+      "itemRarity": "32/238"
+    },
+    {
+      "itemHighAlch": "106",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Belladonna seed",
+      "itemPrice": "34",
+      "itemQuantity": "1",
+      "itemRarity": "31/238"
+    },
+    {
+      "itemHighAlch": "4",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Avantoe seed",
+      "itemPrice": "1,655",
+      "itemQuantity": "1",
+      "itemRarity": "22/238"
+    },
+    {
+      "itemHighAlch": "99",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Poison ivy seed",
+      "itemPrice": "18",
+      "itemQuantity": "1",
+      "itemRarity": "22/238"
+    },
+    {
+      "itemHighAlch": "59",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Cactus seed",
+      "itemPrice": "100",
+      "itemQuantity": "1",
+      "itemRarity": "21/238"
+    },
+    {
+      "itemHighAlch": "6",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Kwuarm seed",
+      "itemPrice": "675",
+      "itemQuantity": "1",
+      "itemRarity": "15/238"
+    },
+    {
+      "itemHighAlch": "84",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Potato cactus seed",
+      "itemPrice": "32",
+      "itemQuantity": "1",
+      "itemRarity": "15/238"
+    },
+    {
+      "itemHighAlch": "36",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Snapdragon seed",
+      "itemPrice": "68,351",
+      "itemQuantity": "1",
+      "itemRarity": "10/238"
+    },
+    {
+      "itemHighAlch": "4",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Cadantine seed",
+      "itemPrice": "2,047",
+      "itemQuantity": "1",
+      "itemRarity": "7/238"
+    },
+    {
+      "itemHighAlch": "5",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Lantadyme seed",
+      "itemPrice": "3,181",
+      "itemQuantity": "1",
+      "itemRarity": "5/238"
+    },
+    {
+      "itemHighAlch": "168",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Snape grass seed",
+      "itemPrice": "9,255",
+      "itemQuantity": "3",
+      "itemRarity": "4/238"
+    },
+    {
+      "itemHighAlch": "3",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Dwarf weed seed",
+      "itemPrice": "417",
+      "itemQuantity": "1",
+      "itemRarity": "3/238"
+    },
+    {
+      "itemHighAlch": "42",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Torstol seed",
+      "itemPrice": "64,178",
+      "itemQuantity": "1",
+      "itemRarity": "2/238"
+    }
+  ],
+  "Superior drop table": [
+    {
+      "itemHighAlch": "9,300",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Dust battlestaff",
+      "itemPrice": "50,100",
+      "itemQuantity": "1",
+      "itemRarity": "3/8"
+    },
+    {
+      "itemHighAlch": "9,300",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Mist battlestaff",
+      "itemPrice": "92,430",
+      "itemQuantity": "1",
+      "itemRarity": "3/8"
+    },
+    {
+      "itemHighAlch": "300,000",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Imbued heart",
+      "itemPrice": "28,299,468",
+      "itemQuantity": "1",
+      "itemRarity": "1/8"
+    },
+    {
+      "itemHighAlch": "5,700",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Eternal gem",
+      "itemPrice": "5,979,455",
+      "itemQuantity": "1",
+      "itemRarity": "1/8"
+    }
+  ],
+  "Talisman drop table": [
+    {
+      "itemHighAlch": "2",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Air talisman",
+      "itemPrice": "65",
+      "itemQuantity": "1",
+      "itemRarity": "10/70"
+    },
+    {
+      "itemHighAlch": "2",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Body talisman",
+      "itemPrice": "771",
+      "itemQuantity": "1",
+      "itemRarity": "10/70"
+    },
+    {
+      "itemHighAlch": "2",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Earth talisman",
+      "itemPrice": "289",
+      "itemQuantity": "1",
+      "itemRarity": "10/70"
+    },
+    {
+      "itemHighAlch": "2",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Fire talisman",
+      "itemPrice": "5,047",
+      "itemQuantity": "1",
+      "itemRarity": "10/70"
+    },
+    {
+      "itemHighAlch": "2",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Mind talisman",
+      "itemPrice": "3,717",
+      "itemQuantity": "1",
+      "itemRarity": "10/70"
+    },
+    {
+      "itemHighAlch": "2",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Water talisman",
+      "itemPrice": "187",
+      "itemQuantity": "1",
+      "itemRarity": "10/70"
+    },
+    {
+      "itemHighAlch": "2",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Cosmic talisman",
+      "itemPrice": "898",
+      "itemQuantity": "1",
+      "itemRarity": "4/70"
+    },
+    {
+      "itemHighAlch": "2",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Chaos talisman",
+      "itemPrice": "579",
+      "itemQuantity": "1",
+      "itemRarity": "3/70"
+    },
+    {
+      "itemHighAlch": "2",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Nature talisman",
+      "itemPrice": "1,050",
+      "itemQuantity": "1",
+      "itemRarity": "3/70"
+    }
+  ],
+  "Tree-herb seed drop table": [
+    {
+      "itemHighAlch": "30",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Ranarr seed",
+      "itemPrice": "58,532",
+      "itemQuantity": "1",
+      "itemRarity": "15/125"
+    },
+    {
+      "itemHighAlch": "36",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Snapdragon seed",
+      "itemPrice": "68,351",
+      "itemQuantity": "1",
+      "itemRarity": "14/125"
+    },
+    {
+      "itemHighAlch": "42",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Torstol seed",
+      "itemPrice": "64,178",
+      "itemQuantity": "1",
+      "itemRarity": "11/125"
+    },
+    {
+      "itemHighAlch": "495",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Watermelon seed",
+      "itemPrice": "1,680",
+      "itemQuantity": "15",
+      "itemRarity": "10/125"
+    },
+    {
+      "itemHighAlch": "9",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Willow seed",
+      "itemPrice": "4,416",
+      "itemQuantity": "1",
+      "itemRarity": "10/125"
+    },
+    {
+      "itemHighAlch": "28",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Mahogany seed",
+      "itemPrice": "3,441",
+      "itemQuantity": "1",
+      "itemRarity": "9/125"
+    },
+    {
+      "itemHighAlch": "28",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Maple seed",
+      "itemPrice": "36,685",
+      "itemQuantity": "1",
+      "itemRarity": "9/125"
+    },
+    {
+      "itemHighAlch": "28",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Teak seed",
+      "itemPrice": "91",
+      "itemQuantity": "1",
+      "itemRarity": "9/125"
+    },
+    {
+      "itemHighAlch": "85",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Yew seed",
+      "itemPrice": "80,653",
+      "itemQuantity": "1",
+      "itemRarity": "9/125"
+    },
+    {
+      "itemHighAlch": "69",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Papaya tree seed",
+      "itemPrice": "4,384",
+      "itemQuantity": "1",
+      "itemRarity": "7/125"
+    },
+    {
+      "itemHighAlch": "253",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Magic seed",
+      "itemPrice": "140,250",
+      "itemQuantity": "1",
+      "itemRarity": "6/125"
+    },
+    {
+      "itemHighAlch": "152",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Palm tree seed",
+      "itemPrice": "50,227",
+      "itemQuantity": "1",
+      "itemRarity": "5/125"
+    },
+    {
+      "itemHighAlch": "0",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Spirit seed",
+      "itemPrice": "Not sold",
+      "itemQuantity": "1",
+      "itemRarity": "4/125"
+    },
+    {
+      "itemHighAlch": "258",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Dragonfruit tree seed",
+      "itemPrice": "194,464",
+      "itemQuantity": "1",
+      "itemRarity": "3/125"
+    },
+    {
+      "itemHighAlch": "324",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Celastrus seed",
+      "itemPrice": "101,590",
+      "itemQuantity": "1",
+      "itemRarity": "2/125"
+    },
+    {
+      "itemHighAlch": "390",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Redwood tree seed",
+      "itemPrice": "34,640",
+      "itemQuantity": "1",
+      "itemRarity": "2/125"
+    }
+  ],
+  "Useful herb drop table": [
+    {
+      "itemHighAlch": "10",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy avantoe",
+      "itemPrice": "1,780",
+      "itemQuantity": "1\u00a0(noted)",
+      "itemRarity": "5/16"
+    },
+    {
+      "itemHighAlch": "12",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy snapdragon",
+      "itemPrice": "9,936",
+      "itemQuantity": "1\u00a0(noted)",
+      "itemRarity": "4/16"
+    },
+    {
+      "itemHighAlch": "18",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy ranarr weed",
+      "itemPrice": "9,051",
+      "itemQuantity": "1\u00a0(noted)",
+      "itemRarity": "4/16"
+    },
+    {
+      "itemHighAlch": "15",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Grimy torstol",
+      "itemPrice": "8,273",
+      "itemQuantity": "1\u00a0(noted)",
+      "itemRarity": "3/16"
+    }
+  ],
+  "Variable allotment seed drop table": [
+    {
+      "itemHighAlch": "1-4",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Potato seed",
+      "itemPrice": "1-4",
+      "itemQuantity": "1\u20134",
+      "itemRarity": "64/128"
+    },
+    {
+      "itemHighAlch": "1-3",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Onion seed",
+      "itemPrice": "1-3",
+      "itemQuantity": "1\u20133",
+      "itemRarity": "32/128"
+    },
+    {
+      "itemHighAlch": "1-3",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Cabbage seed",
+      "itemPrice": "1-3",
+      "itemQuantity": "1\u20133",
+      "itemRarity": "16/128"
+    },
+    {
+      "itemHighAlch": "2-4",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Tomato seed",
+      "itemPrice": "1-2",
+      "itemQuantity": "1\u20132",
+      "itemRarity": "8/128"
+    },
+    {
+      "itemHighAlch": "4-8",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Sweetcorn seed",
+      "itemPrice": "2-4",
+      "itemQuantity": "1\u20132",
+      "itemRarity": "4/128"
+    },
+    {
+      "itemHighAlch": "10",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Strawberry seed",
+      "itemPrice": "6",
+      "itemQuantity": "1",
+      "itemRarity": "2/128"
+    },
+    {
+      "itemHighAlch": "33",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Watermelon seed",
+      "itemPrice": "112",
+      "itemQuantity": "1",
+      "itemRarity": "1/128"
+    },
+    {
+      "itemHighAlch": "56",
+      "itemImage": "todo: parse innerHtml to get image wiki link",
+      "itemName": "Snape grass seed",
+      "itemPrice": "3,085",
+      "itemQuantity": "1",
+      "itemRarity": "1/128"
+    }
+  ]
+}

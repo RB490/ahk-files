@@ -1,0 +1,9 @@
+{
+  "mobs": [
+    "Fire giant",
+    "Ice giant",
+    "Mammoth",
+    "Black demon"
+  ],
+  "selectedMob": "Black demon"
+}
