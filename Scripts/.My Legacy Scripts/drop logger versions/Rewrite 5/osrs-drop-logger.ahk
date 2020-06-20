@@ -18,7 +18,7 @@
             handle https://oldschool.runescape.wiki/w/Black_demon it has duplicate drop tables. probably combine the drops of multiple categories
 */
 
-testVar
+
 
 ; misc
     #SingleInstance, force
@@ -42,10 +42,11 @@ testVar
     ; selectGui.Setup()
 
     ;FileRemoveDir, % g_itemsPath, 1
-    FileCreateDir, % g_itemsPath
-    dropTable.Download(StrReplace(settings.selectedMob, A_Space, "_"))
+    ; FileCreateDir, % g_itemsPath
+    ; dropTable.Download(StrReplace(settings.selectedMob, A_Space, "_"))
 
-    dropGui.Setup()
+    ; dropGui.Setup()
+    selectGui.Setup()
 return
 
 ; global hotkeys
