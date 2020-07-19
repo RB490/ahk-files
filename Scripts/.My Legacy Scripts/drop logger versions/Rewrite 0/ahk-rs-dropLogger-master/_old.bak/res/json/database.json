@@ -5410,7 +5410,6 @@
   "Nechryarch": {
     "Drop Table": 1,
     "Img": "https://vignette.wikia.nocookie.net/2007scape/images/f/f8/Nechryarch.png",
-    "Normal Drop Table": {},
     "Rare Drop Table": 1,
     "Title": "Nechryarch"
   },
@@ -5458,7 +5457,6 @@
   "Nuclear smoke devil": {
     "Drop Table": 1,
     "Img": "https://vignette.wikia.nocookie.net/2007scape/images/8/8f/Nuclear_smoke_devil.png",
-    "Normal Drop Table": {},
     "Rare Drop Table": 0,
     "Title": "Nuclear smoke devil"
   },

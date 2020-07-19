@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	addonSteamAppID		"500"
+	addonversion		"0.0"
+	addontitle			"HUD Template"
+	addonauthor			"inkfish"
+	addontagline		"GUI"
+	addonDescription	"Default HUD files. Added descriptions"
+}
