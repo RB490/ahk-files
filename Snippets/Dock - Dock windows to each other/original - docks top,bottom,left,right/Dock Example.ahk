@@ -1,6 +1,6 @@
 #NoEnv
 #SingleInstance, force
-#Include D:\Downloads\Class Dock.ahk
+#Include Class Dock.ahk
 
 Gui, +hwndGuihwnd
 Gui, Font, s13				
