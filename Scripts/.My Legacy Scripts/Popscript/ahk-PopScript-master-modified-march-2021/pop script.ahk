@@ -39,22 +39,13 @@
 		LWin::return
 		RWin::return
 
-		; break::
-		; 	if Suspend, on
-		; 	{
-		; 		SoundBeep, 1000, 150
-		; 		Return
-		; 	}
-		; 	else
-		; 	{
-		; 		SoundBeep, 250, 150
-		; 		Suspend, on
-		; 		Keywait, break, D
-		; 		Keywait, break
-		; 		Suspend, off
-		; 		SoundBeep, 750, 150
-		; 	}
-		; return
+		break::
+			Suspend, Toggle
+			If A_IsSuspended
+				SoundBeep, 250, 100 ; disable
+			else
+				SoundBeep, 1000, 100 ; enable
+		return
 	#If
 
 	#IfWinActive, ahk_exe Code.exe
