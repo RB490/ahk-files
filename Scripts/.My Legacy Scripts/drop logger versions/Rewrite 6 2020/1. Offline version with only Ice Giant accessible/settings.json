@@ -1,0 +1,21 @@
+{
+  "guiLogX": 426,
+  "guiLogY": 625,
+  "guiStatsH": 603,
+  "guiStatsW": 570,
+  "guiStatsX": 12,
+  "guiStatsY": 387,
+  "logGuiAutoShowStats": 0,
+  "logGuiDropSize": "33",
+  "logGuiItemImageType": "Wiki Detailed",
+  "logGuiMaxRowDrops": "8",
+  "logGuiTablesMergeBelowX": "20",
+  "selectedLogFile": "D:\\Downloads\\log.json",
+  "selectedMob": "Ice giant",
+  "selectedMobs": {
+    "Goblin": "",
+    "Ice giant": "",
+    "Vorkath": ""
+  },
+  "setupHasRan": 0
+}

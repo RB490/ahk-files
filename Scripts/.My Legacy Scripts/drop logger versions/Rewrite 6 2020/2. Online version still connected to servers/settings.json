@@ -1,0 +1,23 @@
+{
+  "guiLogX": 901,
+  "guiLogY": 634,
+  "guiStatsH": 400,
+  "guiStatsW": 570,
+  "guiStatsX": 477,
+  "guiStatsY": 496,
+  "logGuiAutoShowStats": "0",
+  "logGuiDropSize": "33",
+  "logGuiItemImageType": "Wiki Detailed",
+  "logGuiMaxRowDrops": "8",
+  "logGuiTablesMergeBelowX": "20",
+  "selectedLogFile": "D:\\Downloads\\log.json",
+  "selectedMob": "Fire Giant",
+  "selectedMobs": {
+    "Fire Giant": "",
+    "Goblin": "",
+    "Ice giant": "",
+    "Skeleton": "",
+    "Vorkath": ""
+  },
+  "setupHasRan": 0
+}
