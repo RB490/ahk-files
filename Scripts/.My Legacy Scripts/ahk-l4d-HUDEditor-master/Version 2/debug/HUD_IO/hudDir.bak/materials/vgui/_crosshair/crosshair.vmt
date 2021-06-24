@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "vgui\_crosshair\crosshair"
+	$translucent 1
+	$alphatest 1
+}

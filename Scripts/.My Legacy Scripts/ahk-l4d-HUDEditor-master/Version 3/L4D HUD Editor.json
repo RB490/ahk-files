@@ -1,0 +1,33 @@
+{
+  "Dir_Left4Dead": "F:\\Games\\Steam\\steamapps\\common\\left 4 dead",
+  "Dir_Left4Dead2": "E:\\Games\\Steam\\steamapps\\common\\Left 4 Dead 2",
+  "Dir_Steam": "E:\\Games\\Steam",
+  "Game_HideGameWorld": 0,
+  "Game_IsInsecure": 1,
+  "Game_Map": "c10m3_ranchhouse",
+  "Game_Mode": "Versus",
+  "Game_Mute": "volume 0",
+  "Game_Pos": "Top Left",
+  "Reload_ClickCoord1": "805,818",
+  "Reload_ClickCoord2": "466,859",
+  "Reload_ClicksEnabled": 0,
+  "Reload_ReopenMenu": 0,
+  "Reload_Type": "Hud",
+  "StoredHuds": [
+    {
+      "dir": "D:\\Programming and projects\\l4d-addons-huds\\4. l4d2-2020HUD\\source",
+      "game": "Left 4 Dead 2",
+      "name": "2020HUD"
+    },
+    {
+      "dir": "D:\\Programming and projects\\l4d-addons-huds\\3. l4d2-RBHUD\\source",
+      "game": "Left 4 Dead 2",
+      "name": "RBHUD"
+    },
+    {
+      "dir": "D:\\Programming and projects\\l4d-addons-huds\\3. l4d1-RBHUD\\source",
+      "game": "Left 4 Dead",
+      "name": "RBHUD"
+    }
+  ]
+}

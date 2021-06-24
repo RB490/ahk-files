@@ -1,0 +1,71 @@
+"mission"
+{
+	"Name"			"Name"
+	"Version"		"111111"
+	"Author"		"Author"
+	"Website"		"Website"
+	"DisplayTitle"		"DisplayTitle"
+	"Description"  		"Description"
+	
+	"Image"			"Image"
+	"OuttroImage"		"OuttroImage"
+	
+	"meleeweapons"	"fireaxe;frying_pan;machete;baseball_bat;crowbar;cricket_bat;tonfa;katana;electric_guitar;knife;hunting_knife;golfclub;riotshield"
+	"survivor_set"		"2"	// Which set of survivors should be used. 1=L4D2, 2=L4D2
+	"excludeweapons"  ""
+
+	"allow_cola"	"1"
+	"no_wpn_restore"	"1"		// on player wipe, don't keep any weapons
+	"no_female_boomers"	"0"		// Can't have female Boomers because there's no audio support
+	"no_cs_weapons"		"0"		// no Germany / CS weapons, preserve the weapons in the gun shop
+	
+	"poster"
+	{
+		// This determines which survivor set names to use in the loading screen.
+		"l4d2_names"				"1"
+		"character_order"	"gambler;mechanic;producer;coach"
+
+		// "fullscreen"		"1"
+		// "posterImage"			"maps/TUMTaRA_Loadingscreen"
+		// "posterImage_widescreen" "maps/TUMTaRA_Loadingscreen"
+
+		// "producer_player_name_x"	"9999"		
+		// "producer_player_name_y"	"9999"	
+
+		// "gambler_player_name_x"		"9999"
+		// "gambler_player_name_y"		"9999"	
+
+		// "coach_player_name_x"		"9999"	
+		// "coach_player_name_y"		"9999"	
+
+		// "mechanic_player_name_x"	"9999"
+		// "mechanic_player_name_y"	"9999"
+	}
+
+
+
+
+
+	"modes"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map" "HUD_DEV_MAP"
+				"DisplayName" "DisplayName"
+				"Image" "maps/preview_01"	
+			}
+		}
+		
+		"versus"
+		{
+			"1"
+			{
+				"Map" "HUD_DEV_MAP"
+				"DisplayName" "versusDisplayName"
+				"Image" "maps/preview_01"	
+			}
+		}
+	}
+} 

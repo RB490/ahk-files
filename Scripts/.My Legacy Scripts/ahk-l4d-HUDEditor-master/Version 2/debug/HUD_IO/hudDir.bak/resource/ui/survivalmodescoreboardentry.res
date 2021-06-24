@@ -1,0 +1,83 @@
+"Resource/UI/SurvivalModeScoreboardEntry.res"
+{
+	"SurvivorAvatar"
+	{
+		"ControlName"	"CAvatarImagePanel"
+		"fieldName"		"SurvivorAvatar"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"20"
+		"tall"			"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+	}
+	"SurvivorName"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"SurvivorName"
+		"xpos"		"22"
+		"ypos"		"0"
+		"wide"		"115"
+		"tall"		"20"
+		"visible"		"1"
+		"labelText"		""
+		"textAlignment"		"west"
+		"font"		"ink_14"
+		"noshortcutsyntax" "1"
+	}
+	"SurvivorTime"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"SurvivorTime"
+		"xpos"		"22"
+		"ypos"		"20"
+		"wide"		"60"
+		"tall"		"20"
+		"visible"		"1"
+		"labelText"		""
+		"textAlignment"		"west"
+		"font"		"ink_12"
+	}
+	"SurvivorMedal"
+	{
+		"ControlName"	"CIconPanel"
+		"fieldName"		"SurvivorMedal"
+		"xpos"			"0"
+		"ypos"			"20" [$WIN32]
+		"wide"			"20"
+		"tall"			"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"icon"			"icon_bronze_medal_small"
+	}
+	"BackgroundFill_bg1"
+	{
+		"ControlName"		"Panel"
+		"fieldName"			"BackgroundFill_bg1"
+		"xpos"		"0"
+		"ypos"		"0"
+		"wide"		"135"
+		"tall"		"40"
+		"visible"			"1"
+		"enabled"			"1"
+		"bgcolor_override" 		"0 0 0 140"
+		"zpos"				"-5"
+	}
+	"BackgroundFill_bg2"
+	{
+		"ControlName"		"Panel"
+		"fieldName"			"BackgroundFill_bg2"
+		"xpos"		"0"
+		"ypos"		"0"
+		"wide"		"135"
+		"tall"		"20"
+		"visible"			"1"
+		"enabled"			"1"
+		"bgcolor_override" 		"0 0 0 140"
+		"zpos"				"-5"
+	}
+}

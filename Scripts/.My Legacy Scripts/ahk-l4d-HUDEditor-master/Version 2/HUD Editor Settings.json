@@ -1,0 +1,35 @@
+{
+  "devModeSetupCompleted": 1,
+  "editorGuiPos": "",
+  "ExePath_Left4Dead": "",
+  "ExePath_Left4Dead2": "F:\\Games\\Steam\\steamapps\\common\\Left 4 Dead 2\\Left4Dead2.exe",
+  "ExePath_Steam": "F:\\Games\\Steam\\steam.exe",
+  "ExePath_TextEditor": "F:\\Programs\\VS Code\\Code.exe",
+  "Game_GameMode": "Versus",
+  "Game_HideGameWorld": "r_drawworld 1; r_drawentities 1",
+  "Game_Map": "tutorial_standards",
+  "Game_MuteGame": "volume 0",
+  "Game_PosX": 0,
+  "Game_PosY": 0,
+  "Reload_ClickCoord1": "",
+  "Reload_ClickCoord2": "",
+  "Reload_ClicksEnabled": 0,
+  "Reload_Type": "Hud",
+  "StoredHuds": [
+    {
+      "dir": "D:\\Downloads\\testl4d1hud",
+      "game": "Left 4 Dead",
+      "name": "testl4d1hud"
+    },
+    {
+      "dir": "D:\\Downloads\\l4d2-inkhud\\source",
+      "game": "Left 4 Dead 2",
+      "name": "inkhud2"
+    },
+    {
+      "dir": "D:\\Downloads\\panel template",
+      "game": "Left 4 Dead 2",
+      "name": "panel template"
+    }
+  ]
+}

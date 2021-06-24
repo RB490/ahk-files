@@ -1,0 +1,485 @@
+improvement -> use uniform icons from a single icon pack: https://www.flaticon.com/authors/catalin-fertu
+    ^ scale in gimp as autohotkey is terrible with this
+
+feature -> gui main -> ability to  add huds to a list. containing dir & game version, use dir name as hud name
+    ^ also option to create new hud
+
+improvement -> get -secure parameter to work/ get rid of 'insecure' message any otherway or run game through steam
+    launch options:
+        -novid          no intro
+        -x 0 -y 0       pos
+        -map c1m3_mall
+        "F:\Games\Steam\steamapps\common\Left 4 Dead 2\left4dead2.exe" -novid -x 0 -y 0 -w 640 -h 480
+
+improvement -> get & save & verify steam location to run game through steam & find game folders
+    ^ not running game through steam gives issues such as 'no steam' logon etc. don't even bother
+    ^ sv_lan 1
+
+important improvement -> right now 'DeveloperDir' and 'DefaultDir' point to different folders depending on
+    whether 'developer mode' is enabled. instead always point these variables to the right folder OR
+    rename the variables
+    DefaultDir -> MainDir
+    DeveloperDir -> BackupDirDeveloper
+    BackupDir -> BackupDirDefault
+
+improvement -> VerifyDeveloperEnvironment. right now if game folders are set to dev mode
+    the method can't find 'DeveloperDir' because it doesnt exist
+
+improvement -> SetGameInfo() remove hardcoded game folders. search registry / ask for input
+    ^ also handle one of two game folders not set
+    ^ only set game info/ ask for game info when starting to edit that specific game's hud
+
+improvement -> ClassGameSetup -> some of these methods should be probably be internal functions
+    GAME_SET.Mode("Developer") then the class handles running the setup, checking if dirs are correct etc?
+    rename to ClassGameDirMode
+
+bug? -> Filecopydir should check if target dir exists and fail if so?
+
+feature -> Setup work environment, both games
+    - create copy of game folder using robocopy or some shit to not lock up ahk, or separate script
+    - restore game to default by disabling all mods, having the user verify steam cache
+        possibly programatically verify steam cache
+    - write autoexecute file that starts the game in developer mode, runs a map etc.
+
+Editor setup
+    Instead of copying the entire game just disable pak01s?
+    Does the default game still work like that? Official servers
+    ^ Reason not to: cant undo like you could by just deleting the copied folder.
+
+improvement -> game setup dev mode -> also merge _dlc/update folders into main dir?
+    ^ seems to crash the game
+
+note somewhere -> if a compiled addon's hud file does not get loaded by the game, its missing some entries from an updated
+    version in one of the '_dlc' or 'update' folders
+    ^ so.. when hudlayout.res is in a vpk file it does get loaded even if its missing some entries. all my huds are missing
+    HudScriptedMode & BuildableCostPanel and hudlayout.res works just fine..
+
+improvement -> editor cfg -> sv_cheats 1
+    mat_reloadallmaterials <- required sv_cheats
+    ui_reloadscheme
+    hud_reloadscheme
+
+bug -> setup somehow has not extracted and or completed pak01_dirs correctly. hudlayout.res and etc are not in dev mode
+
+feature -> function to copy (hud) files into game folder, backing up the game files
+    restore game files when closing game or switching huds
+    also need to be able to add individual files when hud is 'loaded' possibly different function for that
+        class to handle this: HUD_IO or some shit
+    ^   class.LoadDir(hud)          ; move entire hud into game - backup game files and move hud into place
+        class.LoadFile(hudfile)     ; move single file into game - backup game file and move file into place + in the hud folder
+        class.Unload(hud)           ; overwrite hud files in hud source and restore game files
+
+improvement? -> rewrite hud_io class into 2 separate functions
+    LoadHud()
+    UnloadHud()
+
+bug > without merging dlc/update folders the game reads the wrong hudlayout.res
+    ^ merge during setup & rebuild audio cache
+    order: update towards left4dead2_dlc1
+        MERGED				GAME STATUS
+        update				works
+        left4dead2_dlc3		works
+        left4dead2_dlc2		works
+        left4dead2_dlc1		works
+        mentions
+        - console is filled with errors about missing sound files <- can be fixed with snd_rebuildaudiocache
+        - curling stadium broken fog texture	<- ALSO BROKEN ON COMPLETELY DEFAULT GAM SETUP
+        - this order doesnt make sense? there is a hudlayout.res in 'update' that would get overwritten this way
+
+    order: left4dead2_dlc1 towards update
+    MERGED				GAME STATUS
+    left4dead2_dlc1     ium broken floor textures
+
+bug > HUD_IO does not create custom hud folders inside the game folder causing filecopy to fail
+    create them, but also delete them
+
+feature -> include modified text editor to open/edit resource files with and has (some) syntax highlighting
+    probably notepad++
+
+feature -> settings
+    mute game - unmute when game closes
+    open hud file in 'built-in' text editor or the window default?
+
+feature -> file descriptions
+    currently opened file in text editor
+    currently selected file in editor file explorer(s)
+        ^ build this into the default hud files instead
+
+feature -> gui editor
+    - menu bar with usefull entries
+        - open hud folder
+        - toggle to view the file explorer for more screen real estate + hotkey
+        - toggle ingame control + hotkey
+        - ability to switch to a different hud while the game is running
+        ^ look at old version to populate the menu bar
+    - instead of a file browser just use explorer / vscode workspace
+        replace file browser with status bar/ some usefull controls to show which hud is active
+        old:
+            - file browser: tree view with hud folders + listview with hud files
+                - ability to add/remove files/folders either from separate gui or the treeview/listview
+
+feature -> gui add file -> file explorer with hud files that are not added to the current hud
+    also have a description for the selected file
+    ^ not doing this as it seems more convenient to just have the descriptions inside the files themselves
+        and use any normal file explorer to copy them over
+
+improvement -> editor menu hotkeys
+    toggle in game focus / editor
+
+improvement -> differentiate between "Error" and "FatalError" in Msg()
+    ^ class hud io.ahk needs "Error" without script closing
+
+improvement -> instead of editing the hud files inside the game folder,
+    edit the files right inside the hud folder then push them into the game folder,
+    with ctrl+s hotkey or editor menu item (that has the ctrl+s hotkey 'attached')
+    detect changed files and only move those over
+    ^ this allows to open hud source folder in vscode (.res syntax highlighting, cool editor)
+        and is generally better
+
+improvement -> editor.cfg -> prevent shutting down of versus/survival/coop mode on switching teams etc
+    'human players required' = sb_all_bot_team 1
+    ^ check archived config
+    ^ raw mouse input + allow developer console
+    ^ have editor_cfg or whatever execute editor_loadMap which gets overwritten by the loadmap menu
+
+bug -> dev setup -> snd_rebuildaudiocache is not yet ran. close game beforehand just in case
+
+feature -> winwaitclose after game runs <- possibly build this into the rungame() function
+    if closed, close editor and save / restore hud files then go back to main menu or completely close
+
+improvement -> rename game folder function. makes sure the game is closed and the folders can be renamed
+    ^ or modify the current function
+
+feature -> repair game setup gui. if !this._DeveloperEnvironmentExists() <- possibly save var if setup has been ran once or
+    also show this on first run:
+    text control explaining what happened
+    two edit fields. default game installation and development game installation
+    use code to search steam and game parent folder to auto fill these edit fields
+    relevant:
+    feature -> right now if one of the folders gets renamed the program breaks. eg: left 4 dead 2 - hud editor d3veloper mode
+        1. programatically have a method search the steam games dir (from the saved game executable path)
+            then rename if both 'default' and 'developer' installations are found
+            notify user of this, possibly ask for permission/confirmation
+        2. if failed notify the user how to do this manually
+        3. if user failed to restore them ask to run setup or close program
+
+feature -> option to delete developer environment
+
+feature -> main gui or add hud gui -> 'create' / 'new' - creates new hud from template
+    start with something bare bones. addonimage/addoninfo file, hudlayout.res and the teampanel stuff
+    possibly the tab menu aswell
+
+visual improvement -> use game icons in main gui listview
+    ^ can only use one icon in a listview, use the addonimage instead
+
+visual improvement -> use hud addonimage to add 'fluff' to main gui (add icon to listview, possibly larger listview)
+    and maybe editor. if available. also use create an addonimage for default hud
+
+feature -> make ctrl+s hotkey reload the hud, while the editor is running
+
+feature -> HUD_IO.Load() on ctrl+s, if editor and game are running
+
+refactor -> game setup & related checks such as gui repair setup
+    right now its a cluttered mess with duplicate code everywhere
+
+idea -> main gui 'modify' button/option which uses the same gui as 'add hud'
+    rename 'add hud' to something more descriptive as it now modifies existing huds and adds new ones
+    prefill the edit controls with existing hud if passed to get()
+    on save, delete to-be-modified hud passed to .get(), then write new key as normal
+
+improvement -> editor menu option open hud as vscode workspace
+    https://stackoverflow.com/questions/51151953/how-to-open-folder-in-new-vs-code-instance-by-right-clicking-on-the-folder
+    add visual code icon
+
+Editor Gui
+    Is there anything usefull to display where the file browser would be?
+    Consider using a custom gui to save space where the minimize buttons etc would be
+        this seems like a good (decent?) idea: show the gui on top of the games title bar
+            Or make the game borderless and show the menu on top of that
+            Make the gui the same height as the tite bar
+            Use anchor library to lock them to each other
+            Could mimick the default title bar a little with the icon / text or dont show over that part
+        ^ possible downside is it might be nice to have the editor somewhere else on the screen?
+            Idk., Could be an option whther to lock it to the game
+
+todo -> check previous program version(s) for feature parity
+
+Editor Gui Menu
+    feature -> editor menu -> menu to switch to a different hud while the game is running
+        ^ inside 'open' menu or its own submenu
+    improvement -> use hud's actual name instead of 'hud'
+    feature -> build help editor menu
+        /res/ pdf/png or a combination of those two with some usefull info about,
+            (all) key:value properties for example zpos or the key:value that modifies a panels borders
+            ^ probably not a png as this needs to be edited easily. possibly a google docs file
+            or github page but its really preferred to not use those kind of dependencies
+            another decent piece of information: reference custom vgui file in hud directory
+        about gui, with link to github page
+        usefull links, eg:
+            doodle's tf2 hud editing guide
+            a lot more, also check previous hud editor for usefull links
+
+refactor -> HUD_IO, HUD_IO.Sync / HUD_IO.Restore(). And a bunch of well named internal methods
+    some of them possibly in a nested class, with nice descriptive names. same for variables
+    maybe a HUD_IO.Set
+    afterwards -> restore functions/exitfunc + ~^s hotkey
+
+improvement -> HUD_IO Files and folders that get deleted from the hud,
+    should also get deleted from the game files. And their backup restored, if available
+
+improvement -> handle script closing during GameCreateDeveloperEnvironment
+    game folder was fully copied and then switched to the main folder to extract vpks etc
+    game folder was not fully copied
+    old thoughts:
+        ^ could compare default & developer folder sizes
+        ^ check this on script startup? could then ask to continue setup or delete previous
+        ^ definetly check this on script startup. notify if dev folder is broken,
+            dev folder should have atleast at many files as default
+
+bug > editor gui shows before the game window is visible, this leads to +owner not being set
+    have rungame() wait till the game is fully visible, possibly by getting window size in a loop
+
+feature -> about gui
+
+Settings
+    Make every game command a persistent setting?
+    Make every game command OPTIONALLY setting. Eg. You can switch maps using the mapsmenu without that saving. but you can also make it remember that map.
+    ^ could maybe work by opening the same menu in a different submenu. Maps under 'game' and maps under 'settings'?
+
+bug -> Switchhud menu bug: game versions
+    Either dont show huds for the other game, or handle switching to different game, checking if devmode is enabled  etc
+
+feature -> gui editor menu: Unload hud
+    ^ would also have to do something like clearing hud_info variables and making sure that 
+    the ctrl+s hotkey doesnt resync anything into the game, or throws error messages
+
+Append applicable game settings to normal config file
+    And change selected setting manually with rungamecommand
+    Delete the custom setting thing
+
+feature -> code editor menu labels functionality
+    settings
+        differentiate from 'app setting' and 'game cvar' settings in SAVED_SETTINGS.?
+        menus have to be 'rebuilt' before opening if you want to show a checkbox
+            or better way to do this? having a million menu,add menu,deleteall's is not that great
+
+feature -> config -> remove 'unable to switch teams' limit
+    vs_max_team_switches 
+
+bug > default dev installation without any huds loaded -> radial menu does not open
+    does the radial load with a hud loaded?
+
+Feature -> 'Main Menu' option as map
+
+bug > dont know how to fix > 'automatic add-on installation' message in the main menu
+    even when selecting 'never ask again' it keeps asking again
+    ^ this setting is most likely stored in one of the config files i delete/overwrite
+        config.cfg or some shit. as default game install doesn't do this
+    cl_ignore_vpk_assocation "1"
+
+bug -> current controlsend method does not work in the main menu. only in-game
+    Adjust reload types
+        HUD`thud_reloadscheme
+            RunGameCommand -> 'ControlSend'
+        Menu`tui_reloadscheme
+            RunGameCommand -> 'Send'
+        Both
+
+refactor -> instead of doing individual check/uncheck just LoadEditorMenu()?
+    only need to deleteAll for dynamic menus
+    ^ also doesn't uncheck as the menu isn't rebuilt
+
+bug -> open hud -> switch to different hud in editor menu -> menu items still say the previous hud as the menu didn't reload
+
+Main setup gui
+    Used as repair gui
+    Used as overview gui
+    Used as delete or install game dev versions
+    Used as game/steam/ text editor input or modify gui
+    Whenever a path is detected as broken this gui pops up
+    Main gui option to view this gui
+    Combining too much into one gui? Could make it work though
+        Can only submit the gui with valid paths or something
+        Closing returns nothing, success returns true
+    Write down everything the gui needs to do and create a draft from there
+    ^ not doing this as there is hardly any benefit to just searching the registry for required 
+        path, then prompting a fileselect dialog if not found
+
+improvement -> Prevent addons from loading by overwriting them with a fake addon, or just empty file?
+    Though game might check addon validity or something
+
+bug -> some addons get re-enabled by the game 
+    modify host file to disallow the game from the game entirely, or just the workshop
+        inspect ips' with wireshark or something
+        is it possible to reload the hostfile without restarting?
+            ^ apparently you dont need to: https://serverfault.com/questions/9050/how-to-refresh-hosts-file-without-rebooting/9051
+    unload_all_addons solution
+        unload_all_addons then hud/mat/ui_reloadscheme when a map is loaded, only once per game launch
+            unload_all_addons; ui_reloadscheme; hud_reloadscheme; mat_reloadallmaterials
+        can check this by sending console commands to the game
+        then reading the output
+        might have to enable con_log or some shit, somewhere
+        ^ putting unload_all_addons in the autoexec doesnt work because game loads
+            workshop addons after autoexec
+    prompt user there are some addons that could not be disabled which might overwrite/take precendence over hud files
+    After game is loaded check addonlist file, if some got re-enabled
+    Then send unload command. Gotta wait till map is loaded though
+    ^^ going with unload_all_addons on every RunGameCommand as it doesnt seem to impact performance and cant seem
+        to find a better solution right now
+    ^ actually just overwriting the .vpks/.ddl addons with empty files works just fine lmao
+
+feature idea -> ahk hotstring template(s), add to help or hotkeys menu. eg:
+    transparent panel with rounded borders
+    square transparent panel with without borders
+    reference custom vgui file in hud directory
+    ^ not doing this as you can just copy paste from a different hud.
+        going to make a 'showoff' hud with these kinds of tricks
+
+feature idea -> console similar to vscode to acces editor options and hud/template hud files
+    maybe also exec ingame commands because why not
+    ^ not doing this right now because 'why not' is not a good reason
+    only worth doing if its actually usefull. just use the ingame's console and vscode
+
+todo -> go through .todo ideas, deciding what to keep and what to discard into todo completed with a description as to why
+
+feature test -> docking editor gui to text editor
+    result:
+    docking on top of the editor causes a variety of weird behaviour bugs such as
+        the gui being behind the editor after clicking a button the gui or
+        alt+tabbing / minimizing, which can't be fixed with alwaysontop
+        this CAN be fixed by detecting when the text editor get activated, then activating a different
+        window and THEN activating the gui again
+    docking around the text editor just looks weird
+
+Feature idea -> Integrate editor gui with VS Code, or any other specified text editor
+    Pairing text editor with editor gui +owner is preferred as setting +owner with the game makes the mouse flicker
+        ^ could maybe be resolved with putting an invisible non-click-through hud overlay over the game
+    Require a text editor to be specified, maybe integrate on the main gui
+    On start hud editing open new text editor instance
+            apply transparency setting
+            dock edtor gui to text editor
+            if VS Code open hud as workspace.
+    Then winwaitclose text editor + game
+        or is it possible to undock the editor gui from text editor, that could be prefered
+    ^ not docking as docking on top/bottom of vscode just looks weird and don't feel like having
+        vertical buttons with or without text <- would still probably look weird
+
+feature -> instead of alwaysontop set editor gui as +owner of text editor
+
+bug -> main gui -> edit hud -> return to main gui -> edit the same hud -> no response
+    listview class hwnd changes when reshowing the hud
+
+feature test -> WinWaitClose text editor
+
+bug -> correct default value for 'mute game' and 'draw world'
+
+feature -> remember gui editor position
+
+bug -> writegameconfig doesn't properly write hide world & mute game lines
+
+bug -> editor menu switchToHud -> loads duplicate separators because it loads the entire menu again
+
+bug -> editor menu -> switch reload type -> multiple options will be checked
+
+bug -> inkhud loaded -> load default hud -> fonts are not reloaded
+    mat_setvideomode toggle using saved resolution  
+        ^ oh resolution isn't saved right now. maybe find a way
+        to reload it without resolution or Use WinGetPos to get 
+        correct resolution
+    ^ make this a editor menu feature, and add to 'RunGameCommand("ReloadFonts")
+
+feature -> editor menu & RunGameCommand: ReloadFonts
+
+bug -> reload fonts -> game has now reset itself to the default centered position
+
+bug -> editor menu -> change game res -> game resets to default centered position
+    ^ combine the code for reading video settings in editorMenu_gameres and GetCmdForReloadFonts
+
+feature test -> game overlay
+    bug: the mouse cursor flickers when above the overlay gui if +owner is set
+        placing the overlay function in a separate script, improves this somewhat:
+        the cursor will only flicker when directly over the overlay aka game window
+    ^ not doing this right now as it doesn't seem to have any benefits and downside is the cursor flickering
+
+todo -> disable game overlay
+
+improvement -> search vscode installation path in registry
+
+improvement -> ALSO search for steam/game paths in registry. then fallback on to the current methods
+    Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 500
+    Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 500
+
+feature -> RunTextEditor
+    transparency: WinSet, Transparent, 230, % TEXT_EDITOR_INFO.ahkId
+    if editor is set to vscode, open hud in workspace?
+    ^ if hud is open in workspace, does git work? as in my current case
+        the .git folder wouldnt be in the same folder as the hud
+
+refactor -> un-nest settings objects, isntead group keys with similar naming scheme
+
+improvement -> ValidateSettings(). currently only missing&excess key:values are checked
+    also check inside key objects. or instead of having sub objects
+        'group' keys together by naming them identical at the start, eg:
+            exePathLeft4Dead
+            exePathLeft4Dead2
+            exePathSteam
+            exePathTextEditor
+
+refactor -> menu, add -> menu, deleteall for dynamic menus and rebuild
+    the entire menu instead of individually ticking on/off checkboxes in menu labels
+
+test -> gui editor 'parent' option
+    ^ just disappears the ahk gui..
+
+bug -> active 'showpanel' is not reshown after reloading hud
+
+feature -> code EditorMenu_ShowZombiePanel
+    bug -> 'versus becometank' -> scores -> checkboxes are wrong. behaviour is correct though
+
+visual improvement -> gui main
+    decide which options should be buttons or context menu items
+    create context menu
+    properly layout/size buttons
+
+improvement -> Download doodles hud to pdf / offline webpage as its not updated anymore anyways
+
+feature -> gui editor menu: open default file, for the currently opened file
+    copy overwrite the default file to a_temp directory and open it
+    ^ not doing this right now because its really fast to switch back to the entire default hud
+    do that if you want to see what the default looks like
+
+feature -> gui editor menu: Open file description file, for the currently opened file
+    copy overwrite the description file to a_temp directory and open it
+    ^ not doing this right now as you can just have descriptions for every item inside the resource file
+
+improvement -> right now the editor buttons open a menu every time. instead find a way to toggle like a normal menu bar does
+    pixelgetcolour wouldnt work because the previous menu is already closed before the button even registers a click
+    having toggles in the showmenuonbutton function kind of works except the menu can also be closed by:
+        escape, selecting a menu item, clicking somewhere else outside the screen which ahk apparently cant even detect
+        with onwm_message functions
+    ^ not doing this as there doesn't seem to be a proper fix. beside switching back to using the default menubar
+
+bug -> editor menu -> switchtohud -> because i hide hud's from different games
+    the 'stored hud index' is wrong
+    need a way to identify the right hud from the 'switchhudmenu'
+    ^ solution: use hud's dir as 'identifier' when retrieving hud info from 'stored huds' and 
+        only allow 1 hud per directory in gui main.ahk
+
+bug -> load inkhud -> switch to default hud -> switch to inkhud
+    inkhud is not loaded, and the backup game file directory is completely empty,
+    all files inside inkhuds source folder are also completely deleted. welp. that's not good
+    ^ after doing this closing the editor also doesn't close the gui editor/show main gui.. maybe related
+
+bug -> start editing hud -> editor menu 'default hud' -> open menu still contains info for the unloaded hud
+
+bug -> opening hud in new vscode instance should apply 'settings' for that instance
+    transparency / hwnd / gui editor +owner 
+    ^ just overly complex and not necesary
+
+feature -> file descriptions & hud template(s) based on those files
+    <read-only> default hud files with descriptions. use these files as source for hud template(s)
+    include all usefull files with descriptions for each 'entry', also add general file description on top
+    ^ create script/function to grab default hud files from dev folder
+    search in all dlc/update folders for copies <- are there any files that have more then 2 copies? main + dlc + a third
+        ^ get the most recent copy. whichever that is.. dlc1 to 3 seems straightforward but when was 'update'
+        maybe get file creation date or use the biggest file size

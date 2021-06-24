@@ -1,0 +1,13 @@
+"CountryShow"
+{
+	"messages"
+	{
+		"playerjoin"		"Player {PLAYERNAME} has joined the game"
+		"playerdisc"		"Player {PLAYERNAME} has left the game"
+	}
+	"messages_admin"
+	{
+		"playerjoin"		"{PLAYERNAME} joined from {LIGHTGREEN}{PLAYERCOUNTRY}{DEFAULT}. {GREEN}{STEAMID}"
+		"playerdisc"		"{PLAYERNAME} disconnected from {LIGHTGREEN}{PLAYERCOUNTRY}{DEFAULT}. {GREEN}{STEAMID}"
+	}
+}

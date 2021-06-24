@@ -1,0 +1,32 @@
+"AddonInfo"
+{
+	"addonSteamAppID"				"550"
+	"addonTitle"					"inkHUD"
+	"addonVersion"					"1"
+	"addonTagline"					""
+	"addonAuthor"					"RB"
+	"addonAuthorSteamID"			"http://steamcommunity.com/id/r0125"
+	"addonSteamGroupName"			""
+	"addonURL0"						"http://steamcommunity.com/id/r0125"
+
+	"addonContent_Campaign"			"0"
+	"addonContent_Survival"			"0"
+	"addonContent_Scavenge"			"0"
+	"addonContent_Versus"			"0"
+	"addonContent_Map"				"0"
+
+	"addonContent_Survivor"			"0"
+	"addonContent_Skin"				"0"
+
+	"addonContent_BossInfected"		"0"
+	"addonContent_CommonInfected"	"0"
+	"addonContent_Music"			"0"
+	"addonContent_Sound"			"0"
+	"addonContent_Prop"				"0"
+	"addonContent_Prefab"			"0"
+	"addonContent_Spray"			"0"
+	"addonContent_Script"			"0"
+	"addonContent_BackgroundMovie"	"0"
+
+	"addonDescription"				"Replaces the default HUD"
+}

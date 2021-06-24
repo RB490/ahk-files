@@ -1,0 +1,3573 @@
+{
+  "addonimage.jpg": {
+    "fileControls": {},
+    "fileDescription": "128x128 image shown in the 'addons' menu",
+    "fileName": "addonimage.jpg",
+    "fileRelativePath": "addonimage.jpg"
+  },
+  "addoninfo.txt": {
+    "fileControls": {},
+    "fileDescription": "VDF with information about the addon that gets shown in the 'addons' menu",
+    "fileName": "addoninfo.txt",
+    "fileRelativePath": "addoninfo.txt"
+  },
+  "credits": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "credits",
+    "fileRelativePath": "credits"
+  },
+  "D:\\Downloads\\hudlayout.res": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "hudlayout.res",
+    "fileRelativePath": "D:\\Downloads\\hudlayout.res"
+  },
+  "D:Downloadshudlayout.res": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "D:Downloadshudlayout.res",
+    "fileRelativePath": "D:Downloadshudlayout.res"
+  },
+  "loadingdiscpanel.res": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "loadingdiscpanel.res",
+    "fileRelativePath": "loadingdiscpanel.res"
+  },
+  "materials\\sprites\\640_pain_down.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "640_pain_down.vtf",
+    "fileRelativePath": "materials\\sprites\\640_pain_down.vtf"
+  },
+  "materials\\sprites\\640_pain_left.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "640_pain_left.vtf",
+    "fileRelativePath": "materials\\sprites\\640_pain_left.vtf"
+  },
+  "materials\\sprites\\640_pain_right.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "640_pain_right.vtf",
+    "fileRelativePath": "materials\\sprites\\640_pain_right.vtf"
+  },
+  "materials\\sprites\\640_pain_up.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "640_pain_up.vtf",
+    "fileRelativePath": "materials\\sprites\\640_pain_up.vtf"
+  },
+  "materials\\sprites\\crosshairs.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "crosshairs.vmt",
+    "fileRelativePath": "materials\\sprites\\crosshairs.vmt"
+  },
+  "materials\\sprites\\crosshairs.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "crosshairs.vtf",
+    "fileRelativePath": "materials\\sprites\\crosshairs.vtf"
+  },
+  "materials\\v125\\_crosshair\\crosshair.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "crosshair.vmt",
+    "fileRelativePath": "materials\\v125\\_crosshair\\crosshair.vmt"
+  },
+  "materials\\v125\\_crosshair\\crosshair.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "crosshair.vtf",
+    "fileRelativePath": "materials\\v125\\_crosshair\\crosshair.vtf"
+  },
+  "materials\\v125\\healthbar_grey.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "healthbar_grey.vtf",
+    "fileRelativePath": "materials\\v125\\healthbar_grey.vtf"
+  },
+  "materials\\v125\\hud\\detail_scratches_top_1.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "detail_scratches_top_1.vtf",
+    "fileRelativePath": "materials\\v125\\hud\\detail_scratches_top_1.vtf"
+  },
+  "materials\\v125\\hud\\healthbar_bg_1.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "healthbar_bg_1.vtf",
+    "fileRelativePath": "materials\\v125\\hud\\healthbar_bg_1.vtf"
+  },
+  "materials\\v125\\hud\\iconsheet.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "iconsheet.vtf",
+    "fileRelativePath": "materials\\v125\\hud\\iconsheet.vtf"
+  },
+  "materials\\v125\\hud\\iconsheet_old.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "iconsheet_old.vtf",
+    "fileRelativePath": "materials\\v125\\hud\\iconsheet_old.vtf"
+  },
+  "materials\\v125\\hud\\infected_healthbar_bg_1.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "infected_healthbar_bg_1.vmt",
+    "fileRelativePath": "materials\\v125\\hud\\infected_healthbar_bg_1.vmt"
+  },
+  "materials\\v125\\hud\\infected_healthbar_bg_1.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "infected_healthbar_bg_1.vtf",
+    "fileRelativePath": "materials\\v125\\hud\\infected_healthbar_bg_1.vtf"
+  },
+  "materials\\v125\\hud\\pz_healthbar_250.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "pz_healthbar_250.vmt",
+    "fileRelativePath": "materials\\v125\\hud\\pz_healthbar_250.vmt"
+  },
+  "materials\\v125\\hud\\pz_healthbar_250.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "pz_healthbar_250.vtf",
+    "fileRelativePath": "materials\\v125\\hud\\pz_healthbar_250.vtf"
+  },
+  "materials\\v125\\hud\\s_healthbar_outline.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "s_healthbar_outline.vtf",
+    "fileRelativePath": "materials\\v125\\hud\\s_healthbar_outline.vtf"
+  },
+  "materials\\v125\\hud\\scalablepanel_bgmidgrey.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "scalablepanel_bgmidgrey.vtf",
+    "fileRelativePath": "materials\\v125\\hud\\scalablepanel_bgmidgrey.vtf"
+  },
+  "materials\\v125\\hud\\scalablepanel_bgmidgrey_glow.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "scalablepanel_bgmidgrey_glow.vtf",
+    "fileRelativePath": "materials\\v125\\hud\\scalablepanel_bgmidgrey_glow.vtf"
+  },
+  "materials\\v125\\s_panel_biker.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "s_panel_biker.vtf",
+    "fileRelativePath": "materials\\v125\\s_panel_biker.vtf"
+  },
+  "materials\\v125\\s_panel_biker_incap.vtf": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_biker_incap.vtf",
+    "fileRelativePath": "materials\\v125\\s_panel_biker_incap.vtf"
+  },
+  "materials\\v125\\s_panel_dead.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "s_panel_dead.vtf",
+    "fileRelativePath": "materials\\v125\\s_panel_dead.vtf"
+  },
+  "materials\\v125\\s_panel_manager.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "s_panel_manager.vtf",
+    "fileRelativePath": "materials\\v125\\s_panel_manager.vtf"
+  },
+  "materials\\v125\\s_panel_manager_incap.vtf": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_manager_incap.vtf",
+    "fileRelativePath": "materials\\v125\\s_panel_manager_incap.vtf"
+  },
+  "materials\\v125\\s_panel_namvet.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "s_panel_namvet.vtf",
+    "fileRelativePath": "materials\\v125\\s_panel_namvet.vtf"
+  },
+  "materials\\v125\\s_panel_namvet_incap.vtf": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_namvet_incap.vtf",
+    "fileRelativePath": "materials\\v125\\s_panel_namvet_incap.vtf"
+  },
+  "materials\\v125\\s_panel_teenangst.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "s_panel_teenangst.vtf",
+    "fileRelativePath": "materials\\v125\\s_panel_teenangst.vtf"
+  },
+  "materials\\v125\\s_panel_teenangst_incap.vtf": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_teenangst_incap.vtf",
+    "fileRelativePath": "materials\\v125\\s_panel_teenangst_incap.vtf"
+  },
+  "materials\\v125\\select_bill.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "select_bill.vtf",
+    "fileRelativePath": "materials\\v125\\select_bill.vtf"
+  },
+  "materials\\v125\\select_francis.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "select_francis.vtf",
+    "fileRelativePath": "materials\\v125\\select_francis.vtf"
+  },
+  "materials\\v125\\select_louis.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "select_louis.vtf",
+    "fileRelativePath": "materials\\v125\\select_louis.vtf"
+  },
+  "materials\\v125\\select_zoey.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "select_zoey.vtf",
+    "fileRelativePath": "materials\\v125\\select_zoey.vtf"
+  },
+  "materials\\vgui\\_crosshair\\crosshair.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "crosshair.vmt",
+    "fileRelativePath": "materials\\vgui\\_crosshair\\crosshair.vmt"
+  },
+  "materials\\vgui\\_crosshair\\crosshair.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "crosshair.vtf",
+    "fileRelativePath": "materials\\vgui\\_crosshair\\crosshair.vtf"
+  },
+  "materials\\vgui\\_crosshair_old\\crosshair.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "crosshair.vmt",
+    "fileRelativePath": "materials\\vgui\\_crosshair_old\\crosshair.vmt"
+  },
+  "materials\\vgui\\_crosshair_old\\crosshair.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "crosshair.vtf",
+    "fileRelativePath": "materials\\vgui\\_crosshair_old\\crosshair.vtf"
+  },
+  "materials\\vgui\\fonts\\buttons_32.vtf": {
+    "fileControls": {},
+    "fileDescription": "Iconsheet containing ping images and some console buttons",
+    "fileName": "buttons_32.vtf",
+    "fileRelativePath": "materials\\vgui\\fonts\\buttons_32.vtf"
+  },
+  "materials\\vgui\\gradient.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "gradient.vmt",
+    "fileRelativePath": "materials\\vgui\\gradient.vmt"
+  },
+  "materials\\vgui\\gradient.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "gradient.vtf",
+    "fileRelativePath": "materials\\vgui\\gradient.vtf"
+  },
+  "materials\\vgui\\healthbar_grey.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "healthbar_grey.vtf",
+    "fileRelativePath": "materials\\vgui\\healthbar_grey.vtf"
+  },
+  "materials\\vgui\\hud\\800corner1.vtf": {
+    "fileControls": {},
+    "fileDescription": "Used to create corners for source panels such as the chat",
+    "fileName": "800corner1.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\800corner1.vtf"
+  },
+  "materials\\vgui\\hud\\800corner2.vtf": {
+    "fileControls": {},
+    "fileDescription": "Used to create corners for source panels such as the chat",
+    "fileName": "800corner2.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\800corner2.vtf"
+  },
+  "materials\\vgui\\hud\\800corner3.vtf": {
+    "fileControls": {},
+    "fileDescription": "Used to create corners for source panels such as the chat",
+    "fileName": "800corner3.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\800corner3.vtf"
+  },
+  "materials\\vgui\\hud\\800corner4.vtf": {
+    "fileControls": {},
+    "fileDescription": "Used to create corners for source panels such as the chat",
+    "fileName": "800corner4.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\800corner4.vtf"
+  },
+  "materials\\vgui\\hud\\healthbar_ticks_withglow_green.vtf": {
+    "fileControls": {},
+    "fileDescription": "Health bar texture",
+    "fileName": "healthbar_ticks_withglow_green.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\healthbar_ticks_withglow_green.vtf"
+  },
+  "materials\\vgui\\hud\\healthbar_ticks_withglow_orange.vtf": {
+    "fileControls": {},
+    "fileDescription": "Health bar texture",
+    "fileName": "healthbar_ticks_withglow_orange.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\healthbar_ticks_withglow_orange.vtf"
+  },
+  "materials\\vgui\\hud\\healthbar_ticks_withglow_red.vtf": {
+    "fileControls": {},
+    "fileDescription": "Health bar texture",
+    "fileName": "healthbar_ticks_withglow_red.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\healthbar_ticks_withglow_red.vtf"
+  },
+  "materials\\vgui\\hud\\healthbar_ticks_withglow_white.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "healthbar_ticks_withglow_white.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\healthbar_ticks_withglow_white.vtf"
+  },
+  "materials\\vgui\\hud\\healthbar_ticks_withglow_whiteSolid.vmt": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "healthbar_ticks_withglow_whiteSolid.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\healthbar_ticks_withglow_whiteSolid.vmt"
+  },
+  "materials\\vgui\\hud\\healthbar_ticks_withglow_whiteSolid.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "healthbar_ticks_withglow_whiteSolid.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\healthbar_ticks_withglow_whiteSolid.vtf"
+  },
+  "materials\\vgui\\hud\\healthbar_withglow_green.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "healthbar_withglow_green.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\healthbar_withglow_green.vtf"
+  },
+  "materials\\vgui\\hud\\healthbar_withglow_orange.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "healthbar_withglow_orange.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\healthbar_withglow_orange.vtf"
+  },
+  "materials\\vgui\\hud\\healthbar_withglow_red.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "healthbar_withglow_red.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\healthbar_withglow_red.vtf"
+  },
+  "materials\\vgui\\hud\\healthbar_withglow_white.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "healthbar_withglow_white.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\healthbar_withglow_white.vtf"
+  },
+  "materials\\vgui\\hud\\iconsheet.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "iconsheet.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\iconsheet.vtf"
+  },
+  "materials\\vgui\\hud\\iconsheet2.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "iconsheet2.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\iconsheet2.vtf"
+  },
+  "materials\\vgui\\hud\\iconsheet2_darker.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "iconsheet2_darker.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\iconsheet2_darker.vmt"
+  },
+  "materials\\vgui\\hud\\iconsheet2_darker.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "iconsheet2_darker.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\iconsheet2_darker.vtf"
+  },
+  "materials\\vgui\\hud\\infected_healthbar_bg_1.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "infected_healthbar_bg_1.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\infected_healthbar_bg_1.vtf"
+  },
+  "materials\\vgui\\hud\\oldTicksHealthbars\\healthbar_ticks_withglow_green.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "healthbar_ticks_withglow_green.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\oldTicksHealthbars\\healthbar_ticks_withglow_green.vtf"
+  },
+  "materials\\vgui\\hud\\oldTicksHealthbars\\healthbar_ticks_withglow_orange.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "healthbar_ticks_withglow_orange.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\oldTicksHealthbars\\healthbar_ticks_withglow_orange.vtf"
+  },
+  "materials\\vgui\\hud\\oldTicksHealthbars\\healthbar_ticks_withglow_red.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "healthbar_ticks_withglow_red.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\oldTicksHealthbars\\healthbar_ticks_withglow_red.vtf"
+  },
+  "materials\\vgui\\hud\\oldTicksHealthbars\\healthbar_ticks_withglow_white.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "healthbar_ticks_withglow_white.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\oldTicksHealthbars\\healthbar_ticks_withglow_white.vtf"
+  },
+  "materials\\vgui\\hud\\overlay_dead.vmt": {
+    "fileControls": {},
+    "fileDescription": "Local and teammate panels dead overlay",
+    "fileName": "overlay_dead.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\overlay_dead.vmt"
+  },
+  "materials\\vgui\\hud\\overlay_dead.vtf": {
+    "fileControls": {},
+    "fileDescription": "Local and teammate panels dead overlay",
+    "fileName": "overlay_dead.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\overlay_dead.vtf"
+  },
+  "materials\\vgui\\hud\\pz_healthbar_250.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "pz_healthbar_250.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\pz_healthbar_250.vmt"
+  },
+  "materials\\vgui\\hud\\pz_healthbar_250.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "pz_healthbar_250.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\pz_healthbar_250.vtf"
+  },
+  "materials\\vgui\\hud\\pz_healthbar_50.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "pz_healthbar_50.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\pz_healthbar_50.vmt"
+  },
+  "materials\\vgui\\hud\\pz_healthbar_50.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "pz_healthbar_50.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\pz_healthbar_50.vtf"
+  },
+  "materials\\vgui\\hud\\s_healthbar_outline.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "s_healthbar_outline.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\s_healthbar_outline.vtf"
+  },
+  "materials\\vgui\\hud\\scalablepanel_bgmidgrey_outlinegreen_glow.vmt": {
+    "fileControls": {},
+    "fileDescription": "Weapons hud background panel texture",
+    "fileName": "scalablepanel_bgmidgrey_outlinegreen_glow.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\scalablepanel_bgmidgrey_outlinegreen_glow.vmt"
+  },
+  "materials\\vgui\\hud\\scalablepanel_bgmidgrey_outlinegreen_glow.vtf": {
+    "fileControls": {},
+    "fileDescription": "Weapons hud background panel texture",
+    "fileName": "scalablepanel_bgmidgrey_outlinegreen_glow.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\scalablepanel_bgmidgrey_outlinegreen_glow.vtf"
+  },
+  "materials\\vgui\\hud\\scalablepanel_bgmidgrey_outlinegrey.vmt": {
+    "fileControls": {},
+    "fileDescription": "Weapons hud background panel texture",
+    "fileName": "scalablepanel_bgmidgrey_outlinegrey.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\scalablepanel_bgmidgrey_outlinegrey.vmt"
+  },
+  "materials\\vgui\\hud\\scalablepanel_bgmidgrey_outlinegrey.vtf": {
+    "fileControls": {},
+    "fileDescription": "Weapons hud background panel texture",
+    "fileName": "scalablepanel_bgmidgrey_outlinegrey.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\scalablepanel_bgmidgrey_outlinegrey.vtf"
+  },
+  "materials\\vgui\\hud\\scope_dudv_ul.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "scope_dudv_ul.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\scope_dudv_ul.vtf"
+  },
+  "materials\\vgui\\hud\\scope_normal_ul.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "scope_normal_ul.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\scope_normal_ul.vtf"
+  },
+  "materials\\vgui\\hud\\scope_sniper_ll.vmt": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "scope_sniper_ll.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\scope_sniper_ll.vmt"
+  },
+  "materials\\vgui\\hud\\scope_sniper_lr.vmt": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "scope_sniper_lr.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\scope_sniper_lr.vmt"
+  },
+  "materials\\vgui\\hud\\scope_sniper_ul.vmt": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "scope_sniper_ul.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\scope_sniper_ul.vmt"
+  },
+  "materials\\vgui\\hud\\scope_sniper_ul.vtf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "scope_sniper_ul.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\scope_sniper_ul.vtf"
+  },
+  "materials\\vgui\\hud\\scope_sniper_ur.vmt": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "scope_sniper_ur.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\scope_sniper_ur.vmt"
+  },
+  "materials\\vgui\\hud\\selected.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "selected.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\selected.vtf"
+  },
+  "materials\\vgui\\hud\\splatter1.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "splatter1.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\splatter1.vmt"
+  },
+  "materials\\vgui\\hud\\splatter2.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "splatter2.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\splatter2.vmt"
+  },
+  "materials\\vgui\\hud\\splatter3.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "splatter3.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\splatter3.vmt"
+  },
+  "materials\\vgui\\hud\\splatter_corner_upper_right.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "splatter_corner_upper_right.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\splatter_corner_upper_right.vmt"
+  },
+  "materials\\vgui\\hud\\splatter_horizontal_bottom.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "splatter_horizontal_bottom.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\splatter_horizontal_bottom.vmt"
+  },
+  "materials\\vgui\\hud\\splatter_vertical_right.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "splatter_vertical_right.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\splatter_vertical_right.vmt"
+  },
+  "materials\\vgui\\hud\\survivaltimerclock.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "survivaltimerclock.vmt",
+    "fileRelativePath": "materials\\vgui\\hud\\survivaltimerclock.vmt"
+  },
+  "materials\\vgui\\hud\\unselected.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "unselected.vtf",
+    "fileRelativePath": "materials\\vgui\\hud\\unselected.vtf"
+  },
+  "materials\\vgui\\icon_con_grey.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "icon_con_grey.vtf",
+    "fileRelativePath": "materials\\vgui\\icon_con_grey.vtf"
+  },
+  "materials\\vgui\\menu_backgroud_bottom.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "menu_backgroud_bottom.vtf",
+    "fileRelativePath": "materials\\vgui\\menu_backgroud_bottom.vtf"
+  },
+  "materials\\vgui\\menu_backgroud_top.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "menu_backgroud_top.vtf",
+    "fileRelativePath": "materials\\vgui\\menu_backgroud_top.vtf"
+  },
+  "materials\\vgui\\s_panel_biker_incap.vmt": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_biker_incap.vmt",
+    "fileRelativePath": "materials\\vgui\\s_panel_biker_incap.vmt"
+  },
+  "materials\\vgui\\s_panel_biker_incap.vtf": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_biker_incap.vtf",
+    "fileRelativePath": "materials\\vgui\\s_panel_biker_incap.vtf"
+  },
+  "materials\\vgui\\s_panel_coach_incap.vmt": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_coach_incap.vmt",
+    "fileRelativePath": "materials\\vgui\\s_panel_coach_incap.vmt"
+  },
+  "materials\\vgui\\s_panel_coach_incap.vtf": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_coach_incap.vtf",
+    "fileRelativePath": "materials\\vgui\\s_panel_coach_incap.vtf"
+  },
+  "materials\\vgui\\s_panel_dead.vtf": {
+    "fileControls": {},
+    "fileDescription": "Dead survivor",
+    "fileName": "s_panel_dead.vtf",
+    "fileRelativePath": "materials\\vgui\\s_panel_dead.vtf"
+  },
+  "materials\\vgui\\s_panel_gambler_incap.vmt": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_gambler_incap.vmt",
+    "fileRelativePath": "materials\\vgui\\s_panel_gambler_incap.vmt"
+  },
+  "materials\\vgui\\s_panel_gambler_incap.vtf": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_gambler_incap.vtf",
+    "fileRelativePath": "materials\\vgui\\s_panel_gambler_incap.vtf"
+  },
+  "materials\\vgui\\s_panel_manager_incap.vmt": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_manager_incap.vmt",
+    "fileRelativePath": "materials\\vgui\\s_panel_manager_incap.vmt"
+  },
+  "materials\\vgui\\s_panel_manager_incap.vtf": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_manager_incap.vtf",
+    "fileRelativePath": "materials\\vgui\\s_panel_manager_incap.vtf"
+  },
+  "materials\\vgui\\s_panel_mechanic_incap.vmt": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_mechanic_incap.vmt",
+    "fileRelativePath": "materials\\vgui\\s_panel_mechanic_incap.vmt"
+  },
+  "materials\\vgui\\s_panel_mechanic_incap.vtf": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_mechanic_incap.vtf",
+    "fileRelativePath": "materials\\vgui\\s_panel_mechanic_incap.vtf"
+  },
+  "materials\\vgui\\s_panel_namvet_incap.vmt": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_namvet_incap.vmt",
+    "fileRelativePath": "materials\\vgui\\s_panel_namvet_incap.vmt"
+  },
+  "materials\\vgui\\s_panel_namvet_incap.vtf": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_namvet_incap.vtf",
+    "fileRelativePath": "materials\\vgui\\s_panel_namvet_incap.vtf"
+  },
+  "materials\\vgui\\s_panel_producer_incap.vmt": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_producer_incap.vmt",
+    "fileRelativePath": "materials\\vgui\\s_panel_producer_incap.vmt"
+  },
+  "materials\\vgui\\s_panel_producer_incap.vtf": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_producer_incap.vtf",
+    "fileRelativePath": "materials\\vgui\\s_panel_producer_incap.vtf"
+  },
+  "materials\\vgui\\s_panel_teenangst_incap.vmt": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_teenangst_incap.vmt",
+    "fileRelativePath": "materials\\vgui\\s_panel_teenangst_incap.vmt"
+  },
+  "materials\\vgui\\s_panel_teenangst_incap.vtf": {
+    "fileControls": {},
+    "fileDescription": "Incapped survivor texture",
+    "fileName": "s_panel_teenangst_incap.vtf",
+    "fileRelativePath": "materials\\vgui\\s_panel_teenangst_incap.vtf"
+  },
+  "materials\\vui\\l4d1header.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "l4d1header.vmt",
+    "fileRelativePath": "materials\\vui\\l4d1header.vmt"
+  },
+  "materials\\vui\\l4d1header.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "l4d1header.vtf",
+    "fileRelativePath": "materials\\vui\\l4d1header.vtf"
+  },
+  "materials\\vui\\l4d2header.vmt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "l4d2header.vmt",
+    "fileRelativePath": "materials\\vui\\l4d2header.vmt"
+  },
+  "materials\\vui\\l4d2header.vtf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "l4d2header.vtf",
+    "fileRelativePath": "materials\\vui\\l4d2header.vtf"
+  },
+  "resource\\chatscheme.res": {
+    "fileControls": {},
+    "fileDescription": "Chat box scheme. Tightly integrated with 'basechat.res'",
+    "fileName": "chatscheme.res",
+    "fileRelativePath": "resource\\chatscheme.res"
+  },
+  "resource\\clientscheme.res": {
+    "fileControls": {
+      "": ""
+    },
+    "fileDescription": "Defines (custom) fonts, borders and colours\r\n\r\nCredits main header font: 'InstructorTitle'\r\nCredits stats 'survivors': 'OuttroStatsCrawlUnderline'\r\nCredits stats 'gameplay stats': OuttroStatsCrawlTitles\r\nCredits stats text: 'OuttroStatsCrawl'\r\nCredits 'space bar - return to lobby': 'DefaultLarge'\r\n\r\nGame instructor popup font: 'InstructorTitle'\r\nRadial: DefaultDropShadowBold\r\nRadial selected: 'DefaultLargeDropShadowBold'\r\nRadial font colour: 'White'\r\nSurvivor head overlay font: 'TargetID'. This font has outline hardcoded by default. enabling it again applies it twice and can cause strange effects\r\n\r\nFont options\r\nNAME:\t\tfont name as defined under 'CustomFonts' or installed on the operating system\r\nTALL:\t\tfont size\r\nWEIGHT:\t\tthe thickness of the font. This can be one of; 0, 100, 200, 300, 400, 500, 600, 700, 800 or 900. Some fonts are limited in how thin or thick they can be\r\nITALIC:\t\titalics\r\nADDITIVE:\tseems to make the font slightly transparent and change colour based on the background\r\nRANGE:\t\tthis is a hexadecimal range for defined for the range of characters we want to use. If you don't know much about font files, don't worry about this, just leave it for existing fonts and don't bother adding it for custom fonts\r\nYRES:\t\trange between x and y to use this font at\r\nDROPSHADOW:\tblack shadow behind the font\r\nOUTLINE:\toutline around the entire font\r\nANTIALIAS:\tantialias the edges\r\n",
+    "fileName": "clientscheme.res",
+    "fileRelativePath": "resource\\clientscheme.res"
+  },
+  "resource\\fonts\\Cerbetica.otf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "Cerbetica.otf",
+    "fileRelativePath": "resource\\fonts\\Cerbetica.otf"
+  },
+  "resource\\fonts\\Cerbetica_bold.otf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "Cerbetica_bold.otf",
+    "fileRelativePath": "resource\\fonts\\Cerbetica_bold.otf"
+  },
+  "resource\\fonts\\FiraCode-Bold.ttf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "FiraCode-Bold.ttf",
+    "fileRelativePath": "resource\\fonts\\FiraCode-Bold.ttf"
+  },
+  "resource\\fonts\\FiraCode-Light.ttf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "FiraCode-Light.ttf",
+    "fileRelativePath": "resource\\fonts\\FiraCode-Light.ttf"
+  },
+  "resource\\fonts\\FiraCode-Medium.ttf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "FiraCode-Medium.ttf",
+    "fileRelativePath": "resource\\fonts\\FiraCode-Medium.ttf"
+  },
+  "resource\\fonts\\FiraCode-Regular.ttf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "FiraCode-Regular.ttf",
+    "fileRelativePath": "resource\\fonts\\FiraCode-Regular.ttf"
+  },
+  "resource\\fonts\\FiraCode-Retina.ttf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "FiraCode-Retina.ttf",
+    "fileRelativePath": "resource\\fonts\\FiraCode-Retina.ttf"
+  },
+  "resource\\fonts\\FiraCode-SemiBold.ttf": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "FiraCode-SemiBold.ttf",
+    "fileRelativePath": "resource\\fonts\\FiraCode-SemiBold.ttf"
+  },
+  "resource\\fonts\\Icons.otf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "Icons.otf",
+    "fileRelativePath": "resource\\fonts\\Icons.otf"
+  },
+  "resource\\fonts\\TF2Crosshairs.otf": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "TF2Crosshairs.otf",
+    "fileRelativePath": "resource\\fonts\\TF2Crosshairs.otf"
+  },
+  "resource\\l4d360uischeme.res": {
+    "fileControls": {},
+    "fileDescription": "Scheme for l4d specific built-in panels such as the warning message in the addons menu when there are conflicts. Msg header font: 'MainBold', Msg button font: 'DefaultBold', Msg content font: 'Default'",
+    "fileName": "l4d360uischeme.res",
+    "fileRelativePath": "resource\\l4d360uischeme.res"
+  },
+  "resource\\left4dead2_english.txt": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "left4dead2_english.txt",
+    "fileRelativePath": "resource\\left4dead2_english.txt"
+  },
+  "resource\\loadingdiscpanel.res": {
+    "fileControls": {
+      "CLoadingDiscPanel": "hard coded 'xpos' & 'ypos'",
+      "LoadingLabel": "",
+      "LoadingProgress": ""
+    },
+    "fileDescription": "Game paused panel. Changes require font reloading\r\n\r\nCLoadingDiscPanel: hard coded 'xpos' & 'ypos'",
+    "fileName": "loadingdiscpanel.res",
+    "fileRelativePath": "resource\\loadingdiscpanel.res"
+  },
+  "resource\\scheme\\clientscheme_borders.res": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "clientscheme_borders.res",
+    "fileRelativePath": "resource\\scheme\\clientscheme_borders.res"
+  },
+  "resource\\scheme\\clientscheme_borders_stock.res": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "clientscheme_borders_stock.res",
+    "fileRelativePath": "resource\\scheme\\clientscheme_borders_stock.res"
+  },
+  "resource\\scheme\\clientscheme_colors.res": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "clientscheme_colors.res",
+    "fileRelativePath": "resource\\scheme\\clientscheme_colors.res"
+  },
+  "resource\\scheme\\clientscheme_fonts_cerbetica.res": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "clientscheme_fonts_cerbetica.res",
+    "fileRelativePath": "resource\\scheme\\clientscheme_fonts_cerbetica.res"
+  },
+  "resource\\scheme\\clientscheme_fonts_firacode.res": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "clientscheme_fonts_firacode.res",
+    "fileRelativePath": "resource\\scheme\\clientscheme_fonts_firacode.res"
+  },
+  "resource\\scheme\\clientscheme_fonts_stock.res": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "clientscheme_fonts_stock.res",
+    "fileRelativePath": "resource\\scheme\\clientscheme_fonts_stock.res"
+  },
+  "resource\\scheme\\clientscheme_icons.res": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "clientscheme_icons.res",
+    "fileRelativePath": "resource\\scheme\\clientscheme_icons.res"
+  },
+  "resource\\scheme\\clientscheme_settings.res": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "clientscheme_settings.res",
+    "fileRelativePath": "resource\\scheme\\clientscheme_settings.res"
+  },
+  "resource\\sourcescheme.res": {
+    "fileControls": {},
+    "fileDescription": "Defines (custom) fonts, borders and colours for 'built-in' source panels such as the console. Console font: 'ConsoleText', Console input font: 'DefaultSmall' ",
+    "fileName": "sourcescheme.res",
+    "fileRelativePath": "resource\\sourcescheme.res"
+  },
+  "resource\\ui\\basechat.res": {
+    "fileControls": {
+      "ChatFiltersButton": "Chat filters button. Hidden by default because it's buggy",
+      "ChatInputLine": "Chat input line. Hardcoded: 'ypos', 'tall'. These are calculated with values defined in 'chatscheme.res' fonts->Default",
+      "HudChat": "Chat panel position",
+      "HudChatHistory": "Chat history. Hard coded: 'tall'",
+      "KeyStateLabel": "Multiplier key combinations. Eg: Ctrl+Shift"
+    },
+    "fileDescription": "Chat box. Most controls require resolution reload and some game restart. Tightly integrated with 'chatscheme.res'",
+    "fileName": "basechat.res",
+    "fileRelativePath": "resource\\ui\\basechat.res"
+  },
+  "resource\\ui\\chatfilters.res": {
+    "fileControls": {
+      "HudChatFilterPanel": "",
+      "joinleave_button": "",
+      "namechange_button": "",
+      "publicchat_button": "",
+      "servermsg_button": "",
+      "teamchange_button": ""
+    },
+    "fileDescription": "Chat filters menu. Chatbox button hidden by default",
+    "fileName": "chatfilters.res",
+    "fileRelativePath": "resource\\ui\\chatfilters.res"
+  },
+  "resource\\ui\\dlc3escapefailed.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "info_window": "",
+      "text": "",
+      "title": ""
+    },
+    "fileDescription": "Sacrifice finale failed",
+    "fileName": "dlc3escapefailed.res",
+    "fileRelativePath": "resource\\ui\\dlc3escapefailed.res"
+  },
+  "resource\\ui\\dlc3finalefailed.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "info_window": "",
+      "text": "",
+      "title": ""
+    },
+    "fileDescription": "Sacrifice finale failed",
+    "fileName": "dlc3finalefailed.res",
+    "fileRelativePath": "resource\\ui\\dlc3finalefailed.res"
+  },
+  "resource\\ui\\fullscreenholdoutmodescoreboard.res": {
+    "fileControls": {
+      "CHoldoutModeScoreboard": "",
+      "fullscreen_holdout_scoreboard": "",
+      "ImgBackground": ""
+    },
+    "fileDescription": "Survival scoreboard",
+    "fileName": "fullscreenholdoutmodescoreboard.res",
+    "fileRelativePath": "resource\\ui\\fullscreenholdoutmodescoreboard.res"
+  },
+  "resource\\ui\\fullscreenscavengemodescoreboard.res": {
+    "fileControls": {
+      "CScavengeModeScoreboard": "",
+      "fullscreen_scavenge_scoreboard": ""
+    },
+    "fileDescription": "Scavenge scoreboard",
+    "fileName": "fullscreenscavengemodescoreboard.res",
+    "fileRelativePath": "resource\\ui\\fullscreenscavengemodescoreboard.res"
+  },
+  "resource\\ui\\fullscreensurvivalmodescoreboard.res": {
+    "fileControls": {
+      "CSurvivalModeScoreboard": "",
+      "fullscreen_survival_scoreboard": "",
+      "ImgBackground": "",
+      "ScoreboardImgBackground": ""
+    },
+    "fileDescription": "Survival scoreboard",
+    "fileName": "fullscreensurvivalmodescoreboard.res",
+    "fileRelativePath": "resource\\ui\\fullscreensurvivalmodescoreboard.res"
+  },
+  "resource\\ui\\fullscreenversusmoderesults.res": {
+    "fileControls": {
+      "CVersusModeResults": "",
+      "fullscreen_vs_results": ""
+    },
+    "fileDescription": "Versus scoreboard end of match position",
+    "fileName": "fullscreenversusmoderesults.res",
+    "fileRelativePath": "resource\\ui\\fullscreenversusmoderesults.res"
+  },
+  "resource\\ui\\fullscreenversusmodescoreboard.res": {
+    "fileControls": {
+      "CVersusModeScoreboard": "",
+      "fullscreen_vs_scoreboard": ""
+    },
+    "fileDescription": "",
+    "fileName": "fullscreenversusmodescoreboard.res",
+    "fileRelativePath": "resource\\ui\\fullscreenversusmodescoreboard.res"
+  },
+  "resource\\ui\\holdoutmodescoreboard.res": {
+    "fileControls": {
+      "BoomerKillsDigits": "",
+      "BoomerKillsLabel": "",
+      "CommonKillsDigits": "",
+      "CommonKillsLabel": "",
+      "FinalTimeDigits": "",
+      "FinalTimeLabel": "",
+      "GamerCardButton": "",
+      "GamerCardLabel": "",
+      "HunterKillsDigits": "",
+      "HunterKillsLabel": "",
+      "KillsHeader": "",
+      "PlayersColumnLabel": "",
+      "SmokerKillsDigits": "",
+      "SmokerKillsLabel": "",
+      "Survivor1Entry": "",
+      "Survivor2Entry": "",
+      "Survivor3Entry": "",
+      "Survivor4Entry": "",
+      "TankKillsDigits": "",
+      "TankKillsLabel": "",
+      "TimeColumnLabel": "",
+      "TitleBackgroundImage": ""
+    },
+    "fileDescription": "Survival scoreboard",
+    "fileName": "holdoutmodescoreboard.res",
+    "fileRelativePath": "resource\\ui\\holdoutmodescoreboard.res"
+  },
+  "resource\\ui\\holdoutmodescoreboardentry.res": {
+    "fileControls": {
+      "SurvivorAvatar": "",
+      "SurvivorMedal": "",
+      "SurvivorName": "",
+      "SurvivorTime": ""
+    },
+    "fileDescription": "Survival scoreboard player row",
+    "fileName": "holdoutmodescoreboardentry.res",
+    "fileRelativePath": "resource\\ui\\holdoutmodescoreboardentry.res"
+  },
+  "resource\\ui\\holdoutmodeshutdown.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "holdout_shutting_down": "",
+      "ModeTitle": "",
+      "SpawnModeOneText": ""
+    },
+    "fileDescription": "Survival server shutting down",
+    "fileName": "holdoutmodeshutdown.res",
+    "fileRelativePath": "resource\\ui\\holdoutmodeshutdown.res"
+  },
+  "resource\\ui\\hud\\abilitytimerhud.res": {
+    "fileControls": {
+      "AbilityImage": "",
+      "BackgroundImage": "",
+      "Progress": ""
+    },
+    "fileDescription": "Infected local player ability cooldown timer",
+    "fileName": "abilitytimerhud.res",
+    "fileRelativePath": "resource\\ui\\hud\\abilitytimerhud.res"
+  },
+  "resource\\ui\\hud\\boomerhealth.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "DuckingIcon": "",
+      "Health": "",
+      "HealthNumber": ""
+    },
+    "fileDescription": "Infected local player hud ",
+    "fileName": "boomerhealth.res",
+    "fileRelativePath": "resource\\ui\\hud\\boomerhealth.res"
+  },
+  "resource\\ui\\hud\\chargerhealth.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "DuckingIcon": "",
+      "Health": "",
+      "HealthNumber": ""
+    },
+    "fileDescription": "Infected charger local player hud",
+    "fileName": "chargerhealth.res",
+    "fileRelativePath": "resource\\ui\\hud\\chargerhealth.res"
+  },
+  "resource\\ui\\hud\\frustrationmeter.res": {
+    "fileControls": {
+      "Countdown": "",
+      "FrustrationBar": "",
+      "FrustrationLabel": "",
+      "Warning": "",
+      "Warning2": ""
+    },
+    "fileDescription": "Infected tank frustration meter",
+    "fileName": "frustrationmeter.res",
+    "fileRelativePath": "resource\\ui\\hud\\frustrationmeter.res"
+  },
+  "resource\\ui\\hud\\hudholdouttimer.res": {
+    "fileControls": {
+      "AwesomeLabel": "",
+      "CurrentTimeBackground": "",
+      "CurrentTimeDigits": "",
+      "GoalImage": "",
+      "HoldoutTargetTimeBackgroundImage": "",
+      "HoldoutTimerBackgroundImage": "",
+      "NextGoalDescriptor": "",
+      "TargetTimeDigits": "",
+      "TargetTransition": "",
+      "Timer": ""
+    },
+    "fileDescription": "Survival round timer",
+    "fileName": "hudholdouttimer.res",
+    "fileRelativePath": "resource\\ui\\hud\\hudholdouttimer.res"
+  },
+  "resource\\ui\\hud\\hudscavengeprogress.res": {
+    "fileControls": {
+      "GasCanImage": "",
+      "ItemDigitDivider": "",
+      "ItemsCollectedDigits": "",
+      "ItemsGoalDigits": "",
+      "ProgressBackground": ""
+    },
+    "fileDescription": "Dead Center finale gascan hud",
+    "fileName": "hudscavengeprogress.res",
+    "fileRelativePath": "resource\\ui\\hud\\hudscavengeprogress.res"
+  },
+  "resource\\ui\\hud\\hudscavengetimer.res": {
+    "fileControls": {
+      "CurrentScavengeTimeDigits": "",
+      "CurrentScoreBackground": "",
+      "CurrentScoreBackgroundFill": "",
+      "CurrentScoreDigits": "",
+      "CurrentScoreLabel": "",
+      "CurrentTimeBackground": "",
+      "CurrentTimeBackgroundFill": "",
+      "CurrentTimeBackgroundOverlay": "",
+      "ItemsRemainingDigits": "",
+      "ScavengeTimeToBeatBackgroundFill": "",
+      "ScavengeTimeToBeatBackgroundImage": "",
+      "ScoreToBeatDigits": "",
+      "ScoreToBeatLabel": "",
+      "Slash": "",
+      "SplatterBottom": "",
+      "SplatterTop": "",
+      "SplatterTopLeft": "",
+      "SplatterTopRight": ""
+    },
+    "fileDescription": "Scavenge round timer",
+    "fileName": "hudscavengetimer.res",
+    "fileRelativePath": "resource\\ui\\hud\\hudscavengetimer.res"
+  },
+  "resource\\ui\\hud\\hudscavengetimer.txt": {
+    "fileControls": {},
+    "fileDescription": "Scavenge round timer",
+    "fileName": "hudscavengetimer.txt",
+    "fileRelativePath": "resource\\ui\\hud\\hudscavengetimer.txt"
+  },
+  "resource\\ui\\hud\\hudsurvivaltimer.res": {
+    "fileControls": {
+      "AwesomeLabel": "",
+      "CurrentTimeBackground": "",
+      "CurrentTimeDigits": "",
+      "GoalImage": "",
+      "NextGoalDescriptor": "",
+      "SurvivalTargetTimeBackgroundImage": "",
+      "SurvivalTimerBackgroundImage": "",
+      "TargetTimeDigits": "",
+      "TargetTransition": "",
+      "Timer": ""
+    },
+    "fileDescription": "Survival round timer",
+    "fileName": "hudsurvivaltimer.res",
+    "fileRelativePath": "resource\\ui\\hud\\hudsurvivaltimer.res"
+  },
+  "resource\\ui\\hud\\hunterhealth.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "DuckingIcon": "",
+      "Health": "",
+      "HealthNumber": ""
+    },
+    "fileDescription": "Infected hunter hud",
+    "fileName": "hunterhealth.res",
+    "fileRelativePath": "resource\\ui\\hud\\hunterhealth.res"
+  },
+  "resource\\ui\\hud\\itempickup.res": {
+    "fileControls": {
+      "bg1": "",
+      "bg2": "",
+      "bg3": "",
+      "image1": "",
+      "image2": "",
+      "image3": ""
+    },
+    "fileDescription": "Item pickup panel that gets animated in hudanimations.txt",
+    "fileName": "itempickup.res",
+    "fileRelativePath": "resource\\ui\\hud\\itempickup.res"
+  },
+  "resource\\ui\\hud\\jockeyhealth.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "DuckingIcon": "",
+      "Health": "",
+      "HealthNumber": ""
+    },
+    "fileDescription": "Infected jockey hud",
+    "fileName": "jockeyhealth.res",
+    "fileRelativePath": "resource\\ui\\hud\\jockeyhealth.res"
+  },
+  "resource\\ui\\hud\\localplayerdisplay.res": {
+    "fileControls": {
+      "LocalPlayer": ""
+    },
+    "fileDescription": "Position local player health hud",
+    "fileName": "localplayerdisplay.res",
+    "fileRelativePath": "resource\\ui\\hud\\localplayerdisplay.res"
+  },
+  "resource\\ui\\hud\\localplayerpanel.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "Dead": "",
+      "DuckingIcon": "",
+      "Head": "",
+      "Health": "",
+      "HealthIcon": "",
+      "HealthNumber": "",
+      "Voice": ""
+    },
+    "fileDescription": "Local player health hud",
+    "fileName": "localplayerpanel.res",
+    "fileRelativePath": "resource\\ui\\hud\\localplayerpanel.res"
+  },
+  "resource\\ui\\hud\\localplayerpanel_incap.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "Dead": "",
+      "Head": "",
+      "Health": "",
+      "HealthIcon": "",
+      "HealthNumber": "",
+      "Voice": ""
+    },
+    "fileDescription": "",
+    "fileName": "localplayerpanel_incap.res",
+    "fileRelativePath": "resource\\ui\\hud\\localplayerpanel_incap.res"
+  },
+  "resource\\ui\\hud\\progressbar.res": {
+    "fileControls": {
+      "AwardIcon": "",
+      "BackgroundImage": "",
+      "Bar": "",
+      "BarLabel": "",
+      "Subtext": ""
+    },
+    "fileDescription": "Progress bar. Healing/being healed, starting generator etc",
+    "fileName": "progressbar.res",
+    "fileRelativePath": "resource\\ui\\hud\\progressbar.res"
+  },
+  "resource\\ui\\hud\\pzdamagerecordpanel.res": {
+    "fileControls": {
+      "label4background": "",
+      "recordlabel0": "",
+      "recordlabel1": "",
+      "recordlabel2": "",
+      "recordlabel3": "",
+      "recordlabel4": ""
+    },
+    "fileDescription": "Kill feed eg: Player X killed smoker. Mainlabel: 'recordlabel0' ",
+    "fileName": "pzdamagerecordpanel.res",
+    "fileRelativePath": "resource\\ui\\hud\\pzdamagerecordpanel.res"
+  },
+  "resource\\ui\\hud\\smokerhealth.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "DuckingIcon": "",
+      "Health": "",
+      "HealthNumber": ""
+    },
+    "fileDescription": "Infected smoker hud",
+    "fileName": "smokerhealth.res",
+    "fileRelativePath": "resource\\ui\\hud\\smokerhealth.res"
+  },
+  "resource\\ui\\hud\\spitterhealth.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "DuckingIcon": "",
+      "Health": "",
+      "HealthNumber": ""
+    },
+    "fileDescription": "Infected spitter hud",
+    "fileName": "spitterhealth.res",
+    "fileRelativePath": "resource\\ui\\hud\\spitterhealth.res"
+  },
+  "resource\\ui\\hud\\tankhealth.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "DuckingIcon": "",
+      "Health": "",
+      "HealthNumber": ""
+    },
+    "fileDescription": "Infected tank hud",
+    "fileName": "tankhealth.res",
+    "fileRelativePath": "resource\\ui\\hud\\tankhealth.res"
+  },
+  "resource\\ui\\hud\\teamdisplayhud.res": {
+    "fileControls": {
+      "TeamPlayer1": "",
+      "TeamPlayer2": "",
+      "TeamPlayer3": "",
+      "TeamPlayer4": ""
+    },
+    "fileDescription": "Position survivor teammate panels",
+    "fileName": "teamdisplayhud.res",
+    "fileRelativePath": "resource\\ui\\hud\\teamdisplayhud.res"
+  },
+  "resource\\ui\\hud\\teammatepanel.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "Dead": "",
+      "Head": "",
+      "Health": "",
+      "IconForSlot_First_Aid": "",
+      "IconForSlot_Grenade": "",
+      "IconForSlot_Pills": "",
+      "Name": "",
+      "Status": "",
+      "Voice": ""
+    },
+    "fileDescription": "Survivor teammate panel",
+    "fileName": "teammatepanel.res",
+    "fileRelativePath": "resource\\ui\\hud\\teammatepanel.res"
+  },
+  "resource\\ui\\hud\\teammatepanel_incap.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "Health": "",
+      "Name": "",
+      "Voice": ""
+    },
+    "fileDescription": "Survivor teammate panel while incapped. Can be copy pasted but replace 'dead' control with 'backgroundimage'",
+    "fileName": "teammatepanel_incap.res",
+    "fileRelativePath": "resource\\ui\\hud\\teammatepanel_incap.res"
+  },
+  "resource\\ui\\hud\\votehud.res": {
+    "fileControls": {
+      "CallVoteFailed": "",
+      "VoteActive": "",
+      "VoteFailed": "",
+      "VotePassed": ""
+    },
+    "fileDescription": "Vote hud. 'YesPCLabel' and 'NoPCLabel' labeltext's are hardcoded, definition set in 'resource\\left4dead(2)_english.txt'",
+    "fileName": "votehud.res",
+    "fileRelativePath": "resource\\ui\\hud\\votehud.res"
+  },
+  "resource\\ui\\hud\\zombieteamdisplayplayer.res": {
+    "fileControls": {
+      "AbilityProgress": "",
+      "BackgroundImage": "",
+      "Dead": "",
+      "HealthPanel": "",
+      "NameLabel": "",
+      "PlayerImage": "",
+      "SkullIconPlacement": "",
+      "SpawnTimeLabel": "",
+      "Voice": "",
+      "ZombieTeamDisplayPlayer": ""
+    },
+    "fileDescription": "Infected teammate panels",
+    "fileName": "zombieteamdisplayplayer.res",
+    "fileRelativePath": "resource\\ui\\hud\\zombieteamdisplayplayer.res"
+  },
+  "resource\\ui\\hudghostpanel.res": {
+    "fileControls": {
+      "BackgroundFill": "",
+      "BackgroundImage": "",
+      "ClassImage": "",
+      "ClassName": "",
+      "Info": "",
+      "Ready": "",
+      "SelectSpawn": "",
+      "SpawnBind": "",
+      "SpawnLabel": "",
+      "Splatter1": "",
+      "Splatter3": "",
+      "Splatter4": "",
+      "Splatter6": ""
+    },
+    "fileDescription": "Infected local player spawn hud",
+    "fileName": "hudghostpanel.res",
+    "fileRelativePath": "resource\\ui\\hudghostpanel.res"
+  },
+  "resource\\ui\\l4d360ui\\achievementlistitem.res": {
+    "fileControls": {
+      "AchievementListItem": "",
+      "BtnDetails": "",
+      "CheckmarkTemplateLeft": "",
+      "CheckmarkTemplateRight": "",
+      "ComponentTemplateLeft": "",
+      "ComponentTemplateRight": "",
+      "DivTitleDivider": "",
+      "ImgAchievementIcon": "",
+      "LblCurrProgress": "",
+      "LblDetails": "",
+      "LblGamerScore": "",
+      "LblHowTo": "",
+      "LblName": "",
+      "LblProgress": "",
+      "PrgProgress": ""
+    },
+    "fileDescription": "Achievements menu table row item",
+    "fileName": "achievementlistitem.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\achievementlistitem.res"
+  },
+  "resource\\ui\\l4d360ui\\achievements.res": {
+    "fileControls": {
+      "Achievements": "",
+      "BtnCancel": "",
+      "Divider1": "",
+      "Divider2": "",
+      "GplAchievements": "",
+      "GplAwards": "",
+      "IconBackArrow": "",
+      "LblComplete": "",
+      "LblGamerscore": "",
+      "PnlLowerGarnish": "",
+      "ProTotalProgress": ""
+    },
+    "fileDescription": "Achievements menu",
+    "fileName": "achievements.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\achievements.res"
+  },
+  "resource\\ui\\l4d360ui\\addonlistitem.res": {
+    "fileControls": {
+      "AddonEnabledCheckbox": "",
+      "AddonListItem": "",
+      "LblName": "",
+      "LblType": ""
+    },
+    "fileDescription": "Addons menu table row item",
+    "fileName": "addonlistitem.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\addonlistitem.res"
+  },
+  "resource\\ui\\l4d360ui\\addons.res": {
+    "fileControls": {
+      "Addons": "",
+      "AddonSupportRequiredPanel": "",
+      "BtnCancel": "",
+      "BtnInstallSupport": "",
+      "CheckButtonAssociation": "",
+      "Divider1": "",
+      "Divider2": "",
+      "GplAddons": "",
+      "IconBackArrow": "",
+      "IconInstallSupport": "",
+      "ImgAddonIcon": "",
+      "InstallingAddonSupportPanel": "",
+      "LblAuthor": "",
+      "LblCheckNoAssociation": "",
+      "LblDescription": "",
+      "LblName": "",
+      "LblNoAddons": "",
+      "LblType": ""
+    },
+    "fileDescription": "Addons menu",
+    "fileName": "addons.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\addons.res"
+  },
+  "resource\\ui\\l4d360ui\\audio.res": {
+    "fileControls": {
+      "Audio": "",
+      "Btn3rdPartyCredits": "",
+      "BtnCancel": "",
+      "BtnTestMicrophone": "",
+      "DrpBoostMicrophone": "",
+      "DrpCaptioning": "",
+      "DrpLanguage": "",
+      "DrpSoundQuality": "",
+      "DrpSpeakerConfiguration": "",
+      "DrpVoiceCommunication": "",
+      "DrpVoiceCommunicationStyle": "",
+      "FlmBoostMicrophone": "",
+      "FlmCaption": "",
+      "FlmLanguage": "",
+      "FlmSoundQuality": "",
+      "FlmSpeakerConfiguration": "",
+      "FlmVoiceCommunication": "",
+      "FlmVoiceCommunicationStyle": "",
+      "ImgBackground": "",
+      "MicMeter": "",
+      "MicMeter2": "",
+      "MicMeterIndicator": "",
+      "SldGameVolume": "",
+      "SldMusicVolume": "",
+      "SldVoiceReceiveVolume": "",
+      "SldVoiceTransmitVolume": "",
+      "SldVoiceVoxThreshold": ""
+    },
+    "fileDescription": "Audio settings menu",
+    "fileName": "audio.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\audio.res"
+  },
+  "resource\\ui\\l4d360ui\\cloud.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "Cloud": "",
+      "DrpCloud": "",
+      "FeaturesLabel1": "",
+      "FeaturesLabel2": "",
+      "FeaturesLabel3": "",
+      "FlmCloud": "",
+      "ImageCloud": "",
+      "ImgBackground": ""
+    },
+    "fileDescription": "Cloud settings menu",
+    "fileName": "cloud.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\cloud.res"
+  },
+  "resource\\ui\\l4d360ui\\createlobbyflyout.res": {
+    "fileControls": {
+      "BtnStartCampaign": "",
+      "BtnStartHoldoutCoop": "",
+      "BtnStartTeamVersus": "",
+      "BtnStartVersus": "",
+      "PnlBackground": ""
+    },
+    "fileDescription": "Create lobby drop down menu",
+    "fileName": "createlobbyflyout.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\createlobbyflyout.res"
+  },
+  "resource\\ui\\l4d360ui\\customcampaignlistitem.res": {
+    "fileControls": {
+      "CustomCampaignListItem": "",
+      "LblName": ""
+    },
+    "fileDescription": "Choose custom campaign menu table row item",
+    "fileName": "customcampaignlistitem.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\customcampaignlistitem.res"
+  },
+  "resource\\ui\\l4d360ui\\customcampaigns.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnSelect": "",
+      "CustomCampaigns": "",
+      "Divider1": "",
+      "Divider2": "",
+      "GplCustomCampaigns": "",
+      "IconBackArrow": "",
+      "IconForwardArrow": "",
+      "ImgLevelImage": "",
+      "LblAuthor": "",
+      "LblDescription": "",
+      "LblName": "",
+      "LblNoCampaignsFound": ""
+    },
+    "fileDescription": "Choose custom campaign menu",
+    "fileName": "customcampaigns.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\customcampaigns.res"
+  },
+  "resource\\ui\\l4d360ui\\footerpanel.res": {
+    "fileControls": {
+      "FooterPanel": "",
+      "ImageCloud": "",
+      "LblHelpText": "",
+      "UsesCloudLabel": ""
+    },
+    "fileDescription": "Menu footer",
+    "fileName": "footerpanel.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\footerpanel.res"
+  },
+  "resource\\ui\\l4d360ui\\foundgamelistitem.res": {
+    "fileControls": {
+      "FoundGameListItem": "",
+      "ImgAvatarBG": "",
+      "ImgPing": "",
+      "ImgPingSmall": "",
+      "LblDifficulty": "",
+      "LblGamerTag": "",
+      "LblNotJoinable": "",
+      "LblNumPlayers": "",
+      "LblPing": "",
+      "PnlGamerPic": "",
+      "PnlModPic": ""
+    },
+    "fileDescription": "Join friends game or lobby menu table row item",
+    "fileName": "foundgamelistitem.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\foundgamelistitem.res"
+  },
+  "resource\\ui\\l4d360ui\\foundgamelistitempublic.res": {
+    "fileControls": {
+      "FoundGameListItemPublic": "",
+      "ImgAvatarBG": "",
+      "ImgPing": "",
+      "ImgPingSmall": "",
+      "LblDifficulty": "",
+      "LblGamerTag": "",
+      "LblNotJoinable": "",
+      "LblNumPlayers": "",
+      "LblPing": "",
+      "PnlGamerPic": "",
+      "PnlModPic": ""
+    },
+    "fileDescription": "Join public game or lobby menu row item",
+    "fileName": "foundgamelistitempublic.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\foundgamelistitempublic.res"
+  },
+  "resource\\ui\\l4d360ui\\foundgames.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnDownloadSelected": "",
+      "BtnJoinSelected": "",
+      "BtnWebsite": "",
+      "Divider1": "",
+      "Divider2": "",
+      "DrpCreateGame": "",
+      "DrpSelectedPlayerName": "",
+      "FlmPlayerFlyout": "",
+      "FlmPlayerFlyout_NotFriend": "",
+      "FlmPlayerFlyout_SteamGroup": "",
+      "FoundGames": "",
+      "GplGames": "",
+      "IconBackArrow": "",
+      "IconForwardArrow": "",
+      "ImgBackground": "",
+      "ImgFrame": "",
+      "ImgLevelImage": "",
+      "ImgSelectedAvatar": "",
+      "LblAuthor": "",
+      "LblCampaign": "",
+      "LblChapter": "",
+      "LblGameDifficulty": "",
+      "LblGameStatus": "",
+      "LblNewVersion": "",
+      "LblNoGamesFound": "",
+      "LblNumPlayers": "",
+      "LblPlayerAccess": "",
+      "LblPressX": "",
+      "LblSearching": "",
+      "SearchingIcon": ""
+    },
+    "fileDescription": "Join friends game or lobby menu",
+    "fileName": "foundgames.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\foundgames.res"
+  },
+  "resource\\ui\\l4d360ui\\foundgroupgames.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnDownloadSelected": "",
+      "BtnJoinSelected": "",
+      "BtnWebsite": "",
+      "Divider1": "",
+      "Divider2": "",
+      "DrpCreateGame": "",
+      "DrpSelectedPlayerName": "",
+      "FlmCreateLobby": "",
+      "FlmPlayerFlyout": "",
+      "FlmPlayerFlyout_NotFriend": "",
+      "FoundGroupGames": "",
+      "GameDetailsBackground": "",
+      "GameListBackground": "",
+      "GplGames": "",
+      "ImgAvatarBG": "",
+      "ImgBackground": "",
+      "ImgLevelBack": "",
+      "ImgLevelImage": "",
+      "ImgSelectedAvatar": "",
+      "LblAuthor": "",
+      "LblCampaign": "",
+      "LblChapter": "",
+      "LblGameDifficulty": "",
+      "LblGameStatus": "",
+      "LblNewVersion": "",
+      "LblNoGamesFound": "",
+      "LblNumPlayers": "",
+      "LblPlayerAccess": "",
+      "LblSearching": "",
+      "SearchingIcon": ""
+    },
+    "fileDescription": "Join steam group friends game or lobby menu",
+    "fileName": "foundgroupgames.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\foundgroupgames.res"
+  },
+  "resource\\ui\\l4d360ui\\foundpublicgames.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnDownloadSelected": "",
+      "BtnInstallSupport": "",
+      "BtnJoinSelected": "",
+      "BtnWebsite": "",
+      "Divider1": "",
+      "Divider2": "",
+      "DrpCreateGame": "",
+      "DrpFilterCampaign": "",
+      "DrpFilterDifficulty": "",
+      "DrpFilterGameStatus": "",
+      "FlmFilterCampaign": "",
+      "FlmFilterDifficulty": "",
+      "FlmFilterGameStatus": "",
+      "FoundPublicGames": "",
+      "GplGames": "",
+      "IconBackArrow": "",
+      "IconForwardArrow": "",
+      "ImgBackground": "",
+      "ImgFrame": "",
+      "ImgLevelImage": "",
+      "LblAuthor": "",
+      "LblCampaign": "",
+      "LblFilters": "",
+      "LblGameDifficulty": "",
+      "LblGameStatus": "",
+      "LblGameStatus2": "",
+      "LblInstalling": "",
+      "LblInstallingDetails": "",
+      "LblNewVersion": "",
+      "LblNoGamesFound": "",
+      "LblPressX": "",
+      "LblSearching": "",
+      "LblSupportRequiredDetails": "",
+      "SearchingIcon": ""
+    },
+    "fileDescription": "Join public game or lobby menu",
+    "fileName": "foundpublicgames.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\foundpublicgames.res"
+  },
+  "resource\\ui\\l4d360ui\\gamelobby.res": {
+    "fileControls": {
+      "BtnCancelDedicatedSearch": "",
+      "BtnChangeGameSettings": "",
+      "BtnInviteFriends": "",
+      "BtnLeaveLobby": "",
+      "BtnStartGame": "",
+      "BtnVoiceButton": "",
+      "ChatBackground": "",
+      "ChatInputLine": "",
+      "DrpCharacter": "",
+      "DrpGameAccess": "",
+      "DrpInviteFriends": "",
+      "DrpVersusCharacter": "",
+      "FlmCharacterFlyout": "",
+      "FlmGameAccess": "",
+      "FlmInviteFriends": "",
+      "FlmPlayerFlyout": "",
+      "FlmPlayerFlyoutLeader": "",
+      "FlmVersusCharacterFlyout": "",
+      "GameLobby": "",
+      "GplSurvivors": "",
+      "IconBackArrow": "",
+      "IconBackArrow2": "",
+      "IconButtonVoice": "",
+      "IconCharacter": "",
+      "IconCharacterVersus": "",
+      "IconForwardArrow": "",
+      "IconFriends": "",
+      "IconPermissions": "",
+      "IconSettings": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": "",
+      "LblLeaderLine": "",
+      "LblNoLiveWarning": "",
+      "LblSummaryLine1": "",
+      "LblSummaryLine2": "",
+      "LblSummaryLine3": "",
+      "LblSummaryLine4": "",
+      "LblSummaryLine5": "",
+      "LobbyChatHistory": "",
+      "WorkingAnim": ""
+    },
+    "fileDescription": "Lobby menu",
+    "fileName": "gamelobby.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamelobby.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnStartGame": "",
+      "DrpChapter": "",
+      "DrpCharacter": "",
+      "DrpDifficulty": "",
+      "DrpMission": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmCharacterFlyout": "",
+      "FlmDifficulty": "",
+      "FlmMission": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconForwardArrow": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "Lobby settings menu",
+    "fileName": "gamesettings.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_campaigncreate.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnStartLobby": "",
+      "DrpChapter": "",
+      "DrpDifficulty": "",
+      "DrpGameAccess": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmDifficulty": "",
+      "FlmGameAccess": "",
+      "FlmMission": "",
+      "FlmMissionExtended": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "PnlImageBack": ""
+    },
+    "fileDescription": "Create campaign menu",
+    "fileName": "gamesettings_campaigncreate.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_campaigncreate.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_campaignedit.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "DrpChapter": "",
+      "DrpDifficulty": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmDifficulty": "",
+      "FlmMission": "",
+      "FlmMissionExtended": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "PnlImageBack": ""
+    },
+    "fileDescription": "Lobby settings menu",
+    "fileName": "gamesettings_campaignedit.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_campaignedit.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_campaignsearch.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnJoinAnywhere": "",
+      "BtnJoinCreate": "",
+      "BtnJoinStart": "",
+      "DrpChapter": "",
+      "DrpDifficulty": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmDifficulty": "",
+      "FlmMission": "",
+      "FlmMissionExtended": "",
+      "GameSettings": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "PnlImageBack": ""
+    },
+    "fileDescription": "Create singleplayer campaign menu",
+    "fileName": "gamesettings_campaignsearch.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_campaignsearch.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_commentary.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnStartGame": "",
+      "DrpChapter": "",
+      "DrpCharacter": "",
+      "DrpDifficulty": "",
+      "DrpMission": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmCharacterFlyout": "",
+      "FlmDifficulty": "",
+      "FlmMission": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconForwardArrow": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "Create singleplayer commentary campaign menu",
+    "fileName": "gamesettings_commentary.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_commentary.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_coopedit.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnSwitchToRealism": "",
+      "DrpChapter": "",
+      "DrpDifficulty": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmDifficulty": "",
+      "FlmMission": "",
+      "FlmMissionExtended": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconSwitchToCoop": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_coopedit.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_coopedit.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_coopsearch.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnCreateLobby": "",
+      "BtnJoinAnywhere": "",
+      "BtnJoinStart": "",
+      "DrpChapter": "",
+      "DrpDifficulty": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmDifficulty": "",
+      "FlmMission": "",
+      "FlmMissionExtended": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconForwardArrow_JoinAny": "",
+      "IconForwardArrow_JoinStart": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_coopsearch.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_coopsearch.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_holdoutcoopcreate.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnStartLobby": "",
+      "DrpChapter": "",
+      "DrpGameAccess": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmGameAccess": "",
+      "FlmMissionHoldoutCoop": "",
+      "FlmMissionHoldoutCoopExtended": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "PnlImageBack": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_holdoutcoopcreate.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_holdoutcoopcreate.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_holdoutcoopedit.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "DrpChapter": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmMissionHoldoutCoop": "",
+      "FlmMissionHoldoutCoopExtended": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "PnlImageBack": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_holdoutcoopedit.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_holdoutcoopedit.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_holdoutcoopsearch.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnJoinAnywhere": "",
+      "BtnJoinCreate": "",
+      "BtnJoinStart": "",
+      "DrpChapter": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmMissionHoldoutCoop": "",
+      "FlmMissionHoldoutCoopExtended": "",
+      "GameSettings": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "PnlImageBack": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_holdoutcoopsearch.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_holdoutcoopsearch.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_realismedit.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnSwitchToCoop": "",
+      "DrpChapter": "",
+      "DrpDifficulty": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmDifficulty": "",
+      "FlmMission": "",
+      "FlmMissionExtended": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconSwitchToCoop": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_realismedit.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_realismedit.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_realismsearch.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnCreateLobby": "",
+      "BtnJoinAnywhere": "",
+      "BtnJoinStart": "",
+      "DrpChapter": "",
+      "DrpDifficulty": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmDifficulty": "",
+      "FlmMission": "",
+      "FlmMissionExtended": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconForwardArrow_JoinAny": "",
+      "IconForwardArrow_JoinStart": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_realismsearch.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_realismsearch.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_scavengeedit.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnSwitchToVersus": "",
+      "DrpChapter": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpRoundLimit": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmMissionVersus": "",
+      "FlmMissionVersusExtended": "",
+      "FlmRoundLimit": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconSwitchToVersus": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_scavengeedit.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_scavengeedit.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_scavengesearch.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnCreateLobby": "",
+      "BtnJoinAnywhere": "",
+      "BtnJoinStart": "",
+      "DrpChapter": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmMissionScavenge": "",
+      "FlmMissionScavengeExtended": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconForwardArrow_JoinAny": "",
+      "IconForwardArrow_JoinStart": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_scavengesearch.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_scavengesearch.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_scriptededit.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "DrpChapter": "",
+      "DrpDifficulty": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmDifficulty": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_scriptededit.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_scriptededit.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_scriptedsearch.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnCreateLobby": "",
+      "BtnJoinAnywhere": "",
+      "BtnJoinStart": "",
+      "DrpChapter": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmMissionExtended": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconForwardArrow_JoinAny": "",
+      "IconForwardArrow_JoinStart": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_scriptedsearch.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_scriptedsearch.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_survivaledit.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "DrpChapter": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmMissionVersus": "",
+      "FlmMissionVersusExtended": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_survivaledit.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_survivaledit.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_survivalsearch.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnCreateLobby": "",
+      "BtnJoinAnywhere": "",
+      "BtnJoinStart": "",
+      "DrpChapter": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmMissionSurvival": "",
+      "FlmMissionSurvivalExtended": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconForwardArrow_JoinAny": "",
+      "IconForwardArrow_JoinStart": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_survivalsearch.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_survivalsearch.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_teamversuscreate.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnStartLobby": "",
+      "DrpChapter": "",
+      "DrpGameAccess": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmGameAccess": "",
+      "FlmMissionVersus": "",
+      "FlmMissionVersusExtended": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconForwardArrow": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_teamversuscreate.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_teamversuscreate.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_teamversusedit.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnSwitchToTeamScavenge": "",
+      "DrpChapter": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmMissionVersus": "",
+      "FlmMissionVersusExtended": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconSwitchToTeamScavenge": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_teamversusedit.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_teamversusedit.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_versuscreate.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnStartLobby": "",
+      "DrpChapter": "",
+      "DrpGameAccess": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmGameAccess": "",
+      "FlmMissionVersus": "",
+      "FlmMissionVersusExtended": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconForwardArrow": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_versuscreate.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_versuscreate.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_versusedit.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnSwitchToScavenge": "",
+      "DrpChapter": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "DrpServerType": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmMissionVersus": "",
+      "FlmMissionVersusExtended": "",
+      "FlmServerType": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconSwitchToScavenge": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_versusedit.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_versusedit.res"
+  },
+  "resource\\ui\\l4d360ui\\gamesettings_versussearch.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnCreateLobby": "",
+      "BtnJoinAnywhere": "",
+      "BtnJoinStart": "",
+      "DrpChapter": "",
+      "DrpMission": "",
+      "DrpMissionExtended": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmMissionVersus": "",
+      "FlmMissionVersusExtended": "",
+      "GameSettings": "",
+      "IconBackArrow": "",
+      "IconForwardArrow_JoinAny": "",
+      "IconForwardArrow_JoinStart": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": ""
+    },
+    "fileDescription": "",
+    "fileName": "gamesettings_versussearch.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\gamesettings_versussearch.res"
+  },
+  "resource\\ui\\l4d360ui\\ingamechapterselect.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnSelect": "",
+      "DrpChapter": "",
+      "DrpMission": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmMissionCoop": "",
+      "FlmMissionRealism": "",
+      "FlmMissionScavenge": "",
+      "FlmMissionSurvival": "",
+      "FlmMissionTeamScavenge": "",
+      "FlmMissionTeamVersus": "",
+      "FlmMissionVersus": "",
+      "IconBackArrow": "",
+      "IconForwardArrow": "",
+      "ImgBackground": "",
+      "ImgLevelImage": "",
+      "ImgLevelImageFrame": "",
+      "InGameChapterSelect": ""
+    },
+    "fileDescription": "Ingame voting menu campaign select",
+    "fileName": "ingamechapterselect.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\ingamechapterselect.res"
+  },
+  "resource\\ui\\l4d360ui\\ingamemainmenu.res": {
+    "fileControls": {
+      "BtnCallAVote": "",
+      "BtnExitToMainMenu": "",
+      "BtnGoIdle": "",
+      "BtnInviteFriends": "",
+      "BtnLeaderboard": "",
+      "BtnOptions": "",
+      "BtnReturnToGame": "",
+      "BtnStatsAndAchievements": "",
+      "FlmInviteFriends": "",
+      "FlmOptionsFlyout": "",
+      "FlmOptionsGuestFlyout": "",
+      "FlmVoteFlyout": "",
+      "FlmVoteFlyoutSurvival": "",
+      "FlmVoteFlyoutVersus": "",
+      "InGameMainMenu": "",
+      "PnlBackground": ""
+    },
+    "fileDescription": "Ingame menu",
+    "fileName": "ingamemainmenu.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\ingamemainmenu.res"
+  },
+  "resource\\ui\\l4d360ui\\keyboardmouse.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnEditBindings": "",
+      "DrpDeveloperConsole": "",
+      "DrpGamepadEnable": "",
+      "DrpGamepadSwapSticks": "",
+      "DrpGamepadYInvert": "",
+      "DrpMouseAcceleration": "",
+      "DrpMouseFilter": "",
+      "DrpMouseYInvert": "",
+      "DrpRawMouse": "",
+      "FlmDeveloperConsole": "",
+      "FlmGamepadEnable": "",
+      "FlmGamepadSwapSticks": "",
+      "FlmGamepadYInvert": "",
+      "FlmMouseAcceleration": "",
+      "FlmMouseFilter": "",
+      "FlmMouseYInvert": "",
+      "FlmRawMouse": "",
+      "ImgBackground": "",
+      "KeyboardMouse": "",
+      "SldGamepadHSensitivity": "",
+      "SldGamepadVSensitivity": "",
+      "SldMouseAcceleration": "",
+      "SldMouseSensitivity": ""
+    },
+    "fileDescription": "Keyboard / mouse settings menu",
+    "fileName": "keyboardmouse.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\keyboardmouse.res"
+  },
+  "resource\\ui\\l4d360ui\\leaderboard.res": {
+    "fileControls": {
+      "BtnExit": "",
+      "BtnFindServer": "",
+      "DrpChapter": "",
+      "DrpMission": "",
+      "FlmChapterXXautogenerated": "",
+      "FlmMissionSurvival": "",
+      "FlmPlayerFlyout": "",
+      "FlmPlayerFlyout_NotFriend": "",
+      "IconBackArrow": "",
+      "IconForwardArrow": "",
+      "ImgBottomDivider": "",
+      "ImgBronzeMedal": "",
+      "ImgGoldMedal": "",
+      "ImgLeftMapArrow": "",
+      "ImgLevelImage": "",
+      "ImgLevelLargeImageFrame": "",
+      "ImgRightMapArrow": "",
+      "ImgSilverMedal": "",
+      "ImgTopDivider": "",
+      "LblBronzeMedalTime": "",
+      "LblGamerTagHeader": "",
+      "LblGoldMedalTime": "",
+      "LblJumpToMe": "",
+      "LblJumpToTop": "",
+      "LblLeftTriggerIcon": "",
+      "LblMapName": "",
+      "LblNoEntriesFound": "",
+      "LblRankHeader": "",
+      "LblRightTriggerIcon": "",
+      "LblSilverMedalTime": "",
+      "LblTimeHeader": "",
+      "Leaderboard": "",
+      "PanelList": "",
+      "SearchingIcon": ""
+    },
+    "fileDescription": "Leaderbord menu",
+    "fileName": "leaderboard.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\leaderboard.res"
+  },
+  "resource\\ui\\l4d360ui\\leaderboardlistitem.res": {
+    "fileControls": {
+      "DrpPlayerName": "",
+      "ImgAward": "",
+      "ImgLocalPlayer": "",
+      "LblGamerTag": "",
+      "LblRank": "",
+      "LblTime": "",
+      "LeaderboardListItem": "",
+      "PnlGamerPic": ""
+    },
+    "fileDescription": "",
+    "fileName": "leaderboardlistitem.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\leaderboardlistitem.res"
+  },
+  "resource\\ui\\l4d360ui\\mainmenu.res": {
+    "fileControls": {
+      "BtnChangeGamers": "",
+      "BtnExtras": "",
+      "BtnGameModes": "",
+      "BtnOptions": "",
+      "BtnQuit": "",
+      "BtnStatsAndAchievements": "",
+      "FlmCampaignFlyout": "",
+      "FlmExtrasFlyout_Live": "",
+      "FlmExtrasFlyout_Simple": "",
+      "FlmOptionsFlyout": "",
+      "FlmOptionsGuestFlyout": "",
+      "FlmRealismFlyout": "",
+      "FlmScavengeFlyout": "",
+      "FlmSurvivalFlyout": "",
+      "FlmVersusFlyout": "",
+      "LblPlayer1GamerTag": "",
+      "LblPlayer2Disable": "",
+      "LblPlayer2DisableIcon": "",
+      "LblPlayer2Enable": "",
+      "LblPlayer2GamerTag": "",
+      "MainMenu": "",
+      "PnlQuickJoin": "",
+      "PnlQuickJoinGroups": ""
+    },
+    "fileDescription": "Main menu",
+    "fileName": "mainmenu.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\mainmenu.res"
+  },
+  "resource\\ui\\l4d360ui\\mainmenu_flyout_challenge1.res": {
+    "fileControls": {
+      "BtnChangeMutation": "",
+      "BtnStartGame": "",
+      "PnlBackground": ""
+    },
+    "fileDescription": "",
+    "fileName": "mainmenu_flyout_challenge1.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\mainmenu_flyout_challenge1.res"
+  },
+  "resource\\ui\\l4d360ui\\mainmenu_flyout_challenge4.res": {
+    "fileControls": {
+      "BtnChangeMutation": "",
+      "BtnPlayCoopWithAnyone": "",
+      "BtnPlayCoopWithFriends": "",
+      "BtnPlayOnGroupServer": "",
+      "BtnQuickMatch": "",
+      "PnlBackground": ""
+    },
+    "fileDescription": "",
+    "fileName": "mainmenu_flyout_challenge4.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\mainmenu_flyout_challenge4.res"
+  },
+  "resource\\ui\\l4d360ui\\mainmenu_flyout_challenge8.res": {
+    "fileControls": {
+      "BtnChangeMutation": "",
+      "BtnPlayOnGroupServer": "",
+      "BtnPlayVersusWithAnyone": "",
+      "BtnPlayVersusWithFriends": "",
+      "BtnPlayVersusWithTeam": "",
+      "BtnQuickMatch": "",
+      "PnlBackground": ""
+    },
+    "fileDescription": "",
+    "fileName": "mainmenu_flyout_challenge8.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\mainmenu_flyout_challenge8.res"
+  },
+  "resource\\ui\\l4d360ui\\multiplayer.res": {
+    "fileControls": {
+      "BtnBrowseSpraypaint": "",
+      "BtnCancel": "",
+      "DrpAllowCustomContent": "",
+      "DrpAllowFreeLook": "",
+      "DrpColorBlind": "",
+      "DrpGameInstructor": "",
+      "DrpGore": "",
+      "DrpLanGamesDiscovery": "",
+      "DrpSpraypaint": "",
+      "FlmAllowAllowFreeLook": "",
+      "FlmAllowCustomContent": "",
+      "FlmColorBlind": "",
+      "FlmGameInstructor": "",
+      "FlmGore": "",
+      "FlmMpLanGames": "",
+      "FlmSpraypaint": "",
+      "ImgBackground": "",
+      "LogoImage": "",
+      "Multiplayer": ""
+    },
+    "fileDescription": "Multiplayer settings menu",
+    "fileName": "multiplayer.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\multiplayer.res"
+  },
+  "resource\\ui\\l4d360ui\\quickjoin.res": {
+    "fileControls": {
+      "GplQuickJoinList": "",
+      "LblTitle": ""
+    },
+    "fileDescription": "",
+    "fileName": "quickjoin.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\quickjoin.res"
+  },
+  "resource\\ui\\l4d360ui\\quickjoingroups.res": {
+    "fileControls": {
+      "GplQuickJoinList": "",
+      "LblTitle": ""
+    },
+    "fileDescription": "",
+    "fileName": "quickjoingroups.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\quickjoingroups.res"
+  },
+  "resource\\ui\\l4d360ui\\quickjoinpanelitem.res": {
+    "fileControls": {
+      "LblGamerTag": "",
+      "PnlGamerPic": "",
+      "QuickJoinPanelItem": ""
+    },
+    "fileDescription": "",
+    "fileName": "quickjoinpanelitem.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\quickjoinpanelitem.res"
+  },
+  "resource\\ui\\l4d360ui\\scriptedmodelistitem.res": {
+    "fileControls": {
+      "LblMissions": "",
+      "LblName": "",
+      "ScriptedModeListItem": ""
+    },
+    "fileDescription": "Mutation menu table row",
+    "fileName": "scriptedmodelistitem.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\scriptedmodelistitem.res"
+  },
+  "resource\\ui\\l4d360ui\\scriptedmodes.res": {
+    "fileControls": {
+      "BtnCancel": "",
+      "BtnSelect": "",
+      "BtnVisitWorkshop": "",
+      "Divider1": "",
+      "Divider2": "",
+      "DrpFilterModeType": "",
+      "DrpFilterPlayers": "",
+      "FlmFilterModeType": "",
+      "FlmFilterPlayers": "",
+      "GplScriptedModes": "",
+      "IconBackArrow": "",
+      "IconForwardArrow": "",
+      "IconVisitWorkshop": "",
+      "ImgAddonIcon": "",
+      "ImgAddonIconSpinner": "",
+      "LblAuthor": "",
+      "LblDescription": "",
+      "LblFilters": "",
+      "LblMissions": "",
+      "LblName": "",
+      "LblNoModes": "",
+      "LblPlayers": "",
+      "ScriptedModes": ""
+    },
+    "fileDescription": "Mutation menu",
+    "fileName": "scriptedmodes.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\scriptedmodes.res"
+  },
+  "resource\\ui\\l4d360ui\\survivorlistitem.res": {
+    "fileControls": {
+      "DrpPlayer": "",
+      "ImgPlayerPortrait": "",
+      "LblEmptySlotAd": "",
+      "LblPlayerVoiceStatus": "",
+      "PnlGamerPic": "",
+      "SurvivorListItem": ""
+    },
+    "fileDescription": "",
+    "fileName": "survivorlistitem.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\survivorlistitem.res"
+  },
+  "resource\\ui\\l4d360ui\\this is a file.res": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "this is a file.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\this is a file.res"
+  },
+  "resource\\ui\\l4d360ui\\this is a file.txt": {
+    "fileControls": {},
+    "fileDescription": "",
+    "fileName": "this is a file.txt",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\this is a file.txt"
+  },
+  "resource\\ui\\l4d360ui\\video.res": {
+    "fileControls": {
+      "Btn3rdPartyCredits": "",
+      "BtnAdvanced": "",
+      "BtnCancel": "",
+      "BtnDone": "",
+      "BtnUseRecommended": "",
+      "DrpAntialias": "",
+      "DrpAspectRatio": "",
+      "DrpCPUDetail": "",
+      "DrpDisplayMode": "",
+      "DrpFiltering": "",
+      "DrpModelDetail": "",
+      "DrpPagedPoolMem": "",
+      "DrpQueuedMode": "",
+      "DrpResolution": "",
+      "DrpShaderDetail": "",
+      "DrpVSync": "",
+      "FlmAntialias": "",
+      "FlmAspectRatio": "",
+      "FlmCPUDetail": "",
+      "FlmDisplayMode": "",
+      "FlmFiltering": "",
+      "FlmModelDetail": "",
+      "FlmPagedPoolMem": "",
+      "FlmQueuedMode": "",
+      "FlmResolution": "",
+      "FlmShaderDetail": "",
+      "FlmVSync": "",
+      "ImgBackground": "",
+      "SldFilmGrain": "",
+      "Video": ""
+    },
+    "fileDescription": "Video settings menu",
+    "fileName": "video.res",
+    "fileRelativePath": "resource\\ui\\l4d360ui\\video.res"
+  },
+  "resource\\ui\\leavingareawarning.res": {
+    "fileControls": {
+      "Warning": ""
+    },
+    "fileDescription": "(by default red) 'Please wait for your teammates' panel that sometimes shows at the start of a map",
+    "fileName": "leavingareawarning.res",
+    "fileRelativePath": "resource\\ui\\leavingareawarning.res"
+  },
+  "resource\\ui\\minimotd.res": {
+    "fileControls": {
+      "HTMLMessage": "",
+      "info": "",
+      "MessageTitle": "",
+      "TerrorTextMessage": "",
+      "TextMessage": "",
+      "ThirdPartyServerPanel": ""
+    },
+    "fileDescription": "Tab scoreboard server mini motd",
+    "fileName": "minimotd.res",
+    "fileRelativePath": "resource\\ui\\minimotd.res"
+  },
+  "resource\\ui\\multimapversusmodescoreboard.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "CampaignRow": "",
+      "CampaignTitleLabel": "",
+      "ChapterLabel": "",
+      "CVersusModeScoreboard": "",
+      "Divider": "",
+      "multimap_vs_scoreboard": "",
+      "Row1": "",
+      "Row2": "",
+      "Row3": "",
+      "Row4": "",
+      "Row5": ""
+    },
+    "fileDescription": "Infected end of round map tally scoreboard",
+    "fileName": "multimapversusmodescoreboard.res",
+    "fileRelativePath": "resource\\ui\\multimapversusmodescoreboard.res"
+  },
+  "resource\\ui\\multimapversusmodescoreboardrow.res": {
+    "fileControls": {
+      "EnemyTeamLabel": "",
+      "EnemyTeamMeter": "",
+      "EnemyTeamValue": "",
+      "MapImage": "",
+      "MapScrim": "",
+      "MaxScoreLabel": "",
+      "MaxScoreValue": "",
+      "YourTeamLabel": "",
+      "YourTeamMeter": "",
+      "YourTeamValue": ""
+    },
+    "fileDescription": "Infected end of round map tally scoreboard row",
+    "fileName": "multimapversusmodescoreboardrow.res",
+    "fileRelativePath": "resource\\ui\\multimapversusmodescoreboardrow.res"
+  },
+  "resource\\ui\\pzendgamepanel.res": {
+    "fileControls": {
+      "BackgroundFill": "",
+      "BackgroundImage": "",
+      "EndGameTitle": "",
+      "Splatter1": "",
+      "Splatter3": "",
+      "Splatter4": "",
+      "Splatter6": "",
+      "TeamScavengeImage": "",
+      "TeamVsImage": "",
+      "VoteActive": "",
+      "VoteFailed": "",
+      "VotePassed": "",
+      "VoteWait": ""
+    },
+    "fileDescription": "Versus rematch voting hud\r\n\r\nGets shown under versus end of match scoreboard - on a black (credits) background",
+    "fileName": "pzendgamepanel.res",
+    "fileRelativePath": "resource\\ui\\pzendgamepanel.res"
+  },
+  "resource\\ui\\radialmenu.res": {
+    "fileControls": {
+      "Center": "",
+      "East": "",
+      "North": "",
+      "NorthEast": "",
+      "NorthWest": "",
+      "radialmenu": "",
+      "South": "",
+      "SouthEast": "",
+      "SouthWest": "",
+      "West": ""
+    },
+    "fileDescription": "Radial menu",
+    "fileName": "radialmenu.res",
+    "fileRelativePath": "resource\\ui\\radialmenu.res"
+  },
+  "resource\\ui\\readycountdown.res": {
+    "fileControls": {
+      "Background": "",
+      "BackgroundFill": "",
+      "Countdown": "",
+      "ready_countdown": "",
+      "Seconds_1": "",
+      "Seconds_2": ""
+    },
+    "fileDescription": "Versus/Scavenge round start timer",
+    "fileName": "readycountdown.res",
+    "fileRelativePath": "resource\\ui\\readycountdown.res"
+  },
+  "resource\\ui\\riverescapefailed.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "info_window": "",
+      "text": "",
+      "title": ""
+    },
+    "fileDescription": "Sacrifice finale escape failed - 'You must have at least two survivors to complete the finale'. Showpanel might not work until generator is started",
+    "fileName": "riverescapefailed.res",
+    "fileRelativePath": "resource\\ui\\riverescapefailed.res"
+  },
+  "resource\\ui\\riverfinalefailed.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "info_window": "",
+      "text": "",
+      "title": ""
+    },
+    "fileDescription": "Sacrifice finale failed - 'You need at least one survivor on the bridge and another to restart the last generator' Showpanel might not work until generator is started",
+    "fileName": "riverfinalefailed.res",
+    "fileRelativePath": "resource\\ui\\riverfinalefailed.res"
+  },
+  "resource\\ui\\scavengemodeembeddedscoreboard.res": {
+    "fileControls": {
+      "CenterBackgroundFill": "",
+      "CenterBackgroundImage": "",
+      "EnemyTeamLabel": "",
+      "FinalScorePanel": "",
+      "Round1Panel": "",
+      "Round2Panel": "",
+      "Round3Panel": "",
+      "Round4Panel": "",
+      "Round5Panel": "",
+      "RoundLabel": "",
+      "RoundLimitLabel": "",
+      "ScoreBackgroundImage": "",
+      "XboxIconEnemyTeam": "",
+      "XboxIconYourTeam": "",
+      "YourTeamLabel": ""
+    },
+    "fileDescription": "Tab scoreboard scavenge",
+    "fileName": "scavengemodeembeddedscoreboard.res",
+    "fileRelativePath": "resource\\ui\\scavengemodeembeddedscoreboard.res"
+  },
+  "resource\\ui\\scavengemodescoreboard.res": {
+    "fileControls": {
+      "CenterBackgroundFill": "",
+      "CenterBackgroundImage": "",
+      "EnemyTeamLabel": "",
+      "FinalScorePanel": "",
+      "Round1Panel": "",
+      "Round2Panel": "",
+      "Round3Panel": "",
+      "Round4Panel": "",
+      "Round5Panel": "",
+      "RoundInfoBackgroundFill": "",
+      "RoundInfoBackgroundImage": "",
+      "RoundInfoMessage": "",
+      "RoundLabel": "",
+      "RoundLimitLabel": "",
+      "RoundTipBackgroundFill": "",
+      "RoundTipBackgroundImage": "",
+      "RoundTipMessage": "",
+      "ScoreBackgroundImage": "",
+      "SplatterBottom": "",
+      "SplatterBottomLeft": "",
+      "SplatterTopLeft": "",
+      "SplatterTopRight": "",
+      "XboxIconEnemyTeam": "",
+      "XboxIconYourTeam": "",
+      "YourTeamLabel": ""
+    },
+    "fileDescription": "Scavenge end of round scoreboard",
+    "fileName": "scavengemodescoreboard.res",
+    "fileRelativePath": "resource\\ui\\scavengemodescoreboard.res"
+  },
+  "resource\\ui\\scavengeroundpanel.res": {
+    "fileControls": {
+      "RoundFirstTeamImage": "",
+      "RoundFirstTeamScore": "",
+      "RoundSecondTeamImage": "",
+      "RoundSecondTeamScore": ""
+    },
+    "fileDescription": "A single round entry in the scavenge scoreboard",
+    "fileName": "scavengeroundpanel.res",
+    "fileRelativePath": "resource\\ui\\scavengeroundpanel.res"
+  },
+  "resource\\ui\\scavengetiebreakerpanel.res": {
+    "fileControls": {
+      "CenterBackgroundFill": "",
+      "CenterBackgroundImage": "",
+      "EnemyTeamLabel": "",
+      "EnemyTeamTime": "",
+      "HeaderBackgroundFill": "",
+      "HeaderBackgroundImage": "",
+      "RoundInfoMessage": "TIE BREAKER",
+      "TieBreakerMethodLabel": "Time it took for the round to end",
+      "TieBreakerPanel": "",
+      "YourTeamLabel": "",
+      "YourTeamTime": ""
+    },
+    "fileDescription": "Scavenge tie breaker panel",
+    "fileName": "scavengetiebreakerpanel.res",
+    "fileRelativePath": "resource\\ui\\scavengetiebreakerpanel.res"
+  },
+  "resource\\ui\\scoreboard.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "CScavengeModeEmbeddedScoreboard": "",
+      "CurrentMap": "",
+      "CurrentMapArrow": "",
+      "CVersusModeEmbeddedScoreboard": "",
+      "GamerCardButton": "",
+      "GamerCardLabel": "",
+      "ImgBronzeMedal": "",
+      "ImgGoldMedal": "",
+      "ImgLevelLargeImage": "",
+      "ImgLevelLargeImageFrame": "",
+      "ImgSilverMedal": "",
+      "Infected1": "",
+      "Infected2": "",
+      "Infected3": "",
+      "Infected4": "",
+      "Infected5": "",
+      "InfectedBackground": "",
+      "LblBronzeMedalTime": "",
+      "LblGoldMedalTime": "",
+      "LblSilverMedalTime": "",
+      "Map1": "",
+      "Map2": "",
+      "Map3": "",
+      "Map4": "",
+      "Map5": "",
+      "MissionObjective": "",
+      "MissionTitle": "",
+      "MoveSelectionButton": "",
+      "MoveSelectionLabel": "",
+      "OpponentMap": "",
+      "RescueMap": "",
+      "RescueMapArrow": "",
+      "scores": "",
+      "ServerName": "",
+      "Spectators": "",
+      "Survivor1": "",
+      "Survivor2": "",
+      "Survivor3": "",
+      "Survivor4": "",
+      "SurvivorBackground": "",
+      "ThirdPartyServerPanel": "",
+      "VoteKickButton": "",
+      "VoteKickLabel": ""
+    },
+    "fileDescription": "Tab scoreboard",
+    "fileName": "scoreboard.res",
+    "fileRelativePath": "resource\\ui\\scoreboard.res"
+  },
+  "resource\\ui\\scoreboard.res.bak": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "scoreboard.res.bak",
+    "fileRelativePath": "resource\\ui\\scoreboard.res.bak"
+  },
+  "resource\\ui\\scoreboardinfectedplayer.res": {
+    "fileControls": {
+      "Avatar": "",
+      "Name": "",
+      "NoAvatarName": "",
+      "NoAvatarStatus": "",
+      "PingImage": "",
+      "PingLabel": "",
+      "PlayerBackground": "",
+      "PlayerBackground_Selected": "",
+      "Score": "",
+      "Status": ""
+    },
+    "fileDescription": "Tab scoreboard infected player",
+    "fileName": "scoreboardinfectedplayer.res",
+    "fileRelativePath": "resource\\ui\\scoreboardinfectedplayer.res"
+  },
+  "resource\\ui\\scoreboardsurvivor.res": {
+    "fileControls": {
+      "IconForSlot_FirstAid": "",
+      "IconForSlot_Grenade": "",
+      "IconForSlot_Pills": "",
+      "PingImage": "",
+      "PingLabel": "",
+      "PlayerBackground": "",
+      "PlayerBackground_Selected": "",
+      "SurvivorStatsAvatar": "",
+      "SurvivorStatsHead": "",
+      "SurvivorStatsHealth": "",
+      "SurvivorStatsHealthBG": "",
+      "SurvivorStatsName": "",
+      "SurvivorStatsNoAvatarName": "",
+      "SurvivorStatsNoAvatarStatus": "",
+      "SurvivorStatsStatus": "",
+      "SurvivorSurvivalRecord": "",
+      "SurvivorSurvivalRecordImage": "",
+      "Voice": ""
+    },
+    "fileDescription": "Tab scoreboard survivor player",
+    "fileName": "scoreboardsurvivor.res",
+    "fileRelativePath": "resource\\ui\\scoreboardsurvivor.res"
+  },
+  "resource\\ui\\spawnboomermenu.res": {
+    "fileControls": {
+      "ActionOneBind": "",
+      "ActionOneLabel": "",
+      "ActionPrimaryLabel": "",
+      "ActionSecondaryLabel": "",
+      "ActionTwoBind": "",
+      "ActionTwoLabel": "",
+      "Background": "",
+      "BackgroundFill": "",
+      "BackgroundImage": "",
+      "ContinueBind": "",
+      "ContinueLabel": "",
+      "InfectedClass": "",
+      "MeleeFrame": "",
+      "MeleeIcon": "",
+      "PrimaryFrame": "",
+      "PrimaryIcon": "",
+      "spawn_boomer": "",
+      "Splatter1": "",
+      "Splatter2": "",
+      "Splatter3": "",
+      "Splatter4": "",
+      "Splatter5": "",
+      "Splatter6": ""
+    },
+    "fileDescription": "L4D1 Infected boomer spawning tutorial panel",
+    "fileName": "spawnboomermenu.res",
+    "fileRelativePath": "resource\\ui\\spawnboomermenu.res"
+  },
+  "resource\\ui\\spawnhuntermenu.res": {
+    "fileControls": {
+      "ActionOneBind": "",
+      "ActionOneLabel": "",
+      "ActionPrimaryLabel": "",
+      "ActionSecondaryLabel": "",
+      "ActionTwoBind": "",
+      "ActionTwoLabel": "",
+      "Background": "",
+      "BackgroundFill": "",
+      "BackgroundImage": "",
+      "ContinueBind": "",
+      "ContinueLabel": "",
+      "InfectedClass": "",
+      "MeleeFrame": "",
+      "MeleeIcon": "",
+      "PrimaryFrame": "",
+      "PrimaryIcon": "",
+      "spawn_hunter": "",
+      "Splatter1": "",
+      "Splatter2": "",
+      "Splatter3": "",
+      "Splatter4": "",
+      "Splatter5": "",
+      "Splatter6": ""
+    },
+    "fileDescription": "L4D1 Infected hunter spawning tutorial panel",
+    "fileName": "spawnhuntermenu.res",
+    "fileRelativePath": "resource\\ui\\spawnhuntermenu.res"
+  },
+  "resource\\ui\\spawnmodemenu.res": {
+    "fileControls": {
+      "Background": "",
+      "BackgroundFill": "",
+      "BackgroundImage": "",
+      "ContinueBind": "",
+      "ContinueLabel": "",
+      "ModeTitle": "",
+      "spawnmode": "",
+      "SpawnModeOneText": "",
+      "Splatter1": "",
+      "Splatter3": "",
+      "Splatter4": "",
+      "Splatter6": ""
+    },
+    "fileDescription": "L4D2 Infected spawning tutorial panel",
+    "fileName": "spawnmodemenu.res",
+    "fileRelativePath": "resource\\ui\\spawnmodemenu.res"
+  },
+  "resource\\ui\\spawnsmokermenu.res": {
+    "fileControls": {
+      "ActionOneBind": "",
+      "ActionOneLabel": "",
+      "ActionPrimaryLabel": "",
+      "ActionSecondaryLabel": "",
+      "ActionTwoBind": "",
+      "ActionTwoLabel": "",
+      "Background": "",
+      "BackgroundFill": "",
+      "BackgroundImage": "",
+      "ContinueBind": "",
+      "ContinueLabel": "",
+      "InfectedClass": "",
+      "MeleeFrame": "",
+      "MeleeIcon": "",
+      "PrimaryFrame": "",
+      "PrimaryIcon": "",
+      "spawn_smoker": "",
+      "Splatter1": "",
+      "Splatter2": "",
+      "Splatter3": "",
+      "Splatter4": "",
+      "Splatter5": "",
+      "Splatter6": ""
+    },
+    "fileDescription": "L4D1 Infected smoker spawning tutorial panel",
+    "fileName": "spawnsmokermenu.res",
+    "fileRelativePath": "resource\\ui\\spawnsmokermenu.res"
+  },
+  "resource\\ui\\spectator.res": {
+    "fileControls": {
+      "bottombar": "",
+      "playerlabel": "",
+      "RescueMessage": "",
+      "specgui": "",
+      "topbar": ""
+    },
+    "fileDescription": "Spectator hud while spectating, idle or before joining game. Survivor head overlay font: TargetID",
+    "fileName": "spectator.res",
+    "fileRelativePath": "resource\\ui\\spectator.res"
+  },
+  "resource\\ui\\spectatorinfected.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "Countdown": "",
+      "death": "",
+      "InfectedState": "You will enter spawn mode in X seconds",
+      "playerlabel": "",
+      "Seconds_1": "",
+      "Seconds_2": "",
+      "SpawnModeLabel": "'You are dead'",
+      "specgui": ""
+    },
+    "fileDescription": "Spectator infected hud while dead",
+    "fileName": "spectatorinfected.res",
+    "fileRelativePath": "resource\\ui\\spectatorinfected.res"
+  },
+  "resource\\ui\\spectatorsurvivor.res": {
+    "fileControls": {
+      "death": "",
+      "DeathMessage": "",
+      "FooterBackground": "",
+      "HeaderBackground": "",
+      "InfoIcon": "",
+      "InfoIconBackground": "",
+      "playerlabel": "",
+      "RescueMessage": "The survivors have been overwhelmed",
+      "SkullIcon": "",
+      "specgui": "",
+      "TipText": ""
+    },
+    "fileDescription": "Spectator survivor hud while dead",
+    "fileName": "spectatorsurvivor.res",
+    "fileRelativePath": "resource\\ui\\spectatorsurvivor.res"
+  },
+  "resource\\ui\\survivalmodescoreboard.res": {
+    "fileControls": {
+      "BoomerKillsDigits": "",
+      "BoomerKillsLabel": "",
+      "ChargerKillsDigits": "",
+      "ChargersKillsLabel": "",
+      "CommonKillsDigits": "",
+      "CommonKillsLabel": "",
+      "FinalTimeDigits": "",
+      "FinalTimeLabel": "",
+      "GamerCardButton": "",
+      "GamerCardLabel": "",
+      "HunterKillsDigits": "",
+      "HunterKillsLabel": "",
+      "JockeyKillsDigits": "",
+      "JockeyKillsLabel": "",
+      "KillsHeader": "",
+      "PlayersColumnLabel": "",
+      "SmokerKillsDigits": "",
+      "SmokerKillsLabel": "",
+      "SpitterKillsDigits": "",
+      "SpitterKillsLabel": "",
+      "Survivor1Entry": "",
+      "Survivor2Entry": "",
+      "Survivor3Entry": "",
+      "Survivor4Entry": "",
+      "TankKillsDigits": "",
+      "TankKillsLabel": "",
+      "TimeColumnLabel": "",
+      "TitleBackgroundImage": ""
+    },
+    "fileDescription": "Survival end of round scoreboard",
+    "fileName": "survivalmodescoreboard.res",
+    "fileRelativePath": "resource\\ui\\survivalmodescoreboard.res"
+  },
+  "resource\\ui\\survivalmodescoreboardentry.res": {
+    "fileControls": {
+      "SurvivorAvatar": "",
+      "SurvivorMedal": "",
+      "SurvivorName": "",
+      "SurvivorTime": ""
+    },
+    "fileDescription": "Survival end of round scoreboard row",
+    "fileName": "survivalmodescoreboardentry.res",
+    "fileRelativePath": "resource\\ui\\survivalmodescoreboardentry.res"
+  },
+  "resource\\ui\\survivalmodeshutdown.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "ModeTitle": "",
+      "SpawnModeOneText": "",
+      "survival_shutting_down": ""
+    },
+    "fileDescription": "Survival server shutting down",
+    "fileName": "survivalmodeshutdown.res",
+    "fileRelativePath": "resource\\ui\\survivalmodeshutdown.res"
+  },
+  "resource\\ui\\takeoversurvivorbar.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "FireBind": "",
+      "FireMessage": "",
+      "SpectatorTitle": "",
+      "takeover_survivor_bar": ""
+    },
+    "fileDescription": "Spectator takeover survivor player after coming out of spectate. 1. spectate 2.' jointeam 2' or 'chooseteam'\r\n\r\n'FireMessage' and 'FireBind' have hardcoded 'xpos'. Create custom controls and position them",
+    "fileName": "takeoversurvivorbar.res",
+    "fileRelativePath": "resource\\ui\\takeoversurvivorbar.res"
+  },
+  "resource\\ui\\teammenu.res": {
+    "fileControls": {
+      "BackgroundFill": "",
+      "BackgroundImage": "",
+      "Cancel": "",
+      "FullTitle": "",
+      "InfectedBackground": "",
+      "InfectedButton": "",
+      "InfectedFullBackground": "",
+      "InfectedFullLabel": "",
+      "NoSwitchLabel": "",
+      "NoSwitchTitle": "",
+      "Splatter1": "",
+      "Splatter3": "",
+      "Splatter4": "",
+      "Splatter6": "",
+      "SurvivorBackground": "",
+      "SurvivorButton": "",
+      "SurvivorFullBackground": "",
+      "SurvivorFullLabel": "",
+      "team": ""
+    },
+    "fileDescription": "'ChooseTeam' Choose team menu. select which side to join, survivors/infected. Usefull cvar: 'vs_max_team_switches'. Usually when coming from spectator. \r\nClientscheme\r\n'Cancel' button borders: 'Button', 'RoundedButton'\r\nFont: 'Default', though can be overwritten with 'font' property",
+    "fileName": "teammenu.res",
+    "fileRelativePath": "resource\\ui\\teammenu.res"
+  },
+  "resource\\ui\\textwindow.res": {
+    "fileControls": {
+      "HTMLMessage": "",
+      "info": "",
+      "JoinSteamGroup": "",
+      "L4Dok": "",
+      "MessageTitle": "",
+      "NewsKeyBind": "",
+      "ok": "",
+      "TerrorTextMessage": "",
+      "TextMessage": "",
+      "ThirdPartyServerPanel": ""
+    },
+    "fileDescription": "",
+    "fileName": "textwindow.res",
+    "fileRelativePath": "resource\\ui\\textwindow.res"
+  },
+  "resource\\ui\\thirdpartyserverpanel.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "HostnameLabel": "",
+      "HTMLMessage": "",
+      "PlayerCountAmount": "",
+      "PlayerCountLabel": "",
+      "RankAmount": "",
+      "RankLabel": "",
+      "ServerTitle": "",
+      "TerrorTextMessage": ""
+    },
+    "fileDescription": "",
+    "fileName": "thirdpartyserverpanel.res",
+    "fileRelativePath": "resource\\ui\\thirdpartyserverpanel.res"
+  },
+  "resource\\ui\\transitionstatssurvivor.res": {
+    "fileControls": {
+      "CheckpointCleared": "",
+      "ClockIcon": "",
+      "CVersusModeResults": "",
+      "FooterBackground": "",
+      "FooterBorder": "",
+      "HeaderBackground": "",
+      "HeaderBorder": "",
+      "LoadingText": "",
+      "NextMap": "",
+      "SurvivorHighlightStatsPanel": "",
+      "TipPanel": "",
+      "transition_stats": "",
+      "WorkingAnim": ""
+    },
+    "fileDescription": "Coop end of round score screen",
+    "fileName": "transitionstatssurvivor.res",
+    "fileRelativePath": "resource\\ui\\transitionstatssurvivor.res"
+  },
+  "resource\\ui\\transitionstatssurvivorhighlight.res": {
+    "fileControls": {
+      "BackgroundFill": "",
+      "BackgroundImage": "",
+      "DividerHorizontal": "",
+      "DividerVertical": "",
+      "Splatter1": "",
+      "Splatter2": "",
+      "Splatter3": "",
+      "Splatter4": "",
+      "Splatter5": "",
+      "Splatter6": "",
+      "Survivor1Avatar": "",
+      "Survivor1Background": "",
+      "Survivor1Name": "",
+      "Survivor1Name_NoAvatar": "",
+      "Survivor1Score": "",
+      "Survivor1SteamAvatar": "",
+      "Survivor2Avatar": "",
+      "Survivor2Background": "",
+      "Survivor2Name": "",
+      "Survivor2Name_NoAvatar": "",
+      "Survivor2Score": "",
+      "Survivor2SteamAvatar": "",
+      "Survivor3Avatar": "",
+      "Survivor3Background": "",
+      "Survivor3Name": "",
+      "Survivor3Name_NoAvatar": "",
+      "Survivor3Score": "",
+      "Survivor3SteamAvatar": "",
+      "Survivor4Avatar": "",
+      "Survivor4Background": "",
+      "Survivor4Name": "",
+      "Survivor4Name_NoAvatar": "",
+      "Survivor4Score": "",
+      "Survivor4SteamAvatar": "",
+      "SurvivorStatsCategoryImage": "",
+      "SurvivorStatsSubTitle": "",
+      "SurvivorStatsTitle": ""
+    },
+    "fileDescription": "Coop end of round score screen stats table",
+    "fileName": "transitionstatssurvivorhighlight.res",
+    "fileRelativePath": "resource\\ui\\transitionstatssurvivorhighlight.res"
+  },
+  "resource\\ui\\transitionstatssurvivorplayer.res": {
+    "fileControls": {
+      "PingImage": "",
+      "PingLabel": "",
+      "SurvivorStatsAvatar": "",
+      "SurvivorStatsHead": "",
+      "SurvivorStatsHealth": "",
+      "SurvivorStatsItems": "",
+      "SurvivorStatsName": "",
+      "SurvivorStatsNoAvatarName": "",
+      "SurvivorStatsNoAvatarStatus": "",
+      "SurvivorStatsStatus": "",
+      "Voice": ""
+    },
+    "fileDescription": "",
+    "fileName": "transitionstatssurvivorplayer.res",
+    "fileRelativePath": "resource\\ui\\transitionstatssurvivorplayer.res"
+  },
+  "resource\\ui\\transitionstatssurvivorteam.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "Biker": "",
+      "Manager": "",
+      "NamVet": "",
+      "PerformanceLabel": "",
+      "RatingStars": "",
+      "TeenGirl": ""
+    },
+    "fileDescription": "",
+    "fileName": "transitionstatssurvivorteam.res",
+    "fileRelativePath": "resource\\ui\\transitionstatssurvivorteam.res"
+  },
+  "resource\\ui\\versusmodeembeddedscoreboard.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "CompletionAmountLabel": "",
+      "CompletionLabel": "",
+      "CompletionProgressBar": "",
+      "EnemyTeamBackground": "",
+      "TeamEnemy": "",
+      "TeamEnemyScoreSurvivors": "",
+      "TeamImage": "",
+      "TeamYours": "",
+      "TeamYourScoreSurvivors": "",
+      "TotalScoreEnemyTeam": "",
+      "TotalScoreYourTeam": "",
+      "XboxIconEnemyTeam": "",
+      "XboxIconYourTeam": "",
+      "YourTeamBackground": ""
+    },
+    "fileDescription": "Tab scoreboard versus",
+    "fileName": "versusmodeembeddedscoreboard.res",
+    "fileRelativePath": "resource\\ui\\versusmodeembeddedscoreboard.res"
+  },
+  "resource\\ui\\versusmoderesults.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "EnemyTeamHighlightImage": "",
+      "ModeTitle": "",
+      "StatBreakdownHighlightImage": "",
+      "TeamEnemy": "",
+      "TeamEnemyScoreSurvivors": "",
+      "TeamFlipExplanationLabel": "",
+      "TeamWinLabel": "",
+      "TeamYours": "",
+      "TeamYourScoreSurvivors": "",
+      "YourTeamHighlightImage": ""
+    },
+    "fileDescription": "Versus scoreboard end of match",
+    "fileName": "versusmoderesults.res",
+    "fileRelativePath": "resource\\ui\\versusmoderesults.res"
+  },
+  "resource\\ui\\versusmodescoreboard.res": {
+    "fileControls": {
+      "Background": "",
+      "BackgroundImageLeft": "",
+      "BackgroundImageRight": "",
+      "BackgroundImageTitle": "",
+      "CampaignScore_Enemy": "",
+      "CampaignScore_Enemy_Score": "",
+      "CampaignScore_Yours": "",
+      "CampaignScore_Yours_Score": "",
+      "CampaignScoreBackgroundImageLeft": "",
+      "CampaignScoreBackgroundImageRight": "",
+      "LeftScorePanel": "",
+      "ModeTitle": "",
+      "RightScorePanel": "",
+      "TeamEnemy": "",
+      "TeamYours": "",
+      "TieBreakerPanel": "",
+      "XboxIconEnemyTeam": "",
+      "XboxIconYourTeam": ""
+    },
+    "fileDescription": "Versus scoreboard end of round",
+    "fileName": "versusmodescoreboard.res",
+    "fileRelativePath": "resource\\ui\\versusmodescoreboard.res"
+  },
+  "resource\\ui\\versusmodescoreboard_survivor.res": {
+    "fileControls": {
+      "Category_Chapter": "",
+      "Category_Chapter_Score": "",
+      "Category_Completion": "",
+      "Category_Completion_Score": "",
+      "Category_DefibPenalty": "",
+      "Category_DefibPenalty_Score": "",
+      "Category_SurvivalBonus": "",
+      "Category_SurvivalBonus_Score": "",
+      "CompletionProgressBar": "",
+      "DividerHorizontal": "",
+      "TeamImage": ""
+    },
+    "fileDescription": "",
+    "fileName": "versusmodescoreboard_survivor.res",
+    "fileRelativePath": "resource\\ui\\versusmodescoreboard_survivor.res"
+  },
+  "resource\\ui\\versusmodescoreboard_tiebreak.res": {
+    "fileControls": {
+      "CenterBackgroundFill": "",
+      "CenterBackgroundImage": "",
+      "EnemyTeamBonus": "",
+      "EnemyTeamDamage": "",
+      "EnemyTeamLabel": "",
+      "HeaderBackgroundFill": "",
+      "HeaderBackgroundImage": "",
+      "RoundInfoMessage": "",
+      "TieBreakerMethodLabel": "",
+      "YourTeamBonus": "",
+      "YourTeamDamage": "",
+      "YourTeamLabel": ""
+    },
+    "fileDescription": "",
+    "fileName": "versusmodescoreboard_tiebreak.res",
+    "fileRelativePath": "resource\\ui\\versusmodescoreboard_tiebreak.res"
+  },
+  "resource\\ui\\vsmodeshutdown.res": {
+    "fileControls": {
+      "BackgroundImage": "",
+      "ModeTitle": "",
+      "SpawnModeOneText": "",
+      "vs_shutting_down": ""
+    },
+    "fileDescription": "Versus / Scavenge server shutdown",
+    "fileName": "vsmodeshutdown.res",
+    "fileRelativePath": "resource\\ui\\vsmodeshutdown.res"
+  },
+  "resource\\ui\\zombiepanel.res": {
+    "fileControls": {
+      "TankTakeover": "",
+      "TooFarFromSurvivors": ""
+    },
+    "fileDescription": "Tank approaching / Too far from Survivors",
+    "fileName": "zombiepanel.res",
+    "fileRelativePath": "resource\\ui\\zombiepanel.res"
+  },
+  "scripts\\hudanimations.txt": {
+    "fileControls": {
+      "": ""
+    },
+    "fileDescription": "Defines some hud animations such as the item pickup icons though most are hard coded\r\n\r\n---Confirmed working:\r\nMisc:\r\n- 'PulsePickedUpWeaponSlot'\r\n\r\nItems:\r\n- 'StartItemPickup1', 2 and 3\r\n- 'CleanupItemPickup'\r\n\r\nVoting:\r\n- 'PulseYesVote'\r\n- 'PulseNoVote'\r\n- 'HideVoteBackgrounds'",
+    "fileName": "hudanimations.txt",
+    "fileRelativePath": "scripts\\hudanimations.txt"
+  },
+  "scripts\\hudlayout.res": {
+    "fileControls": {
+      "BuildableCostPanel": "Progressbar looking panel. Unused but does show during hud_reloadscheme with lower host_timescale. Can be moved offscreen",
+      "CBudgetPanel": "",
+      "CHudAbilityTimer": "Infected local player ability cooldown timer",
+      "CHudLocalPlayerDisplay": "Local player health hud section",
+      "CHudSurvivorTeamStatus": "",
+      "CHudTeamDisplay": "Survivor teammate panels",
+      "CHudTeamMateInPerilNotice": "",
+      "CHudVote": "Vote hud",
+      "CHudZombieTeamDisplay": "Infected teammate panels",
+      "CItemPickupPanel": "",
+      "CTextureBudgetPanel": "",
+      "CVProfPanel": "",
+      "HudAccount": "",
+      "HudAnimationInfo": "",
+      "HudAnnouncement": "",
+      "HudArmor": "",
+      "HudBiofeedback": "",
+      "HudBlood": "",
+      "HudC4": "",
+      "HudChat": "",
+      "HudCloseCaption": "Closed captions",
+      "HudCommentary": "",
+      "HudCredits": "",
+      "HudCrosshair": "Infected crosshair properties",
+      "HudDamageIndicator": "",
+      "HudDeathNotice": "",
+      "HudDefuser": "",
+      "HudFinaleMeter": "'Rescue countdown' Unused panel but does show during hud_reloadscheme with lower host_timescale. Can be moved offscreen",
+      "HudFlashbang": "",
+      "HudFlashlight": "",
+      "HudFrustrationMeter": "Tank frustration meter",
+      "HudGeiger": "",
+      "HudGhostPanel": "",
+      "HudHDRDemo": "",
+      "HudHintDisplay": "Game instructor. But is hard coded. Font: InstructorTitle",
+      "HudHintKeyDisplay": "Game instructor. But is hard coded. Font: InstructorTitle",
+      "HudHistoryResource": "",
+      "HudHoldoutTimer": "Survival round timer",
+      "HudHostageRescueZone": "",
+      "HudInfectedVOIP": "",
+      "HudIntensityGraph": "'Build_up' survivor meter Unused panel but does show during hud_reloadscheme with lower host_timescale. Can be moved offscreen",
+      "HudLeavingAreaWarning": "(by default red) 'Please wait for your teammates' panel that sometimes shows at the start of a map",
+      "HudMenu": "",
+      "HudMessage": "",
+      "HudMessagePanel": "",
+      "HudMOTD": "",
+      "HudPredictionDump": "",
+      "HudProgressBar": "Progress bar. Healing/being healed, starting generator etc",
+      "HudPZDamageRecord": "Kill feed eg: Player X killed smoker",
+      "HUDQuickInfo": "",
+      "HudRoundTimer": "",
+      "HudScavengeProgress": "Scavenge gascan hud",
+      "HudScavengeTimer": "Scavenge round timer",
+      "HudScenarioIcon": "",
+      "HudScope": "",
+      "HudShoppingCart": "",
+      "HudSuit": "",
+      "HudSurvivalTimer": "Survival round timer",
+      "HudTerritory": "",
+      "HudTrain": "",
+      "HudVehicle": "",
+      "HudVoiceSelfStatus": "Local player voice chat icon",
+      "HudVoiceStatus": "",
+      "HudWeapon": "",
+      "HudWeaponSelection": "",
+      "HudZombieHealth": "Local player infected health section",
+      "HudZombiePanel": "Infected Tank approaching / Too far from Survivors",
+      "HudZoom": "Sniper zoom hud. Unused since its now hardcoded but does show during hud_reloadscheme with lower host_timescale. Can be moved offscreen",
+      "overview": "",
+      "PlayerLabel": "",
+      "PZEndGamePanel": "Infected rematch voting hud",
+      "ScorePanel": "",
+      "StatsCrawl": "",
+      "TargetID": "",
+      "TerritorySCore": ""
+    },
+    "fileDescription": "Defines the positions of a variety of hud controls\r\n\r\n\r\n\r\n this is a test",
+    "fileName": "hudlayout.res",
+    "fileRelativePath": "scripts\\hudlayout.res"
+  },
+  "scripts\\instructor_lessons.txt": {
+    "fileControls": "",
+    "fileDescription": "Game instructor hints definitions file",
+    "fileName": "instructor_lessons.txt",
+    "fileRelativePath": "scripts\\instructor_lessons.txt"
+  },
+  "scripts\\mod_textures.txt": {
+    "fileControls": {
+      "": ""
+    },
+    "fileDescription": "Game icon definitions. Eg: game instructor icons",
+    "fileName": "mod_textures.txt",
+    "fileRelativePath": "scripts\\mod_textures.txt"
+  },
+  "scripts\\stats_crawl.txt": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "stats_crawl.txt",
+    "fileRelativePath": "scripts\\stats_crawl.txt"
+  },
+  "todo": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "todo",
+    "fileRelativePath": "todo"
+  },
+  "todo postponed": {
+    "fileControls": "",
+    "fileDescription": "",
+    "fileName": "todo postponed",
+    "fileRelativePath": "todo postponed"
+  }
+}

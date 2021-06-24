@@ -1,0 +1,1 @@
+bug -> reopen menu on reload needs to activate the game to send keystrokes, then reactivate the last active window

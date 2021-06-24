@@ -1,0 +1,643 @@
+
+	"Resource/UI/ScoreBoard.res"
+	{
+		"scores"
+		{
+			"ControlName"		"CClientScoreBoardDialog"
+			"fieldName"		"scores"
+			"xpos"		"0"
+			"ypos"		"42"
+			"wide"		"f0"
+			"tall"		"480"
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"0"
+			"enabled"		"1"
+			"tabPosition"		"0"
+			"scoreboard_position"	"north-west"
+			infected_avatar_size		"24"
+			infected_name_width			"110"
+			infected_status_width		"30"
+			infected_score_width		"30"
+			infected_death_width		"30"
+			infected_ping_width			"30"
+		}
+		"BackgroundImage" [$WIN32]
+		{
+			"ControlName"	"Panel"
+			"fieldName"		"BackgroundImage"
+			"xpos"			"10"
+			"ypos"			"10"
+			"zpos"			"0"
+			"wide"			"263" [$ENGLISH]
+			"tall"			"191"
+			"visible"		"1"
+			"enabled"		"1"
+			"bgcolor_override"	"0 0 0 220"
+		}
+		"SurvivorBackground"
+		{
+			"ControlName"	"Panel"
+			"fieldName"		"SurvivorBackground"
+			"xpos"			"10"
+			"ypos"			"c-127"
+			"wide"			"263"
+			"tall"			"102"
+			"visible"		"0"
+			"enabled"		"0"
+			"scaleImage"			"1"
+			"bgcolor_override"		"0 0 0 150"
+			"zpos"					"-2"
+		}
+		"ServerName"
+		{
+			"ControlName"		"Label"
+			"fieldName"		"ServerName"
+			"xpos"		"20"
+			"ypos"		"10"
+			"wide"		"330"
+			"tall"		"24"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"0"
+			"enabled"		"1"
+			"labelText"		""
+			"textAlignment"		"north-west"
+			"dulltext"		"0"
+			"brighttext"	"1"
+			"font"		"FrameTitle"
+			"fgcolor_override" "White"
+		}
+		"MissionTitle"
+		{
+			"ControlName"		"Label"
+			"fieldName"		"MissionTitle"
+			"xpos"		"10" [$WIN32]
+			"ypos"		"13" [$WIN32]
+			"wide"		"263" [$ENGLISH]
+			"wide"		"263" [!$ENGLISH]
+			"tall"		"30"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"labelText"		""
+			"textAlignment"		"center"
+			"dulltext"		"0"
+			"brighttext"	"1"
+			"font"		"ink_bold_24"
+		}
+		"MissionObjective"
+		{
+			"ControlName"		"Label"
+			"fieldName"		"MissionObjective"
+			"xpos"		"20000"	[$WIN32]
+			"wide"		"330"
+			"tall"		"24"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"labelText"		""
+			"textAlignment"		"north-west"
+			"dulltext"		"0"
+			"brighttext"	"1"
+			"font"		"Default"
+			"fgcolor_override" "MediumGray"
+			"wrap"			"1"
+			"usetitlesafe"	"1" [$WIN32]
+		}
+		"ImgGoldMedal"
+		{
+			"ControlName"					"ImagePanel"
+			"fieldName"						"ImgGoldMedal"
+			"xpos"							"32"	[$WIN32]
+			"ypos"							"47"	[$WIN32]
+			"zpos"							"2"
+			"wide"							"20"
+			"tall"							"20"
+			"pinCorner"						"0"
+			"visible"						"1"
+			"enabled"						"1"
+			"tabPosition"					"0"
+			"image"							"hud/survival_medal_gold"
+			"scaleImage"					"1"
+		}
+		"LblGoldMedalTime"
+		{
+			"ControlName"					"Label"
+			"fieldName"						"LblGoldMedalTime"
+			"xpos"							"53"	[$WIN32]
+			"ypos"							"47"	[$WIN32]
+			"wide"							"50"
+			"tall"							"20"
+			"zpos"							"2"
+			"autoResize"					"0"
+			"pinCorner"						"0"
+			"visible"						"1"
+			"enabled"						"1"
+			"tabPosition"					"0"
+			"labelText"						"0:00"
+			"textAlignment"					"west"
+			"Font"							"Default"
+		}
+		"ImgSilverMedal"
+		{
+			"ControlName"					"ImagePanel"
+			"fieldName"						"ImgSilverMedal"
+			"xpos"							"32"	[$WIN32]
+			"ypos"							"62"	[$WIN32]
+			"zpos"							"2"
+			"wide"							"20"
+			"tall"							"20"
+			"pinCorner"						"0"
+			"visible"						"1"
+			"enabled"						"1"
+			"tabPosition"					"0"
+			"image"							"hud/survival_medal_silver"
+			"scaleImage"					"1"
+		}
+		"LblSilverMedalTime"
+		{
+			"ControlName"					"Label"
+			"fieldName"						"LblSilverMedalTime"
+			"xpos"							"53"	[$WIN32]
+			"ypos"							"62"	[$WIN32]
+			"wide"							"50"
+			"tall"							"20"
+			"zpos"							"2"
+			"autoResize"					"0"
+			"pinCorner"						"0"
+			"visible"						"1"
+			"enabled"						"1"
+			"tabPosition"					"0"
+			"labelText"						"0:00"
+			"textAlignment"					"west"
+			"Font"							"Default"
+		}
+		"ImgBronzeMedal"
+		{
+			"ControlName"					"ImagePanel"
+			"fieldName"						"ImgBronzeMedal"
+			"xpos"							"32"	[$WIN32]
+			"ypos"							"77"	[$WIN32]
+			"zpos"							"2"
+			"wide"							"20"
+			"tall"							"20"
+			"pinCorner"						"0"
+			"visible"						"1"
+			"enabled"						"1"
+			"tabPosition"					"0"
+			"image"							"hud/survival_medal_bronze"
+			"scaleImage"					"1"
+		}
+		"LblBronzeMedalTime"
+		{
+			"ControlName"					"Label"
+			"fieldName"						"LblBronzeMedalTime"
+			"xpos"							"53"	[$WIN32]
+			"ypos"							"77"	[$WIN32]
+			"wide"							"50"
+			"tall"							"20"
+			"zpos"							"2"
+			"autoResize"					"0"
+			"pinCorner"						"0"
+			"visible"						"1"
+			"enabled"						"1"
+			"tabPosition"					"0"
+			"labelText"						"0:00"
+			"textAlignment"					"west"
+			"Font"							"Default"
+		}
+		"ImgLevelLargeImage"
+		{
+			"ControlName"			"ImagePanel"
+			"fieldName"				"ImgLevelLargeImage"
+			"xpos"					"102"	[$WIN32]
+			"ypos"					"42"	[$WIN32]
+			"wide"					"130"	[$WIN32]
+			"tall"					"65"	[$WIN32]
+			"scaleImage"			"1"
+			"pinCorner"				"0"
+			"visible"				"0"
+			"enabled"				"1"
+			"tabPosition"			"0"
+			"image"					"maps/any"
+			"scaleImage"			"1"
+		}
+		"ImgLevelLargeImageFrame"
+		{
+			"ControlName"			"ImagePanel"
+			"fieldName"				"ImgLevelLargeImageFrame"
+			"xpos"					"99999"	[$WIN32]
+			"ypos"					"48"	[$WIN32]
+			"wide"					"202"	[$WIN32]
+			"tall"					"98"	[$WIN32]
+			"scaleImage"			"1"
+			"pinCorner"				"0"
+			"visible"				"1"
+			"enabled"				"1"
+			"tabPosition"			"0"
+			"image"					"campaignFrame"
+			"scaleImage"			"1"
+		}
+		"Map1"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"Map1"
+			"xpos"			"10" [$WIN32]
+			"ypos"			"c-183" [$WIN32]
+			"wide"			"51"
+			"tall"			"27"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"PaintBackgroundType"	"0"
+			"fillcolor_override"	"DarkGray"
+			"usetitlesafe"	"1" [$WIN32]
+		}
+		"Map2"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"Map2"
+			"xpos"			"63" [$WIN32]
+			"ypos"			"c-183" [$WIN32]
+			"wide"			"51"
+			"tall"			"27"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"PaintBackgroundType"	"0"
+			"fillcolor_override"	"DarkGray"
+			"usetitlesafe"	"1" [$WIN32]
+		}
+		"Map3"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"Map3"
+			"xpos"			"116" [$WIN32]
+			"ypos"			"c-183" [$WIN32]
+			"wide"			"51"
+			"tall"			"27"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"PaintBackgroundType"	"0"
+			"fillcolor_override"	"DarkGray"
+			"usetitlesafe"	"1" [$WIN32]
+		}
+		"Map4"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"Map4"
+			"xpos"			"169" [$WIN32]
+			"ypos"			"c-183" [$WIN32]
+			"wide"			"51"
+			"tall"			"27"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"PaintBackgroundType"	"0"
+			"fillcolor_override"	"DarkGray"
+			"usetitlesafe"	"1" [$WIN32]
+		}
+		"Map5"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"Map5"
+			"xpos"			"222" [$WIN32]
+			"ypos"			"c-183" [$WIN32]
+			"wide"			"51"
+			"tall"			"27"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"PaintBackgroundType"	"0"
+			"fillcolor_override"	"DarkGray"
+			"usetitlesafe"	"1" [$WIN32]
+		}
+		"CurrentMap"
+		{
+			"ControlName"		"Label"
+			"fieldName"		"CurrentMap"
+			"xpos"			"368"
+			"ypos"			"67999"
+			"wide"			"90"
+			"tall"			"24"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"0"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"PaintBackgroundType"	"0"
+			"textAlignment"		"center"
+			"dulltext"			"0"
+			"brighttext"		"1"
+			"font"				"DefaultDropShadow"
+			"labelText"			"Playing"
+			"centerwrap"		"1"
+		}
+		"CurrentMapArrow"
+		{
+			"ControlName"		"Label"
+			"fieldName"		"CurrentMapArrow"
+			"xpos"			"368"
+			"ypos"			"77"
+			"wide"			"60"
+			"tall"			"12"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"PaintBackgroundType"	"0"
+			"textAlignment"		"center"
+			"dulltext"			"0"
+			"brighttext"		"1"
+			"font"				"GameUIButtons"
+			"labelText"			"r"
+			"zpos"				"599"
+			"fgcolor_override" 		"White"
+		}
+		"OpponentMap"
+		{
+			"ControlName"		"Label"
+			"fieldName"		"OpponentMap"
+			"xpos"			"368"
+			"ypos"			"60"
+			"wide"			"60"
+			"tall"			"0"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"0"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"PaintBackgroundType"	"0"
+			"textAlignment"		"center"
+			"dulltext"		"0"
+			"brighttext"	"1"
+			"font"			"DefaultDropShadow"
+			"labelText"		"#L4D_Scoreboard_Opponent_Map"
+			"centerwrap"	"1"
+		}
+		"RescueMap"
+		{
+			"ControlName"		"Label"
+			"fieldName"		"RescueMap"
+			"xpos"			"368"
+			"ypos"			"84"
+			"wide"			"83"
+			"tall"			"12"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"0"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"PaintBackgroundType"	"0"
+			"textAlignment"		"center"
+			"dulltext"		"0"
+			"brighttext"	"1"
+			"font"			"DefaultDropShadow"
+			"labelText"		"#L4D_Scoreboard_Rescue_Map"
+		}
+		"RescueMapArrow"
+		{
+			"ControlName"		"Label"
+			"fieldName"		"RescueMapArrow"
+			"xpos"			"368"
+			"ypos"			"60999"
+			"wide"			"60"
+			"tall"			"12"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"0"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"PaintBackgroundType"	"0"
+			"textAlignment"			"center"
+			"dulltext"				"0"
+			"brighttext"			"1"
+			"font"					"GameUIButtons"
+			"labelText"				"r"
+			"fgcolor_override" 		"White"
+		}
+		"Survivor1"
+		{
+			"ControlName"	"DontAutoCreate"
+			"fieldName"		"Survivor1"
+			"xpos"			"6"
+			"ypos"			"c-156"
+			"zpos"			"1"
+			"wide"			"267"
+			"tall"			"51"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"autoresize"	"0"
+			"usetitlesafe"	"1"
+		}
+		"Survivor2"
+		{
+			"ControlName"	"DontAutoCreate"
+			"fieldName"		"Survivor2"
+			"xpos"			"6"
+			"ypos"			"c-134"
+			"zpos"			"1"
+			"wide"			"267"
+			"tall"			"51"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"autoresize"	"0"
+			"usetitlesafe"	"1"
+		}
+		"Survivor3"
+		{
+			"ControlName"	"DontAutoCreate"
+			"fieldName"		"Survivor3"
+			"xpos"			"6"
+			"ypos"			"c-112"
+			"zpos"			"1"
+			"wide"			"267"
+			"tall"			"51"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"autoresize"	"0"
+			"usetitlesafe"	"1"
+		}
+		"Survivor4"
+		{
+			"ControlName"	"DontAutoCreate"
+			"fieldName"		"Survivor3"
+			"xpos"			"6"
+			"ypos"			"c-90"
+			"zpos"			"1"
+			"wide"			"267"
+			"tall"			"51"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"autoresize"	"0"
+			"usetitlesafe"	"1"
+		}
+		"Infected1"
+		{
+			"ControlName"	"DontAutoCreate"
+			"fieldName"		"Infected1"
+			"xpos"			"10"
+			"ypos"			"c-53"
+			"zpos"			"1"
+			"wide"			"263"
+			"tall"			"50"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"autoresize"	"0"
+			"usetitlesafe"	"1"
+		}
+		"Infected2"
+		{
+			"ControlName"	"DontAutoCreate"
+			"fieldName"		"Infected2"
+			"xpos"			"10"
+			"ypos"			"c-33"
+			"zpos"			"1"
+			"wide"			"263"
+			"tall"			"50"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"autoresize"	"0"
+			"usetitlesafe"	"1"
+			"bgcolor_override" "black"
+		}
+		"Infected3"
+		{
+			"ControlName"	"DontAutoCreate"
+			"fieldName"		"Infected3"
+			"xpos"			"10"
+			"ypos"			"c-13"
+			"zpos"			"1"
+			"wide"			"263"
+			"tall"			"50"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"autoresize"	"0"
+			"usetitlesafe"	"1"
+		}
+		"Infected4"
+		{
+			"ControlName"	"DontAutoCreate"
+			"fieldName"		"Infected4"
+			"xpos"			"10"
+			"ypos"			"c7"
+			"zpos"			"1"
+			"wide"			"263"
+			"tall"			"50"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"autoresize"	"0"
+			"usetitlesafe"	"1"
+		}
+		"infected5"
+		{
+			"ControlName"	"DontAutoCreate"
+			"fieldName"		"infected5"
+			"xpos"			"10"
+			"ypos"			"c27"
+			"zpos"			"1"
+			"wide"			"263"
+			"tall"			"50"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"autoresize"	"0"
+			"usetitlesafe"	"1"
+		}
+		"Spectators"
+		{
+			"ControlName"		"Label"
+			"fieldName"			"Spectators"
+			"font"				"ink_10"
+			"labelText"			"%SPECTATORS%"
+			"textAlignment"		"west"
+			"xpos"				"10"
+			"ypos"				"c-246"
+			"zpos"				"1"
+			"wide"				"424"	[$WIN32]
+			"tall"				"20"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"1"
+			"usetitlesafe"		"1"
+			"noshortcutsyntax" "1"
+		}
+		"CVersusModeEmbeddedScoreboard"
+		{
+			"ControlName"	"CVersusModeEmbeddedScoreboard"
+			"fieldName"		"VersusModeScoreboard"
+			"xpos"			"10" [$WIN32]
+			"ypos"			"c-228"    [$WIN32]
+			"wide"			"354"
+			"tall"			"140"
+			"visible"		"1"
+			"enabled"		"1"
+			"usetitlesafe"	"1"
+		}
+		"CScavengeModeEmbeddedScoreboard"
+		{
+			"ControlName"	"CScavengeModeEmbeddedScoreboard"
+			"fieldName"		"ScavengeModeScoreboard"
+			"xpos"			"10" [$WIN32]
+			"ypos"			"c-250"    [$WIN32]
+			"wide"			"354"
+			"tall"			"140"
+			"visible"		"1"
+			"enabled"		"1"
+			"usetitlesafe"	"1"
+		}
+		"ThirdPartyServerPanel"
+		{
+			"ControlName"	"CThirdPartyServerPanel"
+			"fieldName"		"ThirdPartyServerPanel"
+			"xpos"			"272"
+			"ypos"			"-4"
+			"wide"			"300"
+			"tall"			"130"
+			"visible"		"1"		[$WIN32]
+			"visible"		"0"	    [$X360]
+			"enabled"		"1"
+		}
+	}

@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	addonSteamAppID		"500"
+	addonversion		"0.0"
+	addontitle			"HUD Editor Template"
+	addonauthor			"HUD Editor"
+	addontagline		"GUI"
+	addonDescription	"Template Addon Description"
+}

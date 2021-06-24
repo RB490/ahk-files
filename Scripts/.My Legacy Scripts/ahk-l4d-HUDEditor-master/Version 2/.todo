@@ -1,0 +1,48 @@
+problem -> i feel the code as of right now has become too cluttered
+
+bug -> not sure how to reproduce but addoninfo/addonimage.jpg tends to remain in the dev folder
+    also sits in the 'backupDir' even though they obviously shouldnt
+
+testing -> use the program in various ways
+    modify an existing hud
+    create a new hud
+    any amount of more stuff
+
+feature -> hud template(s)
+    addonimage/addoninfo file, hudlayout.res and the teampanel stuff. possibly the tab menu aswell
+
+feature ->  a 'showoff' hud, or multiple huds to switch to to view certain tricks eg:
+    move a bunch of different background panels onto the main screen
+    with border, without border. with/without transparency or whatever
+    and have these available to switch to from the SwitchtoHud menu. but not the main menu
+    making them work for both games with the same file would be a big bonus
+    also copy the hud into a_temp before loading it to prevent changes being made
+    or apply read-only
+    also add addonimage
+
+visual improvement -> add icons to (some) editor menu options
+    do (some of) the main menu options but not their submenus. eg: Debug>Give/Switch Team
+
+feature -> about + readme -> create readme file that is used in the about gui & readme
+    add gif of updating hudlayout.res then the game hud changing
+    recommend using vscode workspace with the valve .kv support extension
+    explain generally how the program works
+        creates separate 'hud editing' game version
+        copies hud folder files into game folder, restoring the default ones afterwards
+    commands
+        can't send commands to the game in the main menu homescreen, use mouse click coords
+        use the correct 'reload' mode depending on hud & main menu otherwise commands don't work
+
+refactor -> every file, goal:
+    create classes for certain 'function groups' like text editor / 'setinfofor'?
+    (almost) no duplicate code
+    short class methods/functions that only perform one task
+    descriptive names for variables/classes/functions etc.
+    in general decently structured code that is easy to read and understand
+
+feature idea -> custom map with some usefull features (all of this so far could be done with commands, pretty much)
+    room with different solid coloured walls/floor/ceiling eg. black/white
+    all weapons & items
+    ^ not doing this right now because
+        the added value is low and fuck the hammer editor
+        would need separate maps for l4d 1 & 2
