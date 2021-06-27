@@ -2,7 +2,8 @@
 Class ClassDropTable {
     
     /*
-        param <input>       = {integer} number of drop going through all tables
+        param <input>       = {integer} number of drop going through all of the mobs drop tables top to bottom
+                                used by OnMouseClick function to retrieve drop info from log gui
         returns             = {object} found drop information
     */
     GetDrop(input) {

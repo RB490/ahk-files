@@ -1,6 +1,6 @@
 {
-  "guiLogX": 901,
-  "guiLogY": 634,
+  "guiLogX": 716,
+  "guiLogY": 368,
   "guiStatsH": 400,
   "guiStatsW": 570,
   "guiStatsX": 477,
@@ -9,9 +9,9 @@
   "logGuiDropSize": "33",
   "logGuiItemImageType": "Wiki Detailed",
   "logGuiMaxRowDrops": "8",
-  "logGuiTablesMergeBelowX": "20",
+  "logGuiTablesMergeBelowX": "8",
   "selectedLogFile": "D:\\Downloads\\log.json",
-  "selectedMob": "Fire Giant",
+  "selectedMob": "Vorkath",
   "selectedMobs": {
     "Fire Giant": "",
     "Goblin": "",
