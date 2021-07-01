@@ -30,8 +30,8 @@ Setup() {
 
 ValidateSettings() {
     defaultSettings := {}
-    defaultSettings.guiLogX := ""
-    defaultSettings.guiLogY := ""
+    defaultSettings.guiLog_X := ""
+    defaultSettings.guiLog_Y := ""
     defaultSettings.guiStatsX := ""
     defaultSettings.guiStatsY := ""
     defaultSettings.guiStatsW := 570
@@ -51,13 +51,13 @@ ValidateSettings() {
             DB_SETTINGS[defaultSetting] := defaultSettings[defaultSetting]
     }
 
-    If (DB_SETTINGS.logGuiDropSize < MIN_DROP_SIZE) or (DB_SETTINGS.logGuiDropSize > MAX_DROP_SIZE)
+    If (DB_SETTINGS.logGuiDropSize < GUI_LOG_MIN_DROP_SIZE) or (DB_SETTINGS.logGuiDropSize > GUI_LOG_MAX_DROP_SIZE)
         DB_SETTINGS.logGuiDropSize := 33 ; 33 is close to ingame inventory
     
-    If (DB_SETTINGS.logGuiMaxRowDrops < MIN_ROW_LENGTH) or (DB_SETTINGS.logGuiMaxRowDrops > MAX_ROW_LENGTH)
+    If (DB_SETTINGS.logGuiMaxRowDrops < GUI_LOG_MIN_ROW_LENGTH) or (DB_SETTINGS.logGuiMaxRowDrops > GUI_LOG_MAX_ROW_LENGTH)
         DB_SETTINGS.logGuiMaxRowDrops := 8
 
-    If (DB_SETTINGS.logGuiTablesMergeBelowX < MIN_TABLE_SIZE)
+    If (DB_SETTINGS.logGuiTablesMergeBelowX < GUI_LOG_MIN_TABLE_SIZE)
         DB_SETTINGS.logGuiTablesMergeBelowX := 27 ; 27 = rdt
 
     If (guiStatsW < 140)

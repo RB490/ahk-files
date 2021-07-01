@@ -1,9 +1,9 @@
 class ClassGuiQuantity extends gui {
     /*
-        param   'obj'           = {object}
-                'obj'.name      = item name eg. 'Abyssal Whip'
-                'obj'.quantity  = a single quantity divided by '-' eg. '500-900'
-                                  or multiple quantities separated by '#' eg. '250#500-749#500-999'
+        param   'obj'               = {object}
+                'obj'.name          = item name eg. 'Abyssal Whip'
+                'obj'.quantity      = a single quantity divided by '-' eg. '500-900'
+                                      or multiple quantities separated by '#' eg. '250#500-749#500-999'
         returns {object}
                 {object}.name       = {string} input 'obj'.name
                 {object}.high       = {integer} highest integer
